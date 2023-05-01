@@ -1,0 +1,278 @@
+95.21231055259705
+autsheep_01_20221007082249.jpg
+autsheep_01_20221007165111.jpg
+autsheep_01_20221007161308.jpg
+94.71432566642761
+autsheep_01_20221008124001.jpg
+autsheep_01_20221008071328.jpg
+autsheep_01_20221008092128.jpg
+92.62491464614868
+autsheep_01_20221009144816.jpg
+autsheep_01_20221009113636.jpg
+autsheep_01_20221009153829.jpg
+94.40078735351562
+autsheep_01_20221010115747.jpg
+autsheep_01_20221010072327.jpg
+autsheep_01_20221010070735.jpg
+90.43334722518921
+autsheep_01_20221011082047.jpg
+autsheep_01_20221011065022.jpg
+autsheep_01_20221011083400.jpg
+90.07427096366882
+autsheep_01_20221011082047.jpg
+autsheep_01_20221011065022.jpg
+autsheep_01_20221011083400.jpg
+92.73606538772583
+autsheep_01_20221011082047.jpg
+autsheep_01_20221011070112.jpg
+autsheep_01_20221011083400.jpg
+92.1583354473114
+autsheep_01_20221012070028.jpg
+autsheep_01_20221012093849.jpg
+autsheep_01_20221012070303.jpg
+93.23598146438599
+autsheep_01_20221012101938.jpg
+autsheep_01_20221012070202.jpg
+autsheep_01_20221012070303.jpg
+93.26432347297668
+autsheep_01_20221012101938.jpg
+autsheep_01_20221012114324.jpg
+autsheep_01_20221012070303.jpg
+79.0835976600647
+autsheep_01_20221013072520.jpg
+autsheep_01_20221013093312.jpg
+autsheep_01_20221013064211.jpg
+79.0835976600647
+autsheep_01_20221013072520.jpg
+autsheep_01_20221013093312.jpg
+autsheep_01_20221013064211.jpg
+80.10644912719727
+autsheep_01_20221013072520.jpg
+autsheep_01_20221013082440.jpg
+autsheep_01_20221013064211.jpg
+92.31229424476624
+autsheep_01_20221014084239.jpg
+autsheep_01_20221014074613.jpg
+autsheep_01_20221014075242.jpg
+92.43271350860596
+autsheep_01_20221014084239.jpg
+autsheep_01_20221014083907.jpg
+autsheep_01_20221014075242.jpg
+91.91926717758179
+autsheep_01_20221014164834.jpg
+autsheep_01_20221014072053.jpg
+autsheep_01_20221014075242.jpg
+97.11999297142029
+autsheep_01_20221015074439.jpg
+autsheep_01_20221015084657.jpg
+autsheep_01_20221015082210.jpg
+97.28031754493713
+autsheep_01_20221015074439.jpg
+autsheep_01_20221015074641.jpg
+autsheep_01_20221015082210.jpg
+97.3469078540802
+autsheep_01_20221015074439.jpg
+autsheep_01_20221015084657.jpg
+autsheep_01_20221015082210.jpg
+93.85659694671631
+autsheep_01_20221016095642.jpg
+autsheep_01_20221016064755.jpg
+autsheep_01_20221016094801.jpg
+96.03434801101685
+autsheep_01_20221016095642.jpg
+autsheep_01_20221016094904.jpg
+autsheep_01_20221016094801.jpg
+96.56749963760376
+autsheep_01_20221016095642.jpg
+autsheep_01_20221016084512.jpg
+autsheep_01_20221016094801.jpg
+58.89309644699097
+autsheep_01_20221017063824.jpg
+autsheep_01_20221017072738.jpg
+autsheep_01_20221017063723.jpg
+81.24143481254578
+autsheep_01_20221017114640.jpg
+autsheep_01_20221017063616.jpg
+autsheep_01_20221017063233.jpg
+84.55694317817688
+autsheep_01_20221017114206.jpg
+autsheep_01_20221017114911.jpg
+autsheep_01_20221017145353.jpg
+84.55694317817688
+autsheep_01_20221017114539.jpg
+autsheep_01_20221017063339.jpg
+autsheep_01_20221017133133.jpg
+92.84316301345825
+autsheep_01_20221018094601.jpg
+autsheep_01_20221018095908.jpg
+autsheep_01_20221018094243.jpg
+85.82651019096375
+autsheep_01_20221018095030.jpg
+autsheep_01_20221018085933.jpg
+autsheep_01_20221018083832.jpg
+88.68265151977539
+autsheep_01_20221018165908.jpg
+autsheep_01_20221018113818.jpg
+autsheep_01_20221018155253.jpg
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/21/'
+autsheep_01_20221021060957.jpg
+autsheep_01_20221021064645.jpg
+autsheep_01_20221021095451.jpg
+autsheep_01_20221021065123.jpg
+autsheep_01_20221021065047.jpg
+autsheep_01_20220912182436.jpg
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/22/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/22/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/22/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/23/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/23/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/23/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/24/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/24/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/24/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/25/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/25/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/25/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/26/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/26/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/26/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/27/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/27/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/27/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/28/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/28/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/28/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/29/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/29/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/29/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/30/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/30/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/30/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/31/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/31/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/10/31/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/01/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/01/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/01/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/02/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/02/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/02/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2022/11/03/'
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/Notification/mail.py", line 71, in <module>
+    filelist = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kauricone/TeamSheep/ObjectDetection/detectron_images/2023/04/06/'

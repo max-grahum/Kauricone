@@ -1,0 +1,1886 @@
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 159
+Using sublist: ['autsheep_01_20221007090853.jpg', 'autsheep_01_20221007150431.jpg', 'autsheep_01_20221007065835.jpg', 'autsheep_01_20221007122019.jpg', 'autsheep_01_20221007165716.jpg', 'autsheep_01_20221007163832.jpg', 'autsheep_01_20221007065936.jpg', 'autsheep_01_20221007122842.jpg', 'autsheep_01_20221007164141.jpg', 'autsheep_01_20221007070036.jpg', 'autsheep_01_20221007163527.jpg', 'autsheep_01_20221007162528.jpg', 'autsheep_01_20221007151137.jpg', 'autsheep_01_20221007094917.jpg', 'autsheep_01_20221007165817.jpg', 'autsheep_01_20221007084742.jpg', 'autsheep_01_20221007084412.jpg', 'autsheep_01_20221007161802.jpg', 'autsheep_01_20221007070627.jpg', 'autsheep_01_20221007082319.jpg', 'autsheep_01_20221007095721.jpg', 'autsheep_01_20221007114547.jpg', 'autsheep_01_20221007161653.jpg', 'autsheep_01_20221007161308.jpg', 'autsheep_01_20221007083127.jpg', 'autsheep_01_20221007084945.jpg', 'autsheep_01_20221007122912.jpg', 'autsheep_01_20221007124108.jpg', 'autsheep_01_20221007065704.jpg', 'autsheep_01_20221007064948.jpg', 'autsheep_01_20221007080709.jpg', 'autsheep_01_20221007161150.jpg', 'autsheep_01_20221007082249.jpg', 'autsheep_01_20221007083415.jpg', 'autsheep_01_20221007114330.jpg', 'autsheep_01_20221007090739.jpg', 'autsheep_01_20221007070550.jpg', 'autsheep_01_20221007161600.jpg', 'autsheep_01_20221007065634.jpg', 'autsheep_01_20221007151209.jpg', 'autsheep_01_20221007122741.jpg', 'autsheep_01_20221007155834.jpg', 'autsheep_01_20221007165111.jpg', 'autsheep_01_20221007122511.jpg', 'autsheep_01_20221007084512.jpg', 'autsheep_01_20221007081617.jpg', 'autsheep_01_20221007162933.jpg', 'autsheep_01_20221007082148.jpg', 'autsheep_01_20221007100302.jpg', 'autsheep_01_20221007150556.jpg']
+
+ Processing images.
+autsheep_01_20221007090853.jpg  DONE! | 0:00:35.741784
+autsheep_01_20221007150431.jpg  DONE! | 0:00:35.681327
+autsheep_01_20221007065835.jpg  DONE! | 0:00:35.524185
+autsheep_01_20221007122019.jpg  DONE! | 0:00:35.825540
+autsheep_01_20221007165716.jpg  DONE! | 0:00:35.456781
+autsheep_01_20221007163832.jpg  DONE! | 0:00:35.474485
+autsheep_01_20221007065936.jpg  DONE! | 0:00:35.791049
+autsheep_01_20221007122842.jpg  DONE! | 0:00:35.551208
+autsheep_01_20221007164141.jpg  DONE! | 0:00:35.782567
+autsheep_01_20221007070036.jpg  DONE! | 0:00:36.017575
+autsheep_01_20221007163527.jpg  DONE! | 0:00:35.972270
+autsheep_01_20221007162528.jpg  DONE! | 0:00:35.895134
+autsheep_01_20221007151137.jpg  DONE! | 0:00:35.975328
+autsheep_01_20221007094917.jpg  DONE! | 0:00:35.910594
+autsheep_01_20221007165817.jpg  DONE! | 0:00:35.999246
+autsheep_01_20221007084742.jpg  DONE! | 0:00:35.664610
+autsheep_01_20221007084412.jpg  DONE! | 0:00:35.947962
+autsheep_01_20221007161802.jpg  DONE! | 0:00:35.875031
+autsheep_01_20221007070627.jpg  DONE! | 0:00:35.670974
+autsheep_01_20221007082319.jpg  DONE! | 0:00:35.926360
+autsheep_01_20221007095721.jpg  DONE! | 0:00:36.226952
+autsheep_01_20221007114547.jpg  DONE! | 0:00:36.513950
+autsheep_01_20221007161653.jpg  DONE! | 0:00:36.331430
+autsheep_01_20221007161308.jpg  DONE! | 0:00:35.809027
+autsheep_01_20221007083127.jpg  DONE! | 0:00:36.009409
+autsheep_01_20221007084945.jpg  DONE! | 0:00:36.127827
+autsheep_01_20221007122912.jpg  DONE! | 0:00:35.855885
+autsheep_01_20221007124108.jpg  DONE! | 0:00:35.903436
+autsheep_01_20221007065704.jpg  DONE! | 0:00:35.713214
+autsheep_01_20221007064948.jpg  DONE! | 0:00:36.053541
+autsheep_01_20221007080709.jpg  DONE! | 0:00:35.781377
+autsheep_01_20221007161150.jpg  DONE! | 0:00:35.723854
+autsheep_01_20221007082249.jpg  DONE! | 0:00:35.565663
+autsheep_01_20221007083415.jpg  DONE! | 0:00:35.775252
+autsheep_01_20221007114330.jpg  DONE! | 0:00:35.818907
+autsheep_01_20221007090739.jpg  DONE! | 0:00:36.224760
+autsheep_01_20221007070550.jpg  DONE! | 0:00:35.726772
+autsheep_01_20221007161600.jpg  DONE! | 0:00:36.082541
+autsheep_01_20221007065634.jpg  DONE! | 0:00:35.947337
+autsheep_01_20221007151209.jpg  DONE! | 0:00:35.947534
+autsheep_01_20221007122741.jpg  DONE! | 0:00:35.955573
+autsheep_01_20221007155834.jpg  DONE! | 0:00:36.278229
+autsheep_01_20221007165111.jpg  DONE! | 0:00:35.933565
+autsheep_01_20221007122511.jpg  DONE! | 0:00:35.711196
+autsheep_01_20221007084512.jpg  DONE! | 0:00:36.245612
+autsheep_01_20221007081617.jpg  DONE! | 0:00:36.185120
+autsheep_01_20221007162933.jpg  DONE! | 0:00:35.919576
+autsheep_01_20221007082148.jpg  DONE! | 0:00:35.954511
+autsheep_01_20221007100302.jpg  DONE! | 0:00:35.786602
+autsheep_01_20221007150556.jpg  DONE! | 0:00:36.157276
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 112
+Using sublist: ['autsheep_01_20221008092528.jpg', 'autsheep_01_20221008070120.jpg', 'autsheep_01_20221008082810.jpg', 'autsheep_01_20221008091717.jpg', 'autsheep_01_20221008105654.jpg', 'autsheep_01_20221008092629.jpg', 'autsheep_01_20221008070917.jpg', 'autsheep_01_20221008161916.jpg', 'autsheep_01_20221008114456.jpg', 'autsheep_01_20221008070201.jpg', 'autsheep_01_20221008085142.jpg', 'autsheep_01_20221008092558.jpg', 'autsheep_01_20221008092246.jpg', 'autsheep_01_20221008084927.jpg', 'autsheep_01_20221008092128.jpg', 'autsheep_01_20221008070050.jpg', 'autsheep_01_20221008083714.jpg', 'autsheep_01_20221008124402.jpg', 'autsheep_01_20221008083750.jpg', 'autsheep_01_20221008124001.jpg', 'autsheep_01_20221008085344.jpg', 'autsheep_01_20221008093043.jpg', 'autsheep_01_20221008090005.jpg', 'autsheep_01_20221008084647.jpg', 'autsheep_01_20221008085313.jpg', 'autsheep_01_20221008082634.jpg', 'autsheep_01_20221008145813.jpg', 'autsheep_01_20221008091942.jpg', 'autsheep_01_20221008084426.jpg', 'autsheep_01_20221008090852.jpg', 'autsheep_01_20221008085741.jpg', 'autsheep_01_20221008090502.jpg', 'autsheep_01_20221008094727.jpg', 'autsheep_01_20221008154135.jpg', 'autsheep_01_20221008090252.jpg', 'autsheep_01_20221008083815.jpg', 'autsheep_01_20221008071141.jpg', 'autsheep_01_20221008092027.jpg', 'autsheep_01_20221008141713.jpg', 'autsheep_01_20221008083453.jpg', 'autsheep_01_20221008082951.jpg', 'autsheep_01_20221008065657.jpg', 'autsheep_01_20221008141558.jpg', 'autsheep_01_20221008080327.jpg', 'autsheep_01_20221008092942.jpg', 'autsheep_01_20221008071328.jpg', 'autsheep_01_20221008092912.jpg', 'autsheep_01_20221008140748.jpg', 'autsheep_01_20221008145736.jpg', 'autsheep_01_20221008071718.jpg']
+
+ Processing images.
+autsheep_01_20221008092528.jpg  DONE! | 0:00:36.112237
+autsheep_01_20221008070120.jpg  DONE! | 0:00:35.422134
+autsheep_01_20221008082810.jpg  DONE! | 0:00:35.603942
+autsheep_01_20221008091717.jpg  DONE! | 0:00:35.979707
+autsheep_01_20221008105654.jpg  DONE! | 0:00:36.120627
+autsheep_01_20221008092629.jpg  DONE! | 0:00:35.720423
+autsheep_01_20221008070917.jpg  DONE! | 0:00:35.668301
+autsheep_01_20221008161916.jpg  DONE! | 0:00:35.653839
+autsheep_01_20221008114456.jpg  DONE! | 0:00:35.589431
+autsheep_01_20221008070201.jpg  DONE! | 0:00:35.572834
+autsheep_01_20221008085142.jpg  DONE! | 0:00:35.630601
+autsheep_01_20221008092558.jpg  DONE! | 0:00:35.934340
+autsheep_01_20221008092246.jpg  DONE! | 0:00:35.822340
+autsheep_01_20221008084927.jpg  DONE! | 0:00:35.763547
+autsheep_01_20221008092128.jpg  DONE! | 0:00:35.943078
+autsheep_01_20221008070050.jpg  DONE! | 0:00:36.183215
+autsheep_01_20221008083714.jpg  DONE! | 0:00:36.172219
+autsheep_01_20221008124402.jpg  DONE! | 0:00:35.854327
+autsheep_01_20221008083750.jpg  DONE! | 0:00:36.009261
+autsheep_01_20221008124001.jpg  DONE! | 0:00:36.038336
+autsheep_01_20221008085344.jpg  DONE! | 0:00:36.396530
+autsheep_01_20221008093043.jpg  DONE! | 0:00:36.078284
+autsheep_01_20221008090005.jpg  DONE! | 0:00:35.838084
+autsheep_01_20221008084647.jpg  DONE! | 0:00:36.050456
+autsheep_01_20221008085313.jpg  DONE! | 0:00:35.848974
+autsheep_01_20221008082634.jpg  DONE! | 0:00:36.139599
+autsheep_01_20221008145813.jpg  DONE! | 0:00:35.899236
+autsheep_01_20221008091942.jpg  DONE! | 0:00:35.958962
+autsheep_01_20221008084426.jpg  DONE! | 0:00:35.862445
+autsheep_01_20221008090852.jpg  DONE! | 0:00:36.570621
+autsheep_01_20221008085741.jpg  DONE! | 0:00:36.157112
+autsheep_01_20221008090502.jpg  DONE! | 0:00:36.054918
+autsheep_01_20221008094727.jpg  DONE! | 0:00:36.123253
+autsheep_01_20221008154135.jpg  DONE! | 0:00:36.094352
+autsheep_01_20221008090252.jpg  DONE! | 0:00:36.583597
+autsheep_01_20221008083815.jpg  DONE! | 0:00:36.335476
+autsheep_01_20221008071141.jpg  DONE! | 0:00:36.633689
+autsheep_01_20221008092027.jpg  DONE! | 0:00:36.612772
+autsheep_01_20221008141713.jpg  DONE! | 0:00:36.663860
+autsheep_01_20221008083453.jpg  DONE! | 0:00:35.990144
+autsheep_01_20221008082951.jpg  DONE! | 0:00:36.298344
+autsheep_01_20221008065657.jpg  DONE! | 0:00:36.318456
+autsheep_01_20221008141558.jpg  DONE! | 0:00:36.269484
+autsheep_01_20221008080327.jpg  DONE! | 0:00:36.512536
+autsheep_01_20221008092942.jpg  DONE! | 0:00:36.264861
+autsheep_01_20221008071328.jpg  DONE! | 0:00:35.915469
+autsheep_01_20221008092912.jpg  DONE! | 0:00:35.821156
+autsheep_01_20221008140748.jpg  DONE! | 0:00:35.855073
+autsheep_01_20221008145736.jpg  DONE! | 0:00:35.952318
+autsheep_01_20221008071718.jpg  DONE! | 0:00:36.210813
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 65
+Using sublist: ['autsheep_01_20221009165034.jpg', 'autsheep_01_20221009064238.jpg', 'autsheep_01_20221009082216.jpg', 'autsheep_01_20221009153829.jpg', 'autsheep_01_20221009144500.jpg', 'autsheep_01_20221009081836.jpg', 'autsheep_01_20221009114151.jpg', 'autsheep_01_20221009120746.jpg', 'autsheep_01_20221009144816.jpg', 'autsheep_01_20221009141222.jpg', 'autsheep_01_20221009113636.jpg', 'autsheep_01_20221009140619.jpg', 'autsheep_01_20221009113921.jpg', 'autsheep_01_20221009142052.jpg', 'autsheep_01_20221009082345.jpg', 'autsheep_01_20221009164617.jpg', 'autsheep_01_20221009153910.jpg', 'autsheep_01_20221009143704.jpg', 'autsheep_01_20221009064353.jpg', 'autsheep_01_20221009081652.jpg', 'autsheep_01_20221009141443.jpg', 'autsheep_01_20221009125216.jpg', 'autsheep_01_20221009081558.jpg', '.listing', 'autsheep_01_20221009133203.jpg', 'autsheep_01_20221009132641.jpg', 'autsheep_01_20221009092432.jpg', 'autsheep_01_20221009082132.jpg', 'autsheep_01_20221009082651.jpg', 'autsheep_01_20221009165009.jpg', 'autsheep_01_20221009140541.jpg', 'autsheep_01_20221009070737.jpg', 'autsheep_01_20221009141930.jpg', 'autsheep_01_20221009142211.jpg', 'autsheep_01_20221009134746.jpg', 'autsheep_01_20221009074435.jpg', 'autsheep_01_20221009142241.jpg', 'autsheep_01_20221009164119.jpg', 'autsheep_01_20221009121456.jpg', 'autsheep_01_20221009142442.jpg', 'autsheep_01_20221009100402.jpg', 'autsheep_01_20221009142311.jpg', 'autsheep_01_20221009135701.jpg', 'autsheep_01_20221009165238.jpg', 'autsheep_01_20221009064206.jpg', 'autsheep_01_20221009122834.jpg', 'autsheep_01_20221009064136.jpg', 'autsheep_01_20221009120556.jpg', 'autsheep_01_20221009111328.jpg', 'autsheep_01_20221009120415.jpg']
+
+ Processing images.
+autsheep_01_20221009165034.jpg  DONE! | 0:00:35.979232
+autsheep_01_20221009064238.jpg  DONE! | 0:00:35.487259
+autsheep_01_20221009082216.jpg  DONE! | 0:00:35.615298
+autsheep_01_20221009153829.jpg  DONE! | 0:00:35.246771
+autsheep_01_20221009144500.jpg  DONE! | 0:00:35.452460
+autsheep_01_20221009081836.jpg  DONE! | 0:00:35.570257
+autsheep_01_20221009114151.jpg  DONE! | 0:00:35.581125
+autsheep_01_20221009120746.jpg  DONE! | 0:00:35.705222
+autsheep_01_20221009144816.jpg  DONE! | 0:00:35.862458
+autsheep_01_20221009141222.jpg  DONE! | 0:00:35.806426
+autsheep_01_20221009113636.jpg  DONE! | 0:00:36.111508
+autsheep_01_20221009140619.jpg  DONE! | 0:00:35.813534
+autsheep_01_20221009113921.jpg  DONE! | 0:00:36.031905
+autsheep_01_20221009142052.jpg  DONE! | 0:00:36.183871
+autsheep_01_20221009082345.jpg  DONE! | 0:00:36.098008
+autsheep_01_20221009164617.jpg  DONE! | 0:00:35.834644
+autsheep_01_20221009153910.jpg  DONE! | 0:00:35.655938
+autsheep_01_20221009143704.jpg  DONE! | 0:00:36.128368
+autsheep_01_20221009064353.jpg  DONE! | 0:00:35.874653
+autsheep_01_20221009081652.jpg  DONE! | 0:00:35.988295
+autsheep_01_20221009141443.jpg  DONE! | 0:00:36.059390
+autsheep_01_20221009125216.jpg  DONE! | 0:00:35.745298
+autsheep_01_20221009081558.jpg  DONE! | 0:00:35.955715
+autsheep_01_20221009133203.jpg  DONE! | 0:00:36.003266
+autsheep_01_20221009132641.jpg  DONE! | 0:00:35.996527
+autsheep_01_20221009092432.jpg  DONE! | 0:00:36.519569
+autsheep_01_20221009082132.jpg  DONE! | 0:00:35.997637
+autsheep_01_20221009082651.jpg  DONE! | 0:00:36.328894
+autsheep_01_20221009165009.jpg  DONE! | 0:00:36.415276
+autsheep_01_20221009140541.jpg  DONE! | 0:00:36.118640
+autsheep_01_20221009070737.jpg  DONE! | 0:00:35.800307
+autsheep_01_20221009141930.jpg  DONE! | 0:00:36.283093
+autsheep_01_20221009142211.jpg  DONE! | 0:00:36.231544
+autsheep_01_20221009134746.jpg  DONE! | 0:00:35.924421
+autsheep_01_20221009074435.jpg  DONE! | 0:00:36.321219
+autsheep_01_20221009142241.jpg  DONE! | 0:00:36.284355
+autsheep_01_20221009164119.jpg  DONE! | 0:00:35.965853
+autsheep_01_20221009121456.jpg  DONE! | 0:00:35.893111
+autsheep_01_20221009142442.jpg  DONE! | 0:00:36.072750
+autsheep_01_20221009100402.jpg  DONE! | 0:00:36.100707
+autsheep_01_20221009142311.jpg  DONE! | 0:00:35.894062
+autsheep_01_20221009135701.jpg  DONE! | 0:00:35.999471
+autsheep_01_20221009165238.jpg  DONE! | 0:00:36.024939
+autsheep_01_20221009064206.jpg  DONE! | 0:00:35.845510
+autsheep_01_20221009122834.jpg  DONE! | 0:00:35.962386
+autsheep_01_20221009064136.jpg  DONE! | 0:00:35.760113
+autsheep_01_20221009120556.jpg  DONE! | 0:00:35.803988
+autsheep_01_20221009111328.jpg  DONE! | 0:00:35.789533
+autsheep_01_20221009120415.jpg  DONE! | 0:00:36.019261
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 96
+Using sublist: ['autsheep_01_20221010070735.jpg', 'autsheep_01_20221010140208.jpg', 'autsheep_01_20221010102658.jpg', 'autsheep_01_20221010124238.jpg', 'autsheep_01_20221010142742.jpg', 'autsheep_01_20221010072305.jpg', 'autsheep_01_20221010123804.jpg', 'autsheep_01_20221010121048.jpg', 'autsheep_01_20221010072437.jpg', 'autsheep_01_20221010124044.jpg', 'autsheep_01_20221010122745.jpg', 'autsheep_01_20221010091600.jpg', 'autsheep_01_20221010163914.jpg', 'autsheep_01_20221010091816.jpg', 'autsheep_01_20221010142939.jpg', 'autsheep_01_20221010093056.jpg', 'autsheep_01_20221010080916.jpg', 'autsheep_01_20221010072020.jpg', 'autsheep_01_20221010091218.jpg', 'autsheep_01_20221010105514.jpg', 'autsheep_01_20221010102540.jpg', 'autsheep_01_20221010121333.jpg', 'autsheep_01_20221010104306.jpg', 'autsheep_01_20221010072517.jpg', 'autsheep_01_20221010071636.jpg', 'autsheep_01_20221010072327.jpg', 'autsheep_01_20221010070615.jpg', 'autsheep_01_20221010115747.jpg', 'autsheep_01_20221010123835.jpg', 'autsheep_01_20221010071808.jpg', 'autsheep_01_20221010065832.jpg', 'autsheep_01_20221010104728.jpg', 'autsheep_01_20221010131952.jpg', 'autsheep_01_20221010070820.jpg', 'autsheep_01_20221010141524.jpg', 'autsheep_01_20221010103731.jpg', 'autsheep_01_20221010113218.jpg', 'autsheep_01_20221010074814.jpg', 'autsheep_01_20221010122825.jpg', 'autsheep_01_20221010101948.jpg', 'autsheep_01_20221010103630.jpg', 'autsheep_01_20221010103559.jpg', 'autsheep_01_20221010103528.jpg', 'autsheep_01_20221010080846.jpg', 'autsheep_01_20221010103344.jpg', 'autsheep_01_20221010085909.jpg', 'autsheep_01_20221010091423.jpg', 'autsheep_01_20221010120148.jpg', 'autsheep_01_20221010123905.jpg', 'autsheep_01_20221010071736.jpg']
+
+ Processing images.
+autsheep_01_20221010070735.jpg  DONE! | 0:00:35.959724
+autsheep_01_20221010140208.jpg  DONE! | 0:00:35.710581
+autsheep_01_20221010102658.jpg  DONE! | 0:00:35.673126
+autsheep_01_20221010124238.jpg  DONE! | 0:00:35.510313
+autsheep_01_20221010142742.jpg  DONE! | 0:00:35.727871
+autsheep_01_20221010072305.jpg  DONE! | 0:00:35.636704
+autsheep_01_20221010123804.jpg  DONE! | 0:00:35.670064
+autsheep_01_20221010121048.jpg  DONE! | 0:00:35.724470
+autsheep_01_20221010072437.jpg  DONE! | 0:00:35.919135
+autsheep_01_20221010124044.jpg  DONE! | 0:00:36.039397
+autsheep_01_20221010122745.jpg  DONE! | 0:00:36.148295
+autsheep_01_20221010091600.jpg  DONE! | 0:00:36.132330
+autsheep_01_20221010163914.jpg  DONE! | 0:00:36.091712
+autsheep_01_20221010091816.jpg  DONE! | 0:00:35.905996
+autsheep_01_20221010142939.jpg  DONE! | 0:00:35.638299
+autsheep_01_20221010093056.jpg  DONE! | 0:00:35.838913
+autsheep_01_20221010080916.jpg  DONE! | 0:00:35.953991
+autsheep_01_20221010072020.jpg  DONE! | 0:00:35.931389
+autsheep_01_20221010091218.jpg  DONE! | 0:00:35.738267
+autsheep_01_20221010105514.jpg  DONE! | 0:00:36.165085
+autsheep_01_20221010102540.jpg  DONE! | 0:00:35.934465
+autsheep_01_20221010121333.jpg  DONE! | 0:00:36.252260
+autsheep_01_20221010104306.jpg  DONE! | 0:00:35.920182
+autsheep_01_20221010072517.jpg  DONE! | 0:00:35.858471
+autsheep_01_20221010071636.jpg  DONE! | 0:00:36.667241
+autsheep_01_20221010072327.jpg  DONE! | 0:00:36.159833
+autsheep_01_20221010070615.jpg  DONE! | 0:00:35.904265
+autsheep_01_20221010115747.jpg  DONE! | 0:00:35.870772
+autsheep_01_20221010123835.jpg  DONE! | 0:00:36.325631
+autsheep_01_20221010071808.jpg  DONE! | 0:00:35.682251
+autsheep_01_20221010065832.jpg  DONE! | 0:00:35.794916
+autsheep_01_20221010104728.jpg  DONE! | 0:00:35.805950
+autsheep_01_20221010131952.jpg  DONE! | 0:00:36.259864
+autsheep_01_20221010070820.jpg  DONE! | 0:00:36.209723
+autsheep_01_20221010141524.jpg  DONE! | 0:00:36.031898
+autsheep_01_20221010103731.jpg  DONE! | 0:00:36.024462
+autsheep_01_20221010113218.jpg  DONE! | 0:00:36.140190
+autsheep_01_20221010074814.jpg  DONE! | 0:00:35.784865
+autsheep_01_20221010122825.jpg  DONE! | 0:00:36.059314
+autsheep_01_20221010101948.jpg  DONE! | 0:00:35.786548
+autsheep_01_20221010103630.jpg  DONE! | 0:00:35.844414
+autsheep_01_20221010103559.jpg  DONE! | 0:00:35.925236
+autsheep_01_20221010103528.jpg  DONE! | 0:00:36.134026
+autsheep_01_20221010080846.jpg  DONE! | 0:00:35.998907
+autsheep_01_20221010103344.jpg  DONE! | 0:00:36.366014
+autsheep_01_20221010085909.jpg  DONE! | 0:00:35.981185
+autsheep_01_20221010091423.jpg  DONE! | 0:00:36.167256
+autsheep_01_20221010120148.jpg  DONE! | 0:00:36.221347
+autsheep_01_20221010123905.jpg  DONE! | 0:00:36.029491
+autsheep_01_20221010071736.jpg  DONE! | 0:00:36.389850
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 34
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221011082047.jpg  DONE! | 0:00:35.596974
+autsheep_01_20221011085119.jpg  DONE! | 0:00:35.638239
+autsheep_01_20221011091054.jpg  DONE! | 0:00:35.571953
+autsheep_01_20221011063933.jpg  DONE! | 0:00:35.392200
+autsheep_01_20221011065053.jpg  DONE! | 0:00:35.298205
+autsheep_01_20221011082215.jpg  DONE! | 0:00:35.448642
+autsheep_01_20221011081824.jpg  DONE! | 0:00:35.759377
+autsheep_01_20221011065455.jpg  DONE! | 0:00:35.719398
+autsheep_01_20221011090845.jpg  DONE! | 0:00:35.491356
+autsheep_01_20221011065315.jpg  DONE! | 0:00:35.334996
+autsheep_01_20221011082332.jpg  DONE! | 0:00:35.901207
+autsheep_01_20221011080142.jpg  DONE! | 0:00:35.761115
+autsheep_01_20221011064952.jpg  DONE! | 0:00:35.506556
+autsheep_01_20221011090151.jpg  DONE! | 0:00:35.847314
+autsheep_01_20221011081912.jpg  DONE! | 0:00:35.758345
+autsheep_01_20221011070112.jpg  DONE! | 0:00:35.679127
+autsheep_01_20221011065022.jpg  DONE! | 0:00:35.759404
+autsheep_01_20221011082117.jpg  DONE! | 0:00:36.224845
+autsheep_01_20221011065558.jpg  DONE! | 0:00:35.969200
+autsheep_01_20221011080112.jpg  DONE! | 0:00:35.662246
+autsheep_01_20221011070041.jpg  DONE! | 0:00:35.873159
+autsheep_01_20221011090245.jpg  DONE! | 0:00:36.030309
+autsheep_01_20221011091024.jpg  DONE! | 0:00:35.761336
+autsheep_01_20221011065354.jpg  DONE! | 0:00:35.668455
+autsheep_01_20221011065424.jpg  DONE! | 0:00:35.778519
+autsheep_01_20221011081221.jpg  DONE! | 0:00:35.589888
+autsheep_01_20221011083909.jpg  DONE! | 0:00:35.507325
+autsheep_01_20221011064914.jpg  DONE! | 0:00:35.604512
+autsheep_01_20221011065626.jpg  DONE! | 0:00:35.922703
+autsheep_01_20221011084338.jpg  DONE! | 0:00:35.491794
+autsheep_01_20221011081343.jpg  DONE! | 0:00:35.517016
+autsheep_01_20221011065330.jpg  DONE! | 0:00:35.880946
+autsheep_01_20221011083400.jpg  DONE! | 0:00:35.905904
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 44
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221011082047.jpg  DONE! | 0:00:35.966520
+autsheep_01_20221011085119.jpg  DONE! | 0:00:35.781069
+autsheep_01_20221011091054.jpg  DONE! | 0:00:35.700366
+autsheep_01_20221011063933.jpg  DONE! | 0:00:35.497142
+autsheep_01_20221011102325.jpg  DONE! | 0:00:35.529701
+autsheep_01_20221011101931.jpg  DONE! | 0:00:35.529011
+autsheep_01_20221011065053.jpg  DONE! | 0:00:35.522824
+autsheep_01_20221011082215.jpg  DONE! | 0:00:35.706523
+autsheep_01_20221011081824.jpg  DONE! | 0:00:35.382251
+autsheep_01_20221011065455.jpg  DONE! | 0:00:35.584922
+autsheep_01_20221011090845.jpg  DONE! | 0:00:35.408305
+autsheep_01_20221011065315.jpg  DONE! | 0:00:35.695374
+autsheep_01_20221011102035.jpg  DONE! | 0:00:35.842728
+autsheep_01_20221011125757.jpg  DONE! | 0:00:36.080295
+autsheep_01_20221011112110.jpg  DONE! | 0:00:36.073881
+autsheep_01_20221011082332.jpg  DONE! | 0:00:36.119796
+autsheep_01_20221011080142.jpg  DONE! | 0:00:36.269688
+autsheep_01_20221011064952.jpg  DONE! | 0:00:36.061607
+autsheep_01_20221011090151.jpg  DONE! | 0:00:35.761690
+autsheep_01_20221011081912.jpg  DONE! | 0:00:35.712895
+autsheep_01_20221011070112.jpg  DONE! | 0:00:35.776738
+autsheep_01_20221011065022.jpg  DONE! | 0:00:35.809517
+autsheep_01_20221011082117.jpg  DONE! | 0:00:35.878917
+autsheep_01_20221011065558.jpg  DONE! | 0:00:36.020389
+autsheep_01_20221011080112.jpg  DONE! | 0:00:35.869861
+autsheep_01_20221011114422.jpg  DONE! | 0:00:36.136331
+autsheep_01_20221011070041.jpg  DONE! | 0:00:36.241872
+autsheep_01_20221011090245.jpg  DONE! | 0:00:36.315663
+autsheep_01_20221011112824.jpg  DONE! | 0:00:36.091316
+autsheep_01_20221011091024.jpg  DONE! | 0:00:36.345043
+autsheep_01_20221011065354.jpg  DONE! | 0:00:36.186004
+autsheep_01_20221011101649.jpg  DONE! | 0:00:36.163466
+autsheep_01_20221011103349.jpg  DONE! | 0:00:36.607715
+autsheep_01_20221011065424.jpg  DONE! | 0:00:36.340768
+autsheep_01_20221011081221.jpg  DONE! | 0:00:36.341538
+autsheep_01_20221011083909.jpg  DONE! | 0:00:36.068713
+autsheep_01_20221011113145.jpg  DONE! | 0:00:35.801203
+autsheep_01_20221011064914.jpg  DONE! | 0:00:35.898277
+autsheep_01_20221011065626.jpg  DONE! | 0:00:36.185337
+autsheep_01_20221011084338.jpg  DONE! | 0:00:36.258348
+autsheep_01_20221011081343.jpg  DONE! | 0:00:36.093193
+autsheep_01_20221011065330.jpg  DONE! | 0:00:36.414999
+autsheep_01_20221011083400.jpg  DONE! | 0:00:36.152410
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 68
+Using sublist: ['autsheep_01_20221011082117.jpg', 'autsheep_01_20221011083400.jpg', '.listing', 'autsheep_01_20221011153249.jpg', 'autsheep_01_20221011102035.jpg', 'autsheep_01_20221011082047.jpg', 'autsheep_01_20221011090245.jpg', 'autsheep_01_20221011114422.jpg', 'autsheep_01_20221011153823.jpg', 'autsheep_01_20221011112824.jpg', 'autsheep_01_20221011063933.jpg', 'autsheep_01_20221011070112.jpg', 'autsheep_01_20221011085119.jpg', 'autsheep_01_20221011081912.jpg', 'autsheep_01_20221011065626.jpg', 'autsheep_01_20221011082215.jpg', 'autsheep_01_20221011090151.jpg', 'autsheep_01_20221011065330.jpg', 'autsheep_01_20221011081221.jpg', 'autsheep_01_20221011153451.jpg', 'autsheep_01_20221011153350.jpg', 'autsheep_01_20221011090845.jpg', 'autsheep_01_20221011064914.jpg', 'autsheep_01_20221011065053.jpg', 'autsheep_01_20221011130409.jpg', 'autsheep_01_20221011101649.jpg', 'autsheep_01_20221011065022.jpg', 'autsheep_01_20221011080142.jpg', 'autsheep_01_20221011084338.jpg', 'autsheep_01_20221011065315.jpg', 'autsheep_01_20221011081824.jpg', 'autsheep_01_20221011125757.jpg', 'autsheep_01_20221011164233.jpg', 'autsheep_01_20221011080112.jpg', 'autsheep_01_20221011091054.jpg', 'autsheep_01_20221011153318.jpg', 'autsheep_01_20221011153853.jpg', 'autsheep_01_20221011065424.jpg', 'autsheep_01_20221011145506.jpg', 'autsheep_01_20221011112110.jpg', 'autsheep_01_20221011164355.jpg', 'autsheep_01_20221011081343.jpg', 'autsheep_01_20221011102325.jpg', 'autsheep_01_20221011153622.jpg', 'autsheep_01_20221011083909.jpg', 'autsheep_01_20221011082332.jpg', 'autsheep_01_20221011065558.jpg', 'autsheep_01_20221011153551.jpg', 'autsheep_01_20221011065455.jpg', 'autsheep_01_20221011144006.jpg']
+
+ Processing images.
+autsheep_01_20221011082117.jpg  DONE! | 0:00:36.029567
+autsheep_01_20221011083400.jpg  DONE! | 0:00:35.816151
+autsheep_01_20221011153249.jpg  DONE! | 0:00:36.016416
+autsheep_01_20221011102035.jpg  DONE! | 0:00:35.847093
+autsheep_01_20221011082047.jpg  DONE! | 0:00:35.974535
+autsheep_01_20221011090245.jpg  DONE! | 0:00:36.023240
+autsheep_01_20221011114422.jpg  DONE! | 0:00:35.969934
+autsheep_01_20221011153823.jpg  DONE! | 0:00:36.186140
+autsheep_01_20221011112824.jpg  DONE! | 0:00:36.274662
+autsheep_01_20221011063933.jpg  DONE! | 0:00:36.019909
+autsheep_01_20221011070112.jpg  DONE! | 0:00:36.136803
+autsheep_01_20221011085119.jpg  DONE! | 0:00:36.329046
+autsheep_01_20221011081912.jpg  DONE! | 0:00:35.825421
+autsheep_01_20221011065626.jpg  DONE! | 0:00:35.626857
+autsheep_01_20221011082215.jpg  DONE! | 0:00:36.093579
+autsheep_01_20221011090151.jpg  DONE! | 0:00:36.025065
+autsheep_01_20221011065330.jpg  DONE! | 0:00:36.178889
+autsheep_01_20221011081221.jpg  DONE! | 0:00:36.220859
+autsheep_01_20221011153451.jpg  DONE! | 0:00:36.046382
+autsheep_01_20221011153350.jpg  DONE! | 0:00:35.565216
+autsheep_01_20221011090845.jpg  DONE! | 0:00:36.057100
+autsheep_01_20221011064914.jpg  DONE! | 0:00:36.197294
+autsheep_01_20221011065053.jpg  DONE! | 0:00:35.945421
+autsheep_01_20221011130409.jpg  DONE! | 0:00:35.867902
+autsheep_01_20221011101649.jpg  DONE! | 0:00:35.952761
+autsheep_01_20221011065022.jpg  DONE! | 0:00:35.577353
+autsheep_01_20221011080142.jpg  DONE! | 0:00:36.055664
+autsheep_01_20221011084338.jpg  DONE! | 0:00:35.809919
+autsheep_01_20221011065315.jpg  DONE! | 0:00:35.948764
+autsheep_01_20221011081824.jpg  DONE! | 0:00:35.648477
+autsheep_01_20221011125757.jpg  DONE! | 0:00:36.227425
+autsheep_01_20221011164233.jpg  DONE! | 0:00:36.185646
+autsheep_01_20221011080112.jpg  DONE! | 0:00:35.577565
+autsheep_01_20221011091054.jpg  DONE! | 0:00:35.796010
+autsheep_01_20221011153318.jpg  DONE! | 0:00:35.799232
+autsheep_01_20221011153853.jpg  DONE! | 0:00:35.759972
+autsheep_01_20221011065424.jpg  DONE! | 0:00:36.109837
+autsheep_01_20221011145506.jpg  DONE! | 0:00:36.068062
+autsheep_01_20221011112110.jpg  DONE! | 0:00:35.867036
+autsheep_01_20221011164355.jpg  DONE! | 0:00:36.233871
+autsheep_01_20221011081343.jpg  DONE! | 0:00:35.820736
+autsheep_01_20221011102325.jpg  DONE! | 0:00:36.123244
+autsheep_01_20221011153622.jpg  DONE! | 0:00:35.925952
+autsheep_01_20221011083909.jpg  DONE! | 0:00:35.790772
+autsheep_01_20221011082332.jpg  DONE! | 0:00:36.507673
+autsheep_01_20221011065558.jpg  DONE! | 0:00:36.240877
+autsheep_01_20221011153551.jpg  DONE! | 0:00:35.750212
+autsheep_01_20221011065455.jpg  DONE! | 0:00:36.093221
+autsheep_01_20221011144006.jpg  DONE! | 0:00:36.024652
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 58
+Using sublist: ['autsheep_01_20221012083443.jpg', 'autsheep_01_20221012080905.jpg', 'autsheep_01_20221012094151.jpg', 'autsheep_01_20221012070623.jpg', 'autsheep_01_20221012070100.jpg', 'autsheep_01_20221012083100.jpg', 'autsheep_01_20221012094019.jpg', 'autsheep_01_20221012092929.jpg', 'autsheep_01_20221012065556.jpg', 'autsheep_01_20221012070028.jpg', 'autsheep_01_20221012070513.jpg', 'autsheep_01_20221012064659.jpg', 'autsheep_01_20221012070404.jpg', 'autsheep_01_20221012084139.jpg', 'autsheep_01_20221012064628.jpg', 'autsheep_01_20221012070333.jpg', 'autsheep_01_20221012080827.jpg', 'autsheep_01_20221012072438.jpg', 'autsheep_01_20221012094505.jpg', 'autsheep_01_20221012072401.jpg', 'autsheep_01_20221012065638.jpg', 'autsheep_01_20221012064747.jpg', 'autsheep_01_20221012072508.jpg', 'autsheep_01_20221012064828.jpg', 'autsheep_01_20221012084404.jpg', 'autsheep_01_20221012094337.jpg', 'autsheep_01_20221012064558.jpg', 'autsheep_01_20221012083201.jpg', 'autsheep_01_20221012084233.jpg', 'autsheep_01_20221012093849.jpg', 'autsheep_01_20221012094049.jpg', 'autsheep_01_20221012070233.jpg', 'autsheep_01_20221012083413.jpg', 'autsheep_01_20221012094435.jpg', 'autsheep_01_20221012065958.jpg', 'autsheep_01_20221012083131.jpg', 'autsheep_01_20221012070549.jpg', 'autsheep_01_20221012070132.jpg', 'autsheep_01_20221012080756.jpg', 'autsheep_01_20221012065805.jpg', 'autsheep_01_20221012073529.jpg', 'autsheep_01_20221012082043.jpg', 'autsheep_01_20221012065736.jpg', 'autsheep_01_20221012072539.jpg', '.listing', 'autsheep_01_20221012070303.jpg', 'autsheep_01_20221012080936.jpg', 'autsheep_01_20221012084605.jpg', 'autsheep_01_20221012084303.jpg', 'autsheep_01_20221012081006.jpg']
+
+ Processing images.
+autsheep_01_20221012083443.jpg  DONE! | 0:00:35.527482
+autsheep_01_20221012080905.jpg  DONE! | 0:00:35.666584
+autsheep_01_20221012094151.jpg  DONE! | 0:00:35.511089
+autsheep_01_20221012070623.jpg  DONE! | 0:00:35.467384
+autsheep_01_20221012070100.jpg  DONE! | 0:00:35.333823
+autsheep_01_20221012083100.jpg  DONE! | 0:00:35.483956
+autsheep_01_20221012094019.jpg  DONE! | 0:00:35.358754
+autsheep_01_20221012092929.jpg  DONE! | 0:00:35.816605
+autsheep_01_20221012065556.jpg  DONE! | 0:00:35.421049
+autsheep_01_20221012070028.jpg  DONE! | 0:00:35.742465
+autsheep_01_20221012070513.jpg  DONE! | 0:00:35.704950
+autsheep_01_20221012064659.jpg  DONE! | 0:00:35.588753
+autsheep_01_20221012070404.jpg  DONE! | 0:00:35.852631
+autsheep_01_20221012084139.jpg  DONE! | 0:00:35.813570
+autsheep_01_20221012064628.jpg  DONE! | 0:00:35.821475
+autsheep_01_20221012070333.jpg  DONE! | 0:00:35.870755
+autsheep_01_20221012080827.jpg  DONE! | 0:00:35.909442
+autsheep_01_20221012072438.jpg  DONE! | 0:00:36.551939
+autsheep_01_20221012094505.jpg  DONE! | 0:00:35.949323
+autsheep_01_20221012072401.jpg  DONE! | 0:00:36.003577
+autsheep_01_20221012065638.jpg  DONE! | 0:00:35.997832
+autsheep_01_20221012064747.jpg  DONE! | 0:00:35.990688
+autsheep_01_20221012072508.jpg  DONE! | 0:00:36.296374
+autsheep_01_20221012064828.jpg  DONE! | 0:00:35.632455
+autsheep_01_20221012084404.jpg  DONE! | 0:00:35.687271
+autsheep_01_20221012094337.jpg  DONE! | 0:00:35.760637
+autsheep_01_20221012064558.jpg  DONE! | 0:00:36.000181
+autsheep_01_20221012083201.jpg  DONE! | 0:00:35.869085
+autsheep_01_20221012084233.jpg  DONE! | 0:00:35.777988
+autsheep_01_20221012093849.jpg  DONE! | 0:00:35.990218
+autsheep_01_20221012094049.jpg  DONE! | 0:00:35.777757
+autsheep_01_20221012070233.jpg  DONE! | 0:00:35.682320
+autsheep_01_20221012083413.jpg  DONE! | 0:00:35.981140
+autsheep_01_20221012094435.jpg  DONE! | 0:00:35.889212
+autsheep_01_20221012065958.jpg  DONE! | 0:00:35.870636
+autsheep_01_20221012083131.jpg  DONE! | 0:00:35.865847
+autsheep_01_20221012070549.jpg  DONE! | 0:00:35.991215
+autsheep_01_20221012070132.jpg  DONE! | 0:00:35.881491
+autsheep_01_20221012080756.jpg  DONE! | 0:00:36.102369
+autsheep_01_20221012065805.jpg  DONE! | 0:00:35.929099
+autsheep_01_20221012073529.jpg  DONE! | 0:00:35.981472
+autsheep_01_20221012082043.jpg  DONE! | 0:00:36.399850
+autsheep_01_20221012065736.jpg  DONE! | 0:00:35.912031
+autsheep_01_20221012072539.jpg  DONE! | 0:00:36.006083
+autsheep_01_20221012070303.jpg  DONE! | 0:00:36.134121
+autsheep_01_20221012080936.jpg  DONE! | 0:00:35.919436
+autsheep_01_20221012084605.jpg  DONE! | 0:00:36.092753
+autsheep_01_20221012084303.jpg  DONE! | 0:00:36.417956
+autsheep_01_20221012081006.jpg  DONE! | 0:00:36.036189
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 87
+Using sublist: ['autsheep_01_20221012080756.jpg', 'autsheep_01_20221012072438.jpg', 'autsheep_01_20221012070028.jpg', 'autsheep_01_20221012064828.jpg', 'autsheep_01_20221012100917.jpg', 'autsheep_01_20221012114230.jpg', 'autsheep_01_20221012080936.jpg', 'autsheep_01_20221012094222.jpg', 'autsheep_01_20221012092929.jpg', 'autsheep_01_20221012070233.jpg', 'autsheep_01_20221012114459.jpg', 'autsheep_01_20221012101336.jpg', 'autsheep_01_20221012083201.jpg', 'autsheep_01_20221012064628.jpg', 'autsheep_01_20221012065638.jpg', 'autsheep_01_20221012084605.jpg', 'autsheep_01_20221012101020.jpg', 'autsheep_01_20221012114324.jpg', 'autsheep_01_20221012075710.jpg', 'autsheep_01_20221012072329.jpg', 'autsheep_01_20221012065958.jpg', 'autsheep_01_20221012114429.jpg', 'autsheep_01_20221012084303.jpg', 'autsheep_01_20221012064659.jpg', 'autsheep_01_20221012072508.jpg', 'autsheep_01_20221012070333.jpg', 'autsheep_01_20221012084404.jpg', 'autsheep_01_20221012094505.jpg', 'autsheep_01_20221012070549.jpg', 'autsheep_01_20221012114702.jpg', 'autsheep_01_20221012080827.jpg', 'autsheep_01_20221012114529.jpg', 'autsheep_01_20221012101938.jpg', 'autsheep_01_20221012083443.jpg', 'autsheep_01_20221012082043.jpg', 'autsheep_01_20221012114600.jpg', 'autsheep_01_20221012084233.jpg', 'autsheep_01_20221012114632.jpg', 'autsheep_01_20221012101632.jpg', 'autsheep_01_20221012064747.jpg', 'autsheep_01_20221012070202.jpg', 'autsheep_01_20221012110316.jpg', 'autsheep_01_20221012094019.jpg', 'autsheep_01_20221012094119.jpg', 'autsheep_01_20221012065407.jpg', 'autsheep_01_20221012093849.jpg', 'autsheep_01_20221012065556.jpg', 'autsheep_01_20221012070303.jpg', 'autsheep_01_20221012114802.jpg', 'autsheep_01_20221012083131.jpg']
+
+ Processing images.
+autsheep_01_20221012080756.jpg  DONE! | 0:00:35.820555
+autsheep_01_20221012072438.jpg  DONE! | 0:00:35.570862
+autsheep_01_20221012070028.jpg  DONE! | 0:00:35.376840
+autsheep_01_20221012064828.jpg  DONE! | 0:00:35.632233
+autsheep_01_20221012100917.jpg  DONE! | 0:00:35.646992
+autsheep_01_20221012114230.jpg  DONE! | 0:00:35.511267
+autsheep_01_20221012080936.jpg  DONE! | 0:00:35.369659
+autsheep_01_20221012094222.jpg  DONE! | 0:00:35.291707
+autsheep_01_20221012092929.jpg  DONE! | 0:00:35.770541
+autsheep_01_20221012070233.jpg  DONE! | 0:00:35.463850
+autsheep_01_20221012114459.jpg  DONE! | 0:00:35.765654
+autsheep_01_20221012101336.jpg  DONE! | 0:00:35.697352
+autsheep_01_20221012083201.jpg  DONE! | 0:00:35.640466
+autsheep_01_20221012064628.jpg  DONE! | 0:00:35.706585
+autsheep_01_20221012065638.jpg  DONE! | 0:00:35.881446
+autsheep_01_20221012084605.jpg  DONE! | 0:00:36.101079
+autsheep_01_20221012101020.jpg  DONE! | 0:00:36.055680
+autsheep_01_20221012114324.jpg  DONE! | 0:00:36.176569
+autsheep_01_20221012075710.jpg  DONE! | 0:00:36.055533
+autsheep_01_20221012072329.jpg  DONE! | 0:00:36.083684
+autsheep_01_20221012065958.jpg  DONE! | 0:00:35.540956
+autsheep_01_20221012114429.jpg  DONE! | 0:00:35.852146
+autsheep_01_20221012084303.jpg  DONE! | 0:00:35.848105
+autsheep_01_20221012064659.jpg  DONE! | 0:00:35.979978
+autsheep_01_20221012072508.jpg  DONE! | 0:00:35.880006
+autsheep_01_20221012070333.jpg  DONE! | 0:00:35.962893
+autsheep_01_20221012084404.jpg  DONE! | 0:00:36.019847
+autsheep_01_20221012094505.jpg  DONE! | 0:00:35.806543
+autsheep_01_20221012070549.jpg  DONE! | 0:00:35.990001
+autsheep_01_20221012114702.jpg  DONE! | 0:00:36.006387
+autsheep_01_20221012080827.jpg  DONE! | 0:00:36.181923
+autsheep_01_20221012114529.jpg  DONE! | 0:00:35.905273
+autsheep_01_20221012101938.jpg  DONE! | 0:00:36.205232
+autsheep_01_20221012083443.jpg  DONE! | 0:00:36.046547
+autsheep_01_20221012082043.jpg  DONE! | 0:00:36.052365
+autsheep_01_20221012114600.jpg  DONE! | 0:00:35.919809
+autsheep_01_20221012084233.jpg  DONE! | 0:00:35.665686
+autsheep_01_20221012114632.jpg  DONE! | 0:00:36.123996
+autsheep_01_20221012101632.jpg  DONE! | 0:00:36.253536
+autsheep_01_20221012064747.jpg  DONE! | 0:00:36.271897
+autsheep_01_20221012070202.jpg  DONE! | 0:00:35.808207
+autsheep_01_20221012110316.jpg  DONE! | 0:00:36.044551
+autsheep_01_20221012094019.jpg  DONE! | 0:00:35.805408
+autsheep_01_20221012094119.jpg  DONE! | 0:00:35.868087
+autsheep_01_20221012065407.jpg  DONE! | 0:00:36.357001
+autsheep_01_20221012093849.jpg  DONE! | 0:00:35.985693
+autsheep_01_20221012065556.jpg  DONE! | 0:00:35.881854
+autsheep_01_20221012070303.jpg  DONE! | 0:00:35.702147
+autsheep_01_20221012114802.jpg  DONE! | 0:00:36.193165
+autsheep_01_20221012083131.jpg  DONE! | 0:00:35.932439
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 88
+Using sublist: ['autsheep_01_20221012114840.jpg', 'autsheep_01_20221012075710.jpg', 'autsheep_01_20221012101020.jpg', 'autsheep_01_20221012084139.jpg', '.listing', 'autsheep_01_20221012094119.jpg', 'autsheep_01_20221012083413.jpg', 'autsheep_01_20221012065407.jpg', 'autsheep_01_20221012065736.jpg', 'autsheep_01_20221012072508.jpg', 'autsheep_01_20221012072401.jpg', 'autsheep_01_20221012114702.jpg', 'autsheep_01_20221012065638.jpg', 'autsheep_01_20221012101211.jpg', 'autsheep_01_20221012084404.jpg', 'autsheep_01_20221012101544.jpg', 'autsheep_01_20221012094019.jpg', 'autsheep_01_20221012100552.jpg', 'autsheep_01_20221012080827.jpg', 'autsheep_01_20221012070303.jpg', 'autsheep_01_20221012081006.jpg', 'autsheep_01_20221012114230.jpg', 'autsheep_01_20221012114732.jpg', 'autsheep_01_20221012080756.jpg', 'autsheep_01_20221012094049.jpg', 'autsheep_01_20221012101141.jpg', 'autsheep_01_20221012064828.jpg', 'autsheep_01_20221012080905.jpg', 'autsheep_01_20221012101938.jpg', 'autsheep_01_20221012094222.jpg', 'autsheep_01_20221012114802.jpg', 'autsheep_01_20221012101433.jpg', 'autsheep_01_20221012114529.jpg', 'autsheep_01_20221012101505.jpg', 'autsheep_01_20221012073529.jpg', 'autsheep_01_20221012065556.jpg', 'autsheep_01_20221012070404.jpg', 'autsheep_01_20221012064558.jpg', 'autsheep_01_20221012093849.jpg', 'autsheep_01_20221012082043.jpg', 'autsheep_01_20221012070233.jpg', 'autsheep_01_20221012070132.jpg', 'autsheep_01_20221012070202.jpg', 'autsheep_01_20221012072329.jpg', 'autsheep_01_20221012084233.jpg', 'autsheep_01_20221012100624.jpg', 'autsheep_01_20221012094151.jpg', 'autsheep_01_20221012101252.jpg', 'autsheep_01_20221012100802.jpg', 'autsheep_01_20221012101336.jpg']
+
+ Processing images.
+autsheep_01_20221012114840.jpg  DONE! | 0:00:35.789381
+autsheep_01_20221012075710.jpg  DONE! | 0:00:35.485496
+autsheep_01_20221012101020.jpg  DONE! | 0:00:35.444660
+autsheep_01_20221012084139.jpg  DONE! | 0:00:35.316233
+autsheep_01_20221012094119.jpg  DONE! | 0:00:35.700148
+autsheep_01_20221012083413.jpg  DONE! | 0:00:35.436081
+autsheep_01_20221012065407.jpg  DONE! | 0:00:35.384780
+autsheep_01_20221012065736.jpg  DONE! | 0:00:35.504675
+autsheep_01_20221012072508.jpg  DONE! | 0:00:35.575356
+autsheep_01_20221012072401.jpg  DONE! | 0:00:35.672353
+autsheep_01_20221012114702.jpg  DONE! | 0:00:35.928244
+autsheep_01_20221012065638.jpg  DONE! | 0:00:35.787637
+autsheep_01_20221012101211.jpg  DONE! | 0:00:35.871361
+autsheep_01_20221012084404.jpg  DONE! | 0:00:36.251674
+autsheep_01_20221012101544.jpg  DONE! | 0:00:36.115817
+autsheep_01_20221012094019.jpg  DONE! | 0:00:35.886817
+autsheep_01_20221012100552.jpg  DONE! | 0:00:36.119637
+autsheep_01_20221012080827.jpg  DONE! | 0:00:35.959944
+autsheep_01_20221012070303.jpg  DONE! | 0:00:35.730771
+autsheep_01_20221012081006.jpg  DONE! | 0:00:35.843741
+autsheep_01_20221012114230.jpg  DONE! | 0:00:36.008837
+autsheep_01_20221012114732.jpg  DONE! | 0:00:35.793060
+autsheep_01_20221012080756.jpg  DONE! | 0:00:36.066348
+autsheep_01_20221012094049.jpg  DONE! | 0:00:37.966084
+autsheep_01_20221012101141.jpg  DONE! | 0:00:35.786500
+autsheep_01_20221012064828.jpg  DONE! | 0:00:35.735667
+autsheep_01_20221012080905.jpg  DONE! | 0:00:36.275940
+autsheep_01_20221012101938.jpg  DONE! | 0:00:36.411793
+autsheep_01_20221012094222.jpg  DONE! | 0:00:36.259594
+autsheep_01_20221012114802.jpg  DONE! | 0:00:36.258452
+autsheep_01_20221012101433.jpg  DONE! | 0:00:36.353336
+autsheep_01_20221012114529.jpg  DONE! | 0:00:36.061727
+autsheep_01_20221012101505.jpg  DONE! | 0:00:36.425094
+autsheep_01_20221012073529.jpg  DONE! | 0:00:35.852054
+autsheep_01_20221012065556.jpg  DONE! | 0:00:36.428035
+autsheep_01_20221012070404.jpg  DONE! | 0:00:36.139100
+autsheep_01_20221012064558.jpg  DONE! | 0:00:35.989458
+autsheep_01_20221012093849.jpg  DONE! | 0:00:35.853158
+autsheep_01_20221012082043.jpg  DONE! | 0:00:36.305801
+autsheep_01_20221012070233.jpg  DONE! | 0:00:35.859616
+autsheep_01_20221012070132.jpg  DONE! | 0:00:35.660818
+autsheep_01_20221012070202.jpg  DONE! | 0:00:36.102928
+autsheep_01_20221012072329.jpg  DONE! | 0:00:36.017187
+autsheep_01_20221012084233.jpg  DONE! | 0:00:36.042186
+autsheep_01_20221012100624.jpg  DONE! | 0:00:35.747103
+autsheep_01_20221012094151.jpg  DONE! | 0:00:35.808107
+autsheep_01_20221012101252.jpg  DONE! | 0:00:35.725528
+autsheep_01_20221012100802.jpg  DONE! | 0:00:35.880079
+autsheep_01_20221012101336.jpg  DONE! | 0:00:36.325821
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 46
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221013072520.jpg  DONE! | 0:00:36.124564
+autsheep_01_20221013094147.jpg  DONE! | 0:00:35.678263
+autsheep_01_20221013081956.jpg  DONE! | 0:00:35.303894
+autsheep_01_20221013081749.jpg  DONE! | 0:00:35.420777
+autsheep_01_20221013063924.jpg  DONE! | 0:00:35.334610
+autsheep_01_20221013065723.jpg  DONE! | 0:00:35.555567
+autsheep_01_20221013082339.jpg  DONE! | 0:00:35.460616
+autsheep_01_20221013073451.jpg  DONE! | 0:00:35.776721
+autsheep_01_20221013081458.jpg  DONE! | 0:00:35.585188
+autsheep_01_20221013064001.jpg  DONE! | 0:00:35.600325
+autsheep_01_20221013093159.jpg  DONE! | 0:00:35.518410
+autsheep_01_20221013072729.jpg  DONE! | 0:00:35.866846
+autsheep_01_20221013063550.jpg  DONE! | 0:00:35.551714
+autsheep_01_20221013081529.jpg  DONE! | 0:00:35.749874
+autsheep_01_20221013082309.jpg  DONE! | 0:00:35.834661
+autsheep_01_20221013095356.jpg  DONE! | 0:00:35.749712
+autsheep_01_20221013095427.jpg  DONE! | 0:00:35.664065
+autsheep_01_20221013082409.jpg  DONE! | 0:00:35.823328
+autsheep_01_20221013095659.jpg  DONE! | 0:00:36.327477
+autsheep_01_20221013081559.jpg  DONE! | 0:00:36.079713
+autsheep_01_20221013095458.jpg  DONE! | 0:00:35.954156
+autsheep_01_20221013063627.jpg  DONE! | 0:00:35.690700
+autsheep_01_20221013093312.jpg  DONE! | 0:00:36.478204
+autsheep_01_20221013082440.jpg  DONE! | 0:00:35.784667
+autsheep_01_20221013092011.jpg  DONE! | 0:00:36.167069
+autsheep_01_20221013064518.jpg  DONE! | 0:00:36.076827
+autsheep_01_20221013073609.jpg  DONE! | 0:00:36.018465
+autsheep_01_20221013063658.jpg  DONE! | 0:00:35.814240
+autsheep_01_20221013095326.jpg  DONE! | 0:00:35.696570
+autsheep_01_20221013082028.jpg  DONE! | 0:00:35.837589
+autsheep_01_20221013081629.jpg  DONE! | 0:00:35.779424
+autsheep_01_20221013065309.jpg  DONE! | 0:00:35.720346
+autsheep_01_20221013081828.jpg  DONE! | 0:00:35.947309
+autsheep_01_20221013075558.jpg  DONE! | 0:00:36.000547
+autsheep_01_20221013081119.jpg  DONE! | 0:00:35.842647
+autsheep_01_20221013063854.jpg  DONE! | 0:00:36.073743
+autsheep_01_20221013064448.jpg  DONE! | 0:00:36.028940
+autsheep_01_20221013063751.jpg  DONE! | 0:00:35.972592
+autsheep_01_20221013093654.jpg  DONE! | 0:00:36.186836
+autsheep_01_20221013095249.jpg  DONE! | 0:00:36.395791
+autsheep_01_20221013081428.jpg  DONE! | 0:00:36.039152
+autsheep_01_20221013065339.jpg  DONE! | 0:00:36.047936
+autsheep_01_20221013064418.jpg  DONE! | 0:00:36.055705
+autsheep_01_20221013072350.jpg  DONE! | 0:00:36.365166
+autsheep_01_20221013064211.jpg  DONE! | 0:00:36.465743
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 46
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221013072520.jpg  DONE! | 0:00:35.708987
+autsheep_01_20221013094147.jpg  DONE! | 0:00:35.396556
+autsheep_01_20221013081956.jpg  DONE! | 0:00:35.944410
+autsheep_01_20221013081749.jpg  DONE! | 0:00:35.659297
+autsheep_01_20221013063924.jpg  DONE! | 0:00:35.470461
+autsheep_01_20221013065723.jpg  DONE! | 0:00:35.690915
+autsheep_01_20221013082339.jpg  DONE! | 0:00:35.580085
+autsheep_01_20221013073451.jpg  DONE! | 0:00:35.623101
+autsheep_01_20221013081458.jpg  DONE! | 0:00:35.499870
+autsheep_01_20221013064001.jpg  DONE! | 0:00:35.697530
+autsheep_01_20221013093159.jpg  DONE! | 0:00:35.597440
+autsheep_01_20221013072729.jpg  DONE! | 0:00:35.736487
+autsheep_01_20221013063550.jpg  DONE! | 0:00:35.900337
+autsheep_01_20221013081529.jpg  DONE! | 0:00:35.776217
+autsheep_01_20221013082309.jpg  DONE! | 0:00:35.987321
+autsheep_01_20221013095356.jpg  DONE! | 0:00:35.840672
+autsheep_01_20221013095427.jpg  DONE! | 0:00:35.814549
+autsheep_01_20221013082409.jpg  DONE! | 0:00:36.126583
+autsheep_01_20221013095659.jpg  DONE! | 0:00:37.033875
+autsheep_01_20221013081559.jpg  DONE! | 0:00:35.798537
+autsheep_01_20221013095458.jpg  DONE! | 0:00:35.967435
+autsheep_01_20221013063627.jpg  DONE! | 0:00:35.498302
+autsheep_01_20221013093312.jpg  DONE! | 0:00:35.971064
+autsheep_01_20221013082440.jpg  DONE! | 0:00:36.015739
+autsheep_01_20221013092011.jpg  DONE! | 0:00:36.209674
+autsheep_01_20221013064518.jpg  DONE! | 0:00:36.262910
+autsheep_01_20221013073609.jpg  DONE! | 0:00:36.284395
+autsheep_01_20221013063658.jpg  DONE! | 0:00:36.152437
+autsheep_01_20221013095326.jpg  DONE! | 0:00:36.414089
+autsheep_01_20221013082028.jpg  DONE! | 0:00:36.481426
+autsheep_01_20221013081629.jpg  DONE! | 0:00:35.915417
+autsheep_01_20221013065309.jpg  DONE! | 0:00:36.203943
+autsheep_01_20221013081828.jpg  DONE! | 0:00:36.326207
+autsheep_01_20221013075558.jpg  DONE! | 0:00:36.601805
+autsheep_01_20221013081119.jpg  DONE! | 0:00:36.208214
+autsheep_01_20221013063854.jpg  DONE! | 0:00:36.097932
+autsheep_01_20221013064448.jpg  DONE! | 0:00:36.729813
+autsheep_01_20221013063751.jpg  DONE! | 0:00:36.237613
+autsheep_01_20221013093654.jpg  DONE! | 0:00:35.848923
+autsheep_01_20221013095249.jpg  DONE! | 0:00:36.155332
+autsheep_01_20221013081428.jpg  DONE! | 0:00:36.211599
+autsheep_01_20221013065339.jpg  DONE! | 0:00:35.945148
+autsheep_01_20221013064418.jpg  DONE! | 0:00:35.964446
+autsheep_01_20221013072350.jpg  DONE! | 0:00:36.262586
+autsheep_01_20221013064211.jpg  DONE! | 0:00:35.985750
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 49
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221013072520.jpg  DONE! | 0:00:35.906804
+autsheep_01_20221013094147.jpg  DONE! | 0:00:35.556395
+autsheep_01_20221013081956.jpg  DONE! | 0:00:35.699271
+autsheep_01_20221013145949.jpg  DONE! | 0:00:35.471448
+autsheep_01_20221013081749.jpg  DONE! | 0:00:35.587455
+autsheep_01_20221013063924.jpg  DONE! | 0:00:35.391328
+autsheep_01_20221013065723.jpg  DONE! | 0:00:35.717238
+autsheep_01_20221013082339.jpg  DONE! | 0:00:35.795092
+autsheep_01_20221013073451.jpg  DONE! | 0:00:35.814927
+autsheep_01_20221013081458.jpg  DONE! | 0:00:35.536643
+autsheep_01_20221013064001.jpg  DONE! | 0:00:35.772438
+autsheep_01_20221013093159.jpg  DONE! | 0:00:36.059842
+autsheep_01_20221013072729.jpg  DONE! | 0:00:36.290350
+autsheep_01_20221013063550.jpg  DONE! | 0:00:36.385234
+autsheep_01_20221013081529.jpg  DONE! | 0:00:36.012881
+autsheep_01_20221013082309.jpg  DONE! | 0:00:36.098688
+autsheep_01_20221013095356.jpg  DONE! | 0:00:36.297085
+autsheep_01_20221013095427.jpg  DONE! | 0:00:35.929986
+autsheep_01_20221013082409.jpg  DONE! | 0:00:36.018632
+autsheep_01_20221013095659.jpg  DONE! | 0:00:36.029409
+autsheep_01_20221013081559.jpg  DONE! | 0:00:35.637102
+autsheep_01_20221013095458.jpg  DONE! | 0:00:35.783389
+autsheep_01_20221013063627.jpg  DONE! | 0:00:35.889078
+autsheep_01_20221013093312.jpg  DONE! | 0:00:35.828426
+autsheep_01_20221013082440.jpg  DONE! | 0:00:35.988247
+autsheep_01_20221013092011.jpg  DONE! | 0:00:35.627549
+autsheep_01_20221013064518.jpg  DONE! | 0:00:35.658318
+autsheep_01_20221013073609.jpg  DONE! | 0:00:36.334584
+autsheep_01_20221013063658.jpg  DONE! | 0:00:35.798044
+autsheep_01_20221013160717.jpg  DONE! | 0:00:35.979110
+autsheep_01_20221013095326.jpg  DONE! | 0:00:36.117751
+autsheep_01_20221013082028.jpg  DONE! | 0:00:36.261536
+autsheep_01_20221013081629.jpg  DONE! | 0:00:35.871445
+autsheep_01_20221013065309.jpg  DONE! | 0:00:35.956471
+autsheep_01_20221013081828.jpg  DONE! | 0:00:35.685856
+autsheep_01_20221013075558.jpg  DONE! | 0:00:35.586560
+autsheep_01_20221013081119.jpg  DONE! | 0:00:35.702156
+autsheep_01_20221013063854.jpg  DONE! | 0:00:36.026199
+autsheep_01_20221013064448.jpg  DONE! | 0:00:35.761103
+autsheep_01_20221013063751.jpg  DONE! | 0:00:35.611686
+autsheep_01_20221013093654.jpg  DONE! | 0:00:35.738794
+autsheep_01_20221013095249.jpg  DONE! | 0:00:36.045165
+autsheep_01_20221013081428.jpg  DONE! | 0:00:35.640011
+autsheep_01_20221013065339.jpg  DONE! | 0:00:35.775812
+autsheep_01_20221013160505.jpg  DONE! | 0:00:35.823384
+autsheep_01_20221013064418.jpg  DONE! | 0:00:35.987355
+autsheep_01_20221013072350.jpg  DONE! | 0:00:35.808850
+autsheep_01_20221013064211.jpg  DONE! | 0:00:35.681731
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 73
+Using sublist: ['autsheep_01_20221014091219.jpg', 'autsheep_01_20221014075101.jpg', 'autsheep_01_20221014075413.jpg', 'autsheep_01_20221014094724.jpg', 'autsheep_01_20221014075342.jpg', 'autsheep_01_20221014073847.jpg', 'autsheep_01_20221014084135.jpg', 'autsheep_01_20221014074653.jpg', 'autsheep_01_20221014084239.jpg', 'autsheep_01_20221014075916.jpg', 'autsheep_01_20221014091253.jpg', 'autsheep_01_20221014073638.jpg', 'autsheep_01_20221014074829.jpg', 'autsheep_01_20221014073739.jpg', 'autsheep_01_20221014075000.jpg', 'autsheep_01_20221014074930.jpg', 'autsheep_01_20221014083933.jpg', 'autsheep_01_20221014075745.jpg', 'autsheep_01_20221014074512.jpg', 'autsheep_01_20221014083816.jpg', 'autsheep_01_20221014075946.jpg', 'autsheep_01_20221014094825.jpg', 'autsheep_01_20221014091505.jpg', 'autsheep_01_20221014075312.jpg', 'autsheep_01_20221014074543.jpg', 'autsheep_01_20221014073558.jpg', 'autsheep_01_20221014091405.jpg', 'autsheep_01_20221014073526.jpg', 'autsheep_01_20221014074724.jpg', 'autsheep_01_20221014095026.jpg', 'autsheep_01_20221014075645.jpg', 'autsheep_01_20221014074442.jpg', 'autsheep_01_20221014075513.jpg', 'autsheep_01_20221014075242.jpg', '.listing', 'autsheep_01_20221014075715.jpg', 'autsheep_01_20221014084104.jpg', 'autsheep_01_20221014080017.jpg', 'autsheep_01_20221014094713.jpg', 'autsheep_01_20221014074859.jpg', 'autsheep_01_20221014084352.jpg', 'autsheep_01_20221014075443.jpg', 'autsheep_01_20221014074613.jpg', 'autsheep_01_20221014094754.jpg', 'autsheep_01_20221014080052.jpg', 'autsheep_01_20221014094925.jpg', 'autsheep_01_20221014073809.jpg', 'autsheep_01_20221014094956.jpg', 'autsheep_01_20221014075846.jpg', 'autsheep_01_20221014074352.jpg']
+
+ Processing images.
+autsheep_01_20221014091219.jpg  DONE! | 0:00:35.628470
+autsheep_01_20221014075101.jpg  DONE! | 0:00:35.454210
+autsheep_01_20221014075413.jpg  DONE! | 0:00:35.724979
+autsheep_01_20221014094724.jpg  DONE! | 0:00:35.574318
+autsheep_01_20221014075342.jpg  DONE! | 0:00:35.595757
+autsheep_01_20221014073847.jpg  DONE! | 0:00:35.968948
+autsheep_01_20221014084135.jpg  DONE! | 0:00:35.668550
+autsheep_01_20221014074653.jpg  DONE! | 0:00:35.487122
+autsheep_01_20221014084239.jpg  DONE! | 0:00:35.512582
+autsheep_01_20221014075916.jpg  DONE! | 0:00:35.551092
+autsheep_01_20221014091253.jpg  DONE! | 0:00:35.467255
+autsheep_01_20221014073638.jpg  DONE! | 0:00:35.540458
+autsheep_01_20221014074829.jpg  DONE! | 0:00:35.459291
+autsheep_01_20221014073739.jpg  DONE! | 0:00:35.541446
+autsheep_01_20221014075000.jpg  DONE! | 0:00:35.487016
+autsheep_01_20221014074930.jpg  DONE! | 0:00:35.463991
+autsheep_01_20221014083933.jpg  DONE! | 0:00:35.730392
+autsheep_01_20221014075745.jpg  DONE! | 0:00:35.664076
+autsheep_01_20221014074512.jpg  DONE! | 0:00:35.847770
+autsheep_01_20221014083816.jpg  DONE! | 0:00:35.972187
+autsheep_01_20221014075946.jpg  DONE! | 0:00:35.802397
+autsheep_01_20221014094825.jpg  DONE! | 0:00:35.901037
+autsheep_01_20221014091505.jpg  DONE! | 0:00:35.605128
+autsheep_01_20221014075312.jpg  DONE! | 0:00:35.762444
+autsheep_01_20221014074543.jpg  DONE! | 0:00:35.933159
+autsheep_01_20221014073558.jpg  DONE! | 0:00:35.674333
+autsheep_01_20221014091405.jpg  DONE! | 0:00:35.668442
+autsheep_01_20221014073526.jpg  DONE! | 0:00:35.859435
+autsheep_01_20221014074724.jpg  DONE! | 0:00:35.628841
+autsheep_01_20221014095026.jpg  DONE! | 0:00:35.716486
+autsheep_01_20221014075645.jpg  DONE! | 0:00:36.015974
+autsheep_01_20221014074442.jpg  DONE! | 0:00:35.997000
+autsheep_01_20221014075513.jpg  DONE! | 0:00:36.049300
+autsheep_01_20221014075242.jpg  DONE! | 0:00:35.788338
+autsheep_01_20221014075715.jpg  DONE! | 0:00:36.198373
+autsheep_01_20221014084104.jpg  DONE! | 0:00:36.044007
+autsheep_01_20221014080017.jpg  DONE! | 0:00:36.261408
+autsheep_01_20221014094713.jpg  DONE! | 0:00:36.127827
+autsheep_01_20221014074859.jpg  DONE! | 0:00:35.956599
+autsheep_01_20221014084352.jpg  DONE! | 0:00:36.041444
+autsheep_01_20221014075443.jpg  DONE! | 0:00:36.004342
+autsheep_01_20221014074613.jpg  DONE! | 0:00:35.934078
+autsheep_01_20221014094754.jpg  DONE! | 0:00:36.227908
+autsheep_01_20221014080052.jpg  DONE! | 0:00:36.358819
+autsheep_01_20221014094925.jpg  DONE! | 0:00:35.941323
+autsheep_01_20221014073809.jpg  DONE! | 0:00:35.866755
+autsheep_01_20221014094956.jpg  DONE! | 0:00:35.746696
+autsheep_01_20221014075846.jpg  DONE! | 0:00:36.015419
+autsheep_01_20221014074352.jpg  DONE! | 0:00:36.095572
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 78
+Using sublist: ['autsheep_01_20221014075211.jpg', 'autsheep_01_20221014084003.jpg', 'autsheep_01_20221014073708.jpg', 'autsheep_01_20221014092128.jpg', 'autsheep_01_20221014115453.jpg', 'autsheep_01_20221014083907.jpg', 'autsheep_01_20221014091253.jpg', 'autsheep_01_20221014091405.jpg', 'autsheep_01_20221014084239.jpg', 'autsheep_01_20221014075142.jpg', 'autsheep_01_20221014073558.jpg', 'autsheep_01_20221014074352.jpg', 'autsheep_01_20221014083816.jpg', 'autsheep_01_20221014094855.jpg', 'autsheep_01_20221014073809.jpg', 'autsheep_01_20221014073739.jpg', 'autsheep_01_20221014075645.jpg', 'autsheep_01_20221014111415.jpg', 'autsheep_01_20221014094956.jpg', 'autsheep_01_20221014084104.jpg', 'autsheep_01_20221014074724.jpg', 'autsheep_01_20221014120536.jpg', 'autsheep_01_20221014075000.jpg', 'autsheep_01_20221014073847.jpg', 'autsheep_01_20221014080147.jpg', 'autsheep_01_20221014091820.jpg', 'autsheep_01_20221014080052.jpg', 'autsheep_01_20221014094825.jpg', 'autsheep_01_20221014074758.jpg', 'autsheep_01_20221014083730.jpg', 'autsheep_01_20221014084310.jpg', 'autsheep_01_20221014074829.jpg', 'autsheep_01_20221014075946.jpg', 'autsheep_01_20221014075101.jpg', 'autsheep_01_20221014075312.jpg', 'autsheep_01_20221014075342.jpg', 'autsheep_01_20221014080017.jpg', 'autsheep_01_20221014084209.jpg', 'autsheep_01_20221014075745.jpg', 'autsheep_01_20221014094724.jpg', 'autsheep_01_20221014074543.jpg', 'autsheep_01_20221014111219.jpg', 'autsheep_01_20221014075544.jpg', 'autsheep_01_20221014075615.jpg', 'autsheep_01_20221014074930.jpg', 'autsheep_01_20221014075030.jpg', 'autsheep_01_20221014073638.jpg', 'autsheep_01_20221014074859.jpg', 'autsheep_01_20221014072053.jpg', 'autsheep_01_20221014094754.jpg']
+
+ Processing images.
+autsheep_01_20221014075211.jpg  DONE! | 0:00:35.808806
+autsheep_01_20221014084003.jpg  DONE! | 0:00:35.740113
+autsheep_01_20221014073708.jpg  DONE! | 0:00:35.433481
+autsheep_01_20221014092128.jpg  DONE! | 0:00:35.370825
+autsheep_01_20221014115453.jpg  DONE! | 0:00:35.450633
+autsheep_01_20221014083907.jpg  DONE! | 0:00:35.872195
+autsheep_01_20221014091253.jpg  DONE! | 0:00:35.620139
+autsheep_01_20221014091405.jpg  DONE! | 0:00:35.507800
+autsheep_01_20221014084239.jpg  DONE! | 0:00:35.902777
+autsheep_01_20221014075142.jpg  DONE! | 0:00:35.406325
+autsheep_01_20221014073558.jpg  DONE! | 0:00:35.751088
+autsheep_01_20221014074352.jpg  DONE! | 0:00:35.384526
+autsheep_01_20221014083816.jpg  DONE! | 0:00:35.770298
+autsheep_01_20221014094855.jpg  DONE! | 0:00:35.802053
+autsheep_01_20221014073809.jpg  DONE! | 0:00:36.189060
+autsheep_01_20221014073739.jpg  DONE! | 0:00:36.183901
+autsheep_01_20221014075645.jpg  DONE! | 0:00:36.116675
+autsheep_01_20221014111415.jpg  DONE! | 0:00:35.931664
+autsheep_01_20221014094956.jpg  DONE! | 0:00:35.929627
+autsheep_01_20221014084104.jpg  DONE! | 0:00:36.208224
+autsheep_01_20221014074724.jpg  DONE! | 0:00:36.257342
+autsheep_01_20221014120536.jpg  DONE! | 0:00:35.789240
+autsheep_01_20221014075000.jpg  DONE! | 0:00:35.845168
+autsheep_01_20221014073847.jpg  DONE! | 0:00:36.156711
+autsheep_01_20221014080147.jpg  DONE! | 0:00:35.899391
+autsheep_01_20221014091820.jpg  DONE! | 0:00:35.645916
+autsheep_01_20221014080052.jpg  DONE! | 0:00:36.011181
+autsheep_01_20221014094825.jpg  DONE! | 0:00:35.953458
+autsheep_01_20221014074758.jpg  DONE! | 0:00:36.312449
+autsheep_01_20221014083730.jpg  DONE! | 0:00:36.059004
+autsheep_01_20221014084310.jpg  DONE! | 0:00:36.210939
+autsheep_01_20221014074829.jpg  DONE! | 0:00:36.108068
+autsheep_01_20221014075946.jpg  DONE! | 0:00:35.914339
+autsheep_01_20221014075101.jpg  DONE! | 0:00:36.215535
+autsheep_01_20221014075312.jpg  DONE! | 0:00:36.393269
+autsheep_01_20221014075342.jpg  DONE! | 0:00:36.004730
+autsheep_01_20221014080017.jpg  DONE! | 0:00:36.149098
+autsheep_01_20221014084209.jpg  DONE! | 0:00:35.926025
+autsheep_01_20221014075745.jpg  DONE! | 0:00:35.839588
+autsheep_01_20221014094724.jpg  DONE! | 0:00:36.143043
+autsheep_01_20221014074543.jpg  DONE! | 0:00:36.016637
+autsheep_01_20221014111219.jpg  DONE! | 0:00:36.094364
+autsheep_01_20221014075544.jpg  DONE! | 0:00:36.079340
+autsheep_01_20221014075615.jpg  DONE! | 0:00:36.293705
+autsheep_01_20221014074930.jpg  DONE! | 0:00:36.094700
+autsheep_01_20221014075030.jpg  DONE! | 0:00:36.381043
+autsheep_01_20221014073638.jpg  DONE! | 0:00:36.160188
+autsheep_01_20221014074859.jpg  DONE! | 0:00:35.663387
+autsheep_01_20221014072053.jpg  DONE! | 0:00:36.210077
+autsheep_01_20221014094754.jpg  DONE! | 0:00:35.784205
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+FULL FILE COUNT: 94
+Using sublist: ['autsheep_01_20221014073558.jpg', 'autsheep_01_20221014115453.jpg', 'autsheep_01_20221014094855.jpg', 'autsheep_01_20221014075544.jpg', 'autsheep_01_20221014074442.jpg', 'autsheep_01_20221014084034.jpg', 'autsheep_01_20221014133130.jpg', 'autsheep_01_20221014073526.jpg', 'autsheep_01_20221014084352.jpg', 'autsheep_01_20221014084003.jpg', 'autsheep_01_20221014092128.jpg', 'autsheep_01_20221014094925.jpg', 'autsheep_01_20221014075513.jpg', 'autsheep_01_20221014073708.jpg', 'autsheep_01_20221014082131.jpg', '.listing', 'autsheep_01_20221014074653.jpg', 'autsheep_01_20221014075916.jpg', 'autsheep_01_20221014154425.jpg', 'autsheep_01_20221014083907.jpg', 'autsheep_01_20221014154652.jpg', 'autsheep_01_20221014074758.jpg', 'autsheep_01_20221014091820.jpg', 'autsheep_01_20221014075645.jpg', 'autsheep_01_20221014091219.jpg', 'autsheep_01_20221014164834.jpg', 'autsheep_01_20221014074859.jpg', 'autsheep_01_20221014111415.jpg', 'autsheep_01_20221014075815.jpg', 'autsheep_01_20221014155711.jpg', 'autsheep_01_20221014075715.jpg', 'autsheep_01_20221014073638.jpg', 'autsheep_01_20221014073847.jpg', 'autsheep_01_20221014091405.jpg', 'autsheep_01_20221014075242.jpg', 'autsheep_01_20221014094754.jpg', 'autsheep_01_20221014073739.jpg', 'autsheep_01_20221014094956.jpg', 'autsheep_01_20221014073809.jpg', 'autsheep_01_20221014163619.jpg', 'autsheep_01_20221014075342.jpg', 'autsheep_01_20221014091334.jpg', 'autsheep_01_20221014110837.jpg', 'autsheep_01_20221014161427.jpg', 'autsheep_01_20221014084135.jpg', 'autsheep_01_20221014072029.jpg', 'autsheep_01_20221014080017.jpg', 'autsheep_01_20221014154704.jpg', 'autsheep_01_20221014080052.jpg', 'autsheep_01_20221014094713.jpg']
+
+ Processing images.
+autsheep_01_20221014073558.jpg  DONE! | 0:00:35.809024
+autsheep_01_20221014115453.jpg  DONE! | 0:00:35.780290
+autsheep_01_20221014094855.jpg  DONE! | 0:00:35.888010
+autsheep_01_20221014075544.jpg  DONE! | 0:00:35.650219
+autsheep_01_20221014074442.jpg  DONE! | 0:00:35.654002
+autsheep_01_20221014084034.jpg  DONE! | 0:00:35.769645
+autsheep_01_20221014133130.jpg  DONE! | 0:00:35.474489
+autsheep_01_20221014073526.jpg  DONE! | 0:00:35.739393
+autsheep_01_20221014084352.jpg  DONE! | 0:00:35.747113
+autsheep_01_20221014084003.jpg  DONE! | 0:00:35.700020
+autsheep_01_20221014092128.jpg  DONE! | 0:00:35.859696
+autsheep_01_20221014094925.jpg  DONE! | 0:00:35.613597
+autsheep_01_20221014075513.jpg  DONE! | 0:00:35.832613
+autsheep_01_20221014073708.jpg  DONE! | 0:00:35.794371
+autsheep_01_20221014082131.jpg  DONE! | 0:00:35.967981
+autsheep_01_20221014074653.jpg  DONE! | 0:00:36.050251
+autsheep_01_20221014075916.jpg  DONE! | 0:00:36.075777
+autsheep_01_20221014154425.jpg  DONE! | 0:00:36.084043
+autsheep_01_20221014083907.jpg  DONE! | 0:00:35.818816
+autsheep_01_20221014154652.jpg  DONE! | 0:00:36.229318
+autsheep_01_20221014074758.jpg  DONE! | 0:00:35.782080
+autsheep_01_20221014091820.jpg  DONE! | 0:00:36.417321
+autsheep_01_20221014075645.jpg  DONE! | 0:00:36.023320
+autsheep_01_20221014091219.jpg  DONE! | 0:00:35.930104
+autsheep_01_20221014164834.jpg  DONE! | 0:00:35.905679
+autsheep_01_20221014074859.jpg  DONE! | 0:00:36.019710
+autsheep_01_20221014111415.jpg  DONE! | 0:00:36.336887
+autsheep_01_20221014075815.jpg  DONE! | 0:00:35.996543
+autsheep_01_20221014155711.jpg  DONE! | 0:00:36.203000
+autsheep_01_20221014075715.jpg  DONE! | 0:00:36.251603
+autsheep_01_20221014073638.jpg  DONE! | 0:00:35.993677
+autsheep_01_20221014073847.jpg  DONE! | 0:00:35.630868
+autsheep_01_20221014091405.jpg  DONE! | 0:00:35.760757
+autsheep_01_20221014075242.jpg  DONE! | 0:00:35.921376
+autsheep_01_20221014094754.jpg  DONE! | 0:00:35.865995
+autsheep_01_20221014073739.jpg  DONE! | 0:00:36.176259
+autsheep_01_20221014094956.jpg  DONE! | 0:00:35.899361
+autsheep_01_20221014073809.jpg  DONE! | 0:00:36.209840
+autsheep_01_20221014163619.jpg  DONE! | 0:00:36.300146
+autsheep_01_20221014075342.jpg  DONE! | 0:00:36.039471
+autsheep_01_20221014091334.jpg  DONE! | 0:00:35.902019
+autsheep_01_20221014110837.jpg  DONE! | 0:00:36.356004
+autsheep_01_20221014161427.jpg  DONE! | 0:00:36.086243
+autsheep_01_20221014084135.jpg  DONE! | 0:00:35.933287
+autsheep_01_20221014072029.jpg  DONE! | 0:00:35.806333
+autsheep_01_20221014080017.jpg  DONE! | 0:00:36.327981
+autsheep_01_20221014154704.jpg  DONE! | 0:00:35.820785
+autsheep_01_20221014080052.jpg  DONE! | 0:00:35.907833
+autsheep_01_20221014094713.jpg  DONE! | 0:00:35.747894
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 36
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221015074439.jpg  DONE! | 0:00:35.786247
+autsheep_01_20221015083005.jpg  DONE! | 0:00:35.933072
+autsheep_01_20221015084847.jpg  DONE! | 0:00:35.756793
+autsheep_01_20221015074400.jpg  DONE! | 0:00:35.654062
+autsheep_01_20221015084918.jpg  DONE! | 0:00:35.641464
+autsheep_01_20221015065132.jpg  DONE! | 0:00:35.636435
+autsheep_01_20221015063512.jpg  DONE! | 0:00:35.755791
+autsheep_01_20221015074611.jpg  DONE! | 0:00:35.431260
+autsheep_01_20221015074330.jpg  DONE! | 0:00:35.630374
+autsheep_01_20221015074300.jpg  DONE! | 0:00:35.727453
+autsheep_01_20221015075116.jpg  DONE! | 0:00:35.529024
+autsheep_01_20221015074129.jpg  DONE! | 0:00:35.857551
+autsheep_01_20221015085449.jpg  DONE! | 0:00:35.696986
+autsheep_01_20221015074510.jpg  DONE! | 0:00:35.734387
+autsheep_01_20221015074229.jpg  DONE! | 0:00:35.587835
+autsheep_01_20221015074641.jpg  DONE! | 0:00:35.538902
+autsheep_01_20221015065557.jpg  DONE! | 0:00:35.714422
+autsheep_01_20221015084657.jpg  DONE! | 0:00:35.499526
+autsheep_01_20221015075045.jpg  DONE! | 0:00:35.725918
+autsheep_01_20221015063612.jpg  DONE! | 0:00:35.559011
+autsheep_01_20221015074540.jpg  DONE! | 0:00:35.916098
+autsheep_01_20221015082123.jpg  DONE! | 0:00:36.265162
+autsheep_01_20221015065658.jpg  DONE! | 0:00:35.987424
+autsheep_01_20221015074159.jpg  DONE! | 0:00:35.766167
+autsheep_01_20221015074025.jpg  DONE! | 0:00:36.666043
+autsheep_01_20221015074814.jpg  DONE! | 0:00:35.960568
+autsheep_01_20221015083844.jpg  DONE! | 0:00:35.973319
+autsheep_01_20221015085308.jpg  DONE! | 0:00:36.220676
+autsheep_01_20221015085344.jpg  DONE! | 0:00:35.809853
+autsheep_01_20221015085418.jpg  DONE! | 0:00:36.187386
+autsheep_01_20221015065628.jpg  DONE! | 0:00:36.006966
+autsheep_01_20221015074743.jpg  DONE! | 0:00:36.145648
+autsheep_01_20221015074854.jpg  DONE! | 0:00:36.008029
+autsheep_01_20221015074711.jpg  DONE! | 0:00:35.974636
+autsheep_01_20221015082210.jpg  DONE! | 0:00:35.793100
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 45
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221015074439.jpg  DONE! | 0:00:36.017981
+autsheep_01_20221015083005.jpg  DONE! | 0:00:35.668402
+autsheep_01_20221015084847.jpg  DONE! | 0:00:35.559142
+autsheep_01_20221015074400.jpg  DONE! | 0:00:35.670529
+autsheep_01_20221015084918.jpg  DONE! | 0:00:35.801588
+autsheep_01_20221015120510.jpg  DONE! | 0:00:36.027451
+autsheep_01_20221015065132.jpg  DONE! | 0:00:35.437040
+autsheep_01_20221015104741.jpg  DONE! | 0:00:35.558223
+autsheep_01_20221015063512.jpg  DONE! | 0:00:35.816849
+autsheep_01_20221015114159.jpg  DONE! | 0:00:35.700328
+autsheep_01_20221015074611.jpg  DONE! | 0:00:35.911134
+autsheep_01_20221015074330.jpg  DONE! | 0:00:36.015272
+autsheep_01_20221015125545.jpg  DONE! | 0:00:35.883625
+autsheep_01_20221015074300.jpg  DONE! | 0:00:35.793729
+autsheep_01_20221015125613.jpg  DONE! | 0:00:35.610919
+autsheep_01_20221015075116.jpg  DONE! | 0:00:35.750328
+autsheep_01_20221015125334.jpg  DONE! | 0:00:35.780471
+autsheep_01_20221015074129.jpg  DONE! | 0:00:36.006302
+autsheep_01_20221015085449.jpg  DONE! | 0:00:36.237594
+autsheep_01_20221015114122.jpg  DONE! | 0:00:36.033434
+autsheep_01_20221015074510.jpg  DONE! | 0:00:36.150832
+autsheep_01_20221015074229.jpg  DONE! | 0:00:36.321973
+autsheep_01_20221015074641.jpg  DONE! | 0:00:35.951723
+autsheep_01_20221015125424.jpg  DONE! | 0:00:35.845890
+autsheep_01_20221015065557.jpg  DONE! | 0:00:36.241999
+autsheep_01_20221015084657.jpg  DONE! | 0:00:36.003468
+autsheep_01_20221015075045.jpg  DONE! | 0:00:36.021774
+autsheep_01_20221015063612.jpg  DONE! | 0:00:35.971344
+autsheep_01_20221015074540.jpg  DONE! | 0:00:36.132593
+autsheep_01_20221015082123.jpg  DONE! | 0:00:36.067494
+autsheep_01_20221015065658.jpg  DONE! | 0:00:35.808688
+autsheep_01_20221015074159.jpg  DONE! | 0:00:35.797509
+autsheep_01_20221015074025.jpg  DONE! | 0:00:36.141810
+autsheep_01_20221015074814.jpg  DONE! | 0:00:36.119367
+autsheep_01_20221015083844.jpg  DONE! | 0:00:35.868517
+autsheep_01_20221015085308.jpg  DONE! | 0:00:36.046495
+autsheep_01_20221015101711.jpg  DONE! | 0:00:36.269422
+autsheep_01_20221015085344.jpg  DONE! | 0:00:35.989431
+autsheep_01_20221015085418.jpg  DONE! | 0:00:35.705428
+autsheep_01_20221015065628.jpg  DONE! | 0:00:36.023981
+autsheep_01_20221015074743.jpg  DONE! | 0:00:35.881938
+autsheep_01_20221015074854.jpg  DONE! | 0:00:35.961194
+autsheep_01_20221015074711.jpg  DONE! | 0:00:35.991924
+autsheep_01_20221015082210.jpg  DONE! | 0:00:36.609444
+The median number of sheep in these images are:  2
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 79
+Using sublist: ['autsheep_01_20221015163030.jpg', 'autsheep_01_20221015153200.jpg', 'autsheep_01_20221015085449.jpg', 'autsheep_01_20221015074641.jpg', 'autsheep_01_20221015065132.jpg', 'autsheep_01_20221015125334.jpg', 'autsheep_01_20221015074439.jpg', 'autsheep_01_20221015152929.jpg', 'autsheep_01_20221015152746.jpg', 'autsheep_01_20221015152608.jpg', 'autsheep_01_20221015084847.jpg', 'autsheep_01_20221015153100.jpg', 'autsheep_01_20221015140321.jpg', '.listing', 'autsheep_01_20221015063512.jpg', 'autsheep_01_20221015083005.jpg', 'autsheep_01_20221015125545.jpg', 'autsheep_01_20221015153130.jpg', 'autsheep_01_20221015075116.jpg', 'autsheep_01_20221015153031.jpg', 'autsheep_01_20221015104741.jpg', 'autsheep_01_20221015082210.jpg', 'autsheep_01_20221015134940.jpg', 'autsheep_01_20221015074159.jpg', 'autsheep_01_20221015074711.jpg', 'autsheep_01_20221015154949.jpg', 'autsheep_01_20221015163934.jpg', 'autsheep_01_20221015074300.jpg', 'autsheep_01_20221015084657.jpg', 'autsheep_01_20221015082123.jpg', 'autsheep_01_20221015083844.jpg', 'autsheep_01_20221015120510.jpg', 'autsheep_01_20221015114159.jpg', 'autsheep_01_20221015074814.jpg', 'autsheep_01_20221015134910.jpg', 'autsheep_01_20221015135819.jpg', 'autsheep_01_20221015163706.jpg', 'autsheep_01_20221015084918.jpg', 'autsheep_01_20221015152536.jpg', 'autsheep_01_20221015135011.jpg', 'autsheep_01_20221015135112.jpg', 'autsheep_01_20221015074854.jpg', 'autsheep_01_20221015125424.jpg', 'autsheep_01_20221015125613.jpg', 'autsheep_01_20221015074229.jpg', 'autsheep_01_20221015140014.jpg', 'autsheep_01_20221015155400.jpg', 'autsheep_01_20221015135041.jpg', 'autsheep_01_20221015114122.jpg', 'autsheep_01_20221015140351.jpg']
+
+ Processing images.
+autsheep_01_20221015163030.jpg  DONE! | 0:00:35.981365
+autsheep_01_20221015153200.jpg  DONE! | 0:00:35.608680
+autsheep_01_20221015085449.jpg  DONE! | 0:00:35.819412
+autsheep_01_20221015074641.jpg  DONE! | 0:00:35.690090
+autsheep_01_20221015065132.jpg  DONE! | 0:00:35.736703
+autsheep_01_20221015125334.jpg  DONE! | 0:00:35.914028
+autsheep_01_20221015074439.jpg  DONE! | 0:00:35.779814
+autsheep_01_20221015152929.jpg  DONE! | 0:00:35.795507
+autsheep_01_20221015152746.jpg  DONE! | 0:00:35.479532
+autsheep_01_20221015152608.jpg  DONE! | 0:00:35.751070
+autsheep_01_20221015084847.jpg  DONE! | 0:00:35.508738
+autsheep_01_20221015153100.jpg  DONE! | 0:00:35.893567
+autsheep_01_20221015140321.jpg  DONE! | 0:00:35.978239
+autsheep_01_20221015063512.jpg  DONE! | 0:00:36.105526
+autsheep_01_20221015083005.jpg  DONE! | 0:00:36.077711
+autsheep_01_20221015125545.jpg  DONE! | 0:00:36.005685
+autsheep_01_20221015153130.jpg  DONE! | 0:00:36.259758
+autsheep_01_20221015075116.jpg  DONE! | 0:00:36.001336
+autsheep_01_20221015153031.jpg  DONE! | 0:00:35.839830
+autsheep_01_20221015104741.jpg  DONE! | 0:00:35.824621
+autsheep_01_20221015082210.jpg  DONE! | 0:00:36.050396
+autsheep_01_20221015134940.jpg  DONE! | 0:00:36.148819
+autsheep_01_20221015074159.jpg  DONE! | 0:00:36.007196
+autsheep_01_20221015074711.jpg  DONE! | 0:00:36.030236
+autsheep_01_20221015154949.jpg  DONE! | 0:00:36.037060
+autsheep_01_20221015163934.jpg  DONE! | 0:00:35.794095
+autsheep_01_20221015074300.jpg  DONE! | 0:00:35.962465
+autsheep_01_20221015084657.jpg  DONE! | 0:00:35.849383
+autsheep_01_20221015082123.jpg  DONE! | 0:00:36.003617
+autsheep_01_20221015083844.jpg  DONE! | 0:00:36.203143
+autsheep_01_20221015120510.jpg  DONE! | 0:00:35.920925
+autsheep_01_20221015114159.jpg  DONE! | 0:00:36.283329
+autsheep_01_20221015074814.jpg  DONE! | 0:00:36.037687
+autsheep_01_20221015134910.jpg  DONE! | 0:00:36.386991
+autsheep_01_20221015135819.jpg  DONE! | 0:00:36.450733
+autsheep_01_20221015163706.jpg  DONE! | 0:00:36.348357
+autsheep_01_20221015084918.jpg  DONE! | 0:00:36.464628
+autsheep_01_20221015152536.jpg  DONE! | 0:00:36.281122
+autsheep_01_20221015135011.jpg  DONE! | 0:00:36.529156
+autsheep_01_20221015135112.jpg  DONE! | 0:00:36.207906
+autsheep_01_20221015074854.jpg  DONE! | 0:00:36.052920
+autsheep_01_20221015125424.jpg  DONE! | 0:00:36.431977
+autsheep_01_20221015125613.jpg  DONE! | 0:00:36.337670
+autsheep_01_20221015074229.jpg  DONE! | 0:00:35.965483
+autsheep_01_20221015140014.jpg  DONE! | 0:00:36.171029
+autsheep_01_20221015155400.jpg  DONE! | 0:00:35.948594
+autsheep_01_20221015135041.jpg  DONE! | 0:00:35.937711
+autsheep_01_20221015114122.jpg  DONE! | 0:00:35.859568
+autsheep_01_20221015140351.jpg  DONE! | 0:00:36.072756
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 96
+Using sublist: ['autsheep_01_20221016084204.jpg', 'autsheep_01_20221016065515.jpg', 'autsheep_01_20221016094015.jpg', 'autsheep_01_20221016070157.jpg', 'autsheep_01_20221016095441.jpg', 'autsheep_01_20221016095230.jpg', 'autsheep_01_20221016065244.jpg', 'autsheep_01_20221016082102.jpg', 'autsheep_01_20221016070820.jpg', 'autsheep_01_20221016083010.jpg', 'autsheep_01_20221016072049.jpg', 'autsheep_01_20221016085722.jpg', 'autsheep_01_20221016084512.jpg', 'autsheep_01_20221016095612.jpg', 'autsheep_01_20221016095941.jpg', 'autsheep_01_20221016093517.jpg', 'autsheep_01_20221016091737.jpg', 'autsheep_01_20221016085017.jpg', 'autsheep_01_20221016064755.jpg', 'autsheep_01_20221016093300.jpg', 'autsheep_01_20221016094148.jpg', 'autsheep_01_20221016092349.jpg', 'autsheep_01_20221016082320.jpg', 'autsheep_01_20221016093904.jpg', 'autsheep_01_20221016091807.jpg', 'autsheep_01_20221016084543.jpg', 'autsheep_01_20221016070358.jpg', 'autsheep_01_20221016085326.jpg', 'autsheep_01_20221016092630.jpg', 'autsheep_01_20221016091908.jpg', '.listing', 'autsheep_01_20221016070227.jpg', 'autsheep_01_20221016092316.jpg', 'autsheep_01_20221016092421.jpg', 'autsheep_01_20221016065956.jpg', 'autsheep_01_20221016094801.jpg', 'autsheep_01_20221016095512.jpg', 'autsheep_01_20221016085356.jpg', 'autsheep_01_20221016071916.jpg', 'autsheep_01_20221016091838.jpg', 'autsheep_01_20221016091707.jpg', 'autsheep_01_20221016093150.jpg', 'autsheep_01_20221016095642.jpg', 'autsheep_01_20221016094337.jpg', 'autsheep_01_20221016065717.jpg', 'autsheep_01_20221016094904.jpg', 'autsheep_01_20221016065314.jpg', 'autsheep_01_20221016090439.jpg', 'autsheep_01_20221016094046.jpg', 'autsheep_01_20221016084319.jpg']
+
+ Processing images.
+autsheep_01_20221016084204.jpg  DONE! | 0:00:36.094999
+autsheep_01_20221016065515.jpg  DONE! | 0:00:35.675193
+autsheep_01_20221016094015.jpg  DONE! | 0:00:36.254669
+autsheep_01_20221016070157.jpg  DONE! | 0:00:36.392883
+autsheep_01_20221016095441.jpg  DONE! | 0:00:36.188903
+autsheep_01_20221016095230.jpg  DONE! | 0:00:36.077710
+autsheep_01_20221016065244.jpg  DONE! | 0:00:36.307091
+autsheep_01_20221016082102.jpg  DONE! | 0:00:36.171994
+autsheep_01_20221016070820.jpg  DONE! | 0:00:35.639022
+autsheep_01_20221016083010.jpg  DONE! | 0:00:35.556647
+autsheep_01_20221016072049.jpg  DONE! | 0:00:35.753124
+autsheep_01_20221016085722.jpg  DONE! | 0:00:35.803584
+autsheep_01_20221016084512.jpg  DONE! | 0:00:35.819358
+autsheep_01_20221016095612.jpg  DONE! | 0:00:35.863798
+autsheep_01_20221016095941.jpg  DONE! | 0:00:36.015640
+autsheep_01_20221016093517.jpg  DONE! | 0:00:35.777543
+autsheep_01_20221016091737.jpg  DONE! | 0:00:36.035282
+autsheep_01_20221016085017.jpg  DONE! | 0:00:36.054086
+autsheep_01_20221016064755.jpg  DONE! | 0:00:35.910289
+autsheep_01_20221016093300.jpg  DONE! | 0:00:36.193008
+autsheep_01_20221016094148.jpg  DONE! | 0:00:36.425166
+autsheep_01_20221016092349.jpg  DONE! | 0:00:36.129224
+autsheep_01_20221016082320.jpg  DONE! | 0:00:36.183103
+autsheep_01_20221016093904.jpg  DONE! | 0:00:36.159304
+autsheep_01_20221016091807.jpg  DONE! | 0:00:36.431047
+autsheep_01_20221016084543.jpg  DONE! | 0:00:36.431372
+autsheep_01_20221016070358.jpg  DONE! | 0:00:36.597965
+autsheep_01_20221016085326.jpg  DONE! | 0:00:36.364383
+autsheep_01_20221016092630.jpg  DONE! | 0:00:36.142917
+autsheep_01_20221016091908.jpg  DONE! | 0:00:36.207216
+autsheep_01_20221016070227.jpg  DONE! | 0:00:36.313115
+autsheep_01_20221016092316.jpg  DONE! | 0:00:36.157483
+autsheep_01_20221016092421.jpg  DONE! | 0:00:36.089376
+autsheep_01_20221016065956.jpg  DONE! | 0:00:36.168812
+autsheep_01_20221016094801.jpg  DONE! | 0:00:36.057381
+autsheep_01_20221016095512.jpg  DONE! | 0:00:36.094157
+autsheep_01_20221016085356.jpg  DONE! | 0:00:36.250239
+autsheep_01_20221016071916.jpg  DONE! | 0:00:36.264999
+autsheep_01_20221016091838.jpg  DONE! | 0:00:36.372650
+autsheep_01_20221016091707.jpg  DONE! | 0:00:36.675794
+autsheep_01_20221016093150.jpg  DONE! | 0:00:36.292816
+autsheep_01_20221016095642.jpg  DONE! | 0:00:36.178453
+autsheep_01_20221016094337.jpg  DONE! | 0:00:36.425518
+autsheep_01_20221016065717.jpg  DONE! | 0:00:36.471203
+autsheep_01_20221016094904.jpg  DONE! | 0:00:36.469929
+autsheep_01_20221016065314.jpg  DONE! | 0:00:36.503815
+autsheep_01_20221016090439.jpg  DONE! | 0:00:36.108977
+autsheep_01_20221016094046.jpg  DONE! | 0:00:36.036530
+autsheep_01_20221016084319.jpg  DONE! | 0:00:36.501702
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 228
+Using sublist: ['autsheep_01_20221016094218.jpg', 'autsheep_01_20221016083614.jpg', 'autsheep_01_20221016105943.jpg', 'autsheep_01_20221016065344.jpg', 'autsheep_01_20221016070227.jpg', 'autsheep_01_20221016095441.jpg', 'autsheep_01_20221016085500.jpg', 'autsheep_01_20221016070257.jpg', 'autsheep_01_20221016084543.jpg', 'autsheep_01_20221016091055.jpg', 'autsheep_01_20221016104451.jpg', 'autsheep_01_20221016101419.jpg', 'autsheep_01_20221016121441.jpg', 'autsheep_01_20221016090439.jpg', 'autsheep_01_20221016094904.jpg', 'autsheep_01_20221016094148.jpg', 'autsheep_01_20221016124821.jpg', 'autsheep_01_20221016110834.jpg', 'autsheep_01_20221016092731.jpg', 'autsheep_01_20221016111632.jpg', 'autsheep_01_20221016102423.jpg', 'autsheep_01_20221016065244.jpg', 'autsheep_01_20221016115921.jpg', 'autsheep_01_20221016095829.jpg', 'autsheep_01_20221016113327.jpg', 'autsheep_01_20221016083045.jpg', 'autsheep_01_20221016125647.jpg', 'autsheep_01_20221016123138.jpg', 'autsheep_01_20221016085017.jpg', 'autsheep_01_20221016115248.jpg', 'autsheep_01_20221016120107.jpg', 'autsheep_01_20221016104026.jpg', 'autsheep_01_20221016105325.jpg', 'autsheep_01_20221016104545.jpg', 'autsheep_01_20221016104109.jpg', 'autsheep_01_20221016110531.jpg', 'autsheep_01_20221016083314.jpg', 'autsheep_01_20221016085326.jpg', 'autsheep_01_20221016072236.jpg', 'autsheep_01_20221016070056.jpg', 'autsheep_01_20221016083010.jpg', 'autsheep_01_20221016103433.jpg', 'autsheep_01_20221016103016.jpg', 'autsheep_01_20221016113108.jpg', 'autsheep_01_20221016082102.jpg', 'autsheep_01_20221016072523.jpg', 'autsheep_01_20221016101614.jpg', 'autsheep_01_20221016093945.jpg', 'autsheep_01_20221016115540.jpg', 'autsheep_01_20221016110800.jpg']
+
+ Processing images.
+autsheep_01_20221016094218.jpg  DONE! | 0:00:36.268141
+autsheep_01_20221016083614.jpg  DONE! | 0:00:35.877069
+autsheep_01_20221016105943.jpg  DONE! | 0:00:35.821691
+autsheep_01_20221016065344.jpg  DONE! | 0:00:35.839670
+autsheep_01_20221016070227.jpg  DONE! | 0:00:35.896002
+autsheep_01_20221016095441.jpg  DONE! | 0:00:36.023037
+autsheep_01_20221016085500.jpg  DONE! | 0:00:35.898223
+autsheep_01_20221016070257.jpg  DONE! | 0:00:35.884889
+autsheep_01_20221016084543.jpg  DONE! | 0:00:36.070193
+autsheep_01_20221016091055.jpg  DONE! | 0:00:35.841543
+autsheep_01_20221016104451.jpg  DONE! | 0:00:36.174790
+autsheep_01_20221016101419.jpg  DONE! | 0:00:35.845878
+autsheep_01_20221016121441.jpg  DONE! | 0:00:35.691247
+autsheep_01_20221016090439.jpg  DONE! | 0:00:35.783965
+autsheep_01_20221016094904.jpg  DONE! | 0:00:36.029004
+autsheep_01_20221016094148.jpg  DONE! | 0:00:36.200821
+autsheep_01_20221016124821.jpg  DONE! | 0:00:35.934061
+autsheep_01_20221016110834.jpg  DONE! | 0:00:35.723883
+autsheep_01_20221016092731.jpg  DONE! | 0:00:36.428440
+autsheep_01_20221016111632.jpg  DONE! | 0:00:36.174476
+autsheep_01_20221016102423.jpg  DONE! | 0:00:36.379531
+autsheep_01_20221016065244.jpg  DONE! | 0:00:36.530373
+autsheep_01_20221016115921.jpg  DONE! | 0:00:36.347715
+autsheep_01_20221016095829.jpg  DONE! | 0:00:36.304932
+autsheep_01_20221016113327.jpg  DONE! | 0:00:36.091222
+autsheep_01_20221016083045.jpg  DONE! | 0:00:36.269945
+autsheep_01_20221016125647.jpg  DONE! | 0:00:36.319123
+autsheep_01_20221016123138.jpg  DONE! | 0:00:36.237213
+autsheep_01_20221016085017.jpg  DONE! | 0:00:36.149589
+autsheep_01_20221016115248.jpg  DONE! | 0:00:36.102953
+autsheep_01_20221016120107.jpg  DONE! | 0:00:35.697429
+autsheep_01_20221016104026.jpg  DONE! | 0:00:35.887466
+autsheep_01_20221016105325.jpg  DONE! | 0:00:35.858655
+autsheep_01_20221016104545.jpg  DONE! | 0:00:36.385090
+autsheep_01_20221016104109.jpg  DONE! | 0:00:36.285736
+autsheep_01_20221016110531.jpg  DONE! | 0:00:36.439864
+autsheep_01_20221016083314.jpg  DONE! | 0:00:35.816015
+autsheep_01_20221016085326.jpg  DONE! | 0:00:36.031615
+autsheep_01_20221016072236.jpg  DONE! | 0:00:35.924765
+autsheep_01_20221016070056.jpg  DONE! | 0:00:36.398705
+autsheep_01_20221016083010.jpg  DONE! | 0:00:36.644267
+autsheep_01_20221016103433.jpg  DONE! | 0:00:36.591537
+autsheep_01_20221016103016.jpg  DONE! | 0:00:36.615338
+autsheep_01_20221016113108.jpg  DONE! | 0:00:36.185599
+autsheep_01_20221016082102.jpg  DONE! | 0:00:36.234374
+autsheep_01_20221016072523.jpg  DONE! | 0:00:36.422409
+autsheep_01_20221016101614.jpg  DONE! | 0:00:36.722392
+autsheep_01_20221016093945.jpg  DONE! | 0:00:36.465321
+autsheep_01_20221016115540.jpg  DONE! | 0:00:36.674402
+autsheep_01_20221016110800.jpg  DONE! | 0:00:36.356820
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 329
+Using sublist: ['autsheep_01_20221016150346.jpg', 'autsheep_01_20221016091838.jpg', 'autsheep_01_20221016124504.jpg', 'autsheep_01_20221016100149.jpg', 'autsheep_01_20221016102423.jpg', 'autsheep_01_20221016085017.jpg', 'autsheep_01_20221016064242.jpg', 'autsheep_01_20221016121441.jpg', 'autsheep_01_20221016140854.jpg', 'autsheep_01_20221016121311.jpg', 'autsheep_01_20221016105843.jpg', 'autsheep_01_20221016095139.jpg', 'autsheep_01_20221016094046.jpg', 'autsheep_01_20221016113406.jpg', 'autsheep_01_20221016072523.jpg', 'autsheep_01_20221016130603.jpg', 'autsheep_01_20221016065244.jpg', 'autsheep_01_20221016094015.jpg', 'autsheep_01_20221016103948.jpg', 'autsheep_01_20221016071916.jpg', 'autsheep_01_20221016155957.jpg', 'autsheep_01_20221016091707.jpg', 'autsheep_01_20221016110131.jpg', 'autsheep_01_20221016103433.jpg', 'autsheep_01_20221016095441.jpg', 'autsheep_01_20221016134732.jpg', 'autsheep_01_20221016141611.jpg', 'autsheep_01_20221016102627.jpg', 'autsheep_01_20221016100744.jpg', 'autsheep_01_20221016091055.jpg', 'autsheep_01_20221016111016.jpg', 'autsheep_01_20221016123217.jpg', 'autsheep_01_20221016133722.jpg', 'autsheep_01_20221016121355.jpg', 'autsheep_01_20221016091737.jpg', 'autsheep_01_20221016065314.jpg', 'autsheep_01_20221016133346.jpg', 'autsheep_01_20221016120645.jpg', 'autsheep_01_20221016100045.jpg', 'autsheep_01_20221016142949.jpg', 'autsheep_01_20221016103744.jpg', 'autsheep_01_20221016134025.jpg', 'autsheep_01_20221016133301.jpg', 'autsheep_01_20221016144425.jpg', 'autsheep_01_20221016102230.jpg', 'autsheep_01_20221016124426.jpg', 'autsheep_01_20221016095542.jpg', 'autsheep_01_20221016120229.jpg', 'autsheep_01_20221016094904.jpg', 'autsheep_01_20221016102049.jpg']
+
+ Processing images.
+autsheep_01_20221016150346.jpg  DONE! | 0:00:36.201016
+autsheep_01_20221016091838.jpg  DONE! | 0:00:36.313481
+autsheep_01_20221016124504.jpg  DONE! | 0:00:35.789396
+autsheep_01_20221016100149.jpg  DONE! | 0:00:36.097688
+autsheep_01_20221016102423.jpg  DONE! | 0:00:35.836622
+autsheep_01_20221016085017.jpg  DONE! | 0:00:36.058742
+autsheep_01_20221016064242.jpg  DONE! | 0:00:36.114914
+autsheep_01_20221016121441.jpg  DONE! | 0:00:36.221975
+autsheep_01_20221016140854.jpg  DONE! | 0:00:36.356062
+autsheep_01_20221016121311.jpg  DONE! | 0:00:36.448682
+autsheep_01_20221016105843.jpg  DONE! | 0:00:36.423663
+autsheep_01_20221016095139.jpg  DONE! | 0:00:36.421061
+autsheep_01_20221016094046.jpg  DONE! | 0:00:36.235819
+autsheep_01_20221016113406.jpg  DONE! | 0:00:36.121226
+autsheep_01_20221016072523.jpg  DONE! | 0:00:36.234663
+autsheep_01_20221016130603.jpg  DONE! | 0:00:36.259738
+autsheep_01_20221016065244.jpg  DONE! | 0:00:36.374454
+autsheep_01_20221016094015.jpg  DONE! | 0:00:36.463636
+autsheep_01_20221016103948.jpg  DONE! | 0:00:36.321772
+autsheep_01_20221016071916.jpg  DONE! | 0:00:36.722075
+autsheep_01_20221016155957.jpg  DONE! | 0:00:36.422413
+autsheep_01_20221016091707.jpg  DONE! | 0:00:36.772432
+autsheep_01_20221016110131.jpg  DONE! | 0:00:36.777775
+autsheep_01_20221016103433.jpg  DONE! | 0:00:36.708142
+autsheep_01_20221016095441.jpg  DONE! | 0:00:36.272958
+autsheep_01_20221016134732.jpg  DONE! | 0:00:36.526502
+autsheep_01_20221016141611.jpg  DONE! | 0:00:36.263108
+autsheep_01_20221016102627.jpg  DONE! | 0:00:36.392188
+autsheep_01_20221016100744.jpg  DONE! | 0:00:35.998435
+autsheep_01_20221016091055.jpg  DONE! | 0:00:35.875804
+autsheep_01_20221016111016.jpg  DONE! | 0:00:36.251974
+autsheep_01_20221016123217.jpg  DONE! | 0:00:36.153762
+autsheep_01_20221016133722.jpg  DONE! | 0:00:36.316912
+autsheep_01_20221016121355.jpg  DONE! | 0:00:36.497976
+autsheep_01_20221016091737.jpg  DONE! | 0:00:36.569187
+autsheep_01_20221016065314.jpg  DONE! | 0:00:36.211211
+autsheep_01_20221016133346.jpg  DONE! | 0:00:36.328930
+autsheep_01_20221016120645.jpg  DONE! | 0:00:36.030966
+autsheep_01_20221016100045.jpg  DONE! | 0:00:36.587993
+autsheep_01_20221016142949.jpg  DONE! | 0:00:36.773766
+autsheep_01_20221016103744.jpg  DONE! | 0:00:36.504902
+autsheep_01_20221016134025.jpg  DONE! | 0:00:36.155653
+autsheep_01_20221016133301.jpg  DONE! | 0:00:36.618507
+autsheep_01_20221016144425.jpg  DONE! | 0:00:36.567076
+autsheep_01_20221016102230.jpg  DONE! | 0:00:36.775773
+autsheep_01_20221016124426.jpg  DONE! | 0:00:36.575315
+autsheep_01_20221016095542.jpg  DONE! | 0:00:36.581132
+autsheep_01_20221016120229.jpg  DONE! | 0:00:36.607244
+autsheep_01_20221016094904.jpg  DONE! | 0:00:36.608976
+autsheep_01_20221016102049.jpg  DONE! | 0:00:36.721023
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 22
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221017063824.jpg  DONE! | 0:00:36.519162
+autsheep_01_20221017063753.jpg  DONE! | 0:00:36.501853
+autsheep_01_20221017063339.jpg  DONE! | 0:00:35.588483
+autsheep_01_20221017063445.jpg  DONE! | 0:00:35.686699
+autsheep_01_20221017063309.jpg  DONE! | 0:00:35.789539
+autsheep_01_20221017063201.jpg  DONE! | 0:00:35.872248
+autsheep_01_20221017080744.jpg  DONE! | 0:00:35.738597
+autsheep_01_20221017063414.jpg  DONE! | 0:00:35.533682
+autsheep_01_20221017063101.jpg  DONE! | 0:00:35.502094
+autsheep_01_20221017063233.jpg  DONE! | 0:00:35.524112
+autsheep_01_20221017072738.jpg  DONE! | 0:00:35.889826
+autsheep_01_20221017063546.jpg  DONE! | 0:00:35.515316
+autsheep_01_20221017072716.jpg  DONE! | 0:00:35.886551
+autsheep_01_20221017063131.jpg  DONE! | 0:00:35.648206
+autsheep_01_20221017063516.jpg  DONE! | 0:00:35.948243
+autsheep_01_20221017065431.jpg  DONE! | 0:00:35.652940
+autsheep_01_20221017063616.jpg  DONE! | 0:00:36.148325
+autsheep_01_20221017072538.jpg  DONE! | 0:00:36.145262
+autsheep_01_20221017072607.jpg  DONE! | 0:00:35.841943
+autsheep_01_20221017063647.jpg  DONE! | 0:00:36.214743
+autsheep_01_20221017063723.jpg  DONE! | 0:00:35.922116
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 59
+Using sublist: ['autsheep_01_20221017111933.jpg', 'autsheep_01_20221017072716.jpg', 'autsheep_01_20221017122002.jpg', 'autsheep_01_20221017122033.jpg', 'autsheep_01_20221017102023.jpg', 'autsheep_01_20221017114811.jpg', 'autsheep_01_20221017072607.jpg', 'autsheep_01_20221017125725.jpg', 'autsheep_01_20221017063516.jpg', 'autsheep_01_20221017063753.jpg', 'autsheep_01_20221017125618.jpg', 'autsheep_01_20221017114942.jpg', 'autsheep_01_20221017101727.jpg', 'autsheep_01_20221017063546.jpg', 'autsheep_01_20221017114911.jpg', 'autsheep_01_20221017114640.jpg', 'autsheep_01_20221017063233.jpg', 'autsheep_01_20221017114338.jpg', 'autsheep_01_20221017113029.jpg', 'autsheep_01_20221017125655.jpg', '.listing', 'autsheep_01_20221017114740.jpg', 'autsheep_01_20221017063723.jpg', 'autsheep_01_20221017063647.jpg', 'autsheep_01_20221017114438.jpg', 'autsheep_01_20221017114206.jpg', 'autsheep_01_20221017112201.jpg', 'autsheep_01_20221017114408.jpg', 'autsheep_01_20221017063445.jpg', 'autsheep_01_20221017114710.jpg', 'autsheep_01_20221017072738.jpg', 'autsheep_01_20221017063201.jpg', 'autsheep_01_20221017063131.jpg', 'autsheep_01_20221017104016.jpg', 'autsheep_01_20221017063824.jpg', 'autsheep_01_20221017114509.jpg', 'autsheep_01_20221017072538.jpg', 'autsheep_01_20221017114100.jpg', 'autsheep_01_20221017101922.jpg', 'autsheep_01_20221017114609.jpg', 'autsheep_01_20221017063309.jpg', 'autsheep_01_20221017114237.jpg', 'autsheep_01_20221017063339.jpg', 'autsheep_01_20221017102227.jpg', 'autsheep_01_20221017114539.jpg', 'autsheep_01_20221017080744.jpg', 'autsheep_01_20221017123042.jpg', 'autsheep_01_20221017125925.jpg', 'autsheep_01_20221017111836.jpg', 'autsheep_01_20221017114841.jpg']
+
+ Processing images.
+autsheep_01_20221017111933.jpg  DONE! | 0:00:36.069800
+autsheep_01_20221017072716.jpg  DONE! | 0:00:35.601579
+autsheep_01_20221017122002.jpg  DONE! | 0:00:35.892127
+autsheep_01_20221017122033.jpg  DONE! | 0:00:35.666877
+autsheep_01_20221017102023.jpg  DONE! | 0:00:35.590161
+autsheep_01_20221017114811.jpg  DONE! | 0:00:35.856750
+autsheep_01_20221017072607.jpg  DONE! | 0:00:35.642199
+autsheep_01_20221017125725.jpg  DONE! | 0:00:36.111989
+autsheep_01_20221017063516.jpg  DONE! | 0:00:35.638665
+autsheep_01_20221017063753.jpg  DONE! | 0:00:35.805584
+autsheep_01_20221017125618.jpg  DONE! | 0:00:36.054936
+autsheep_01_20221017114942.jpg  DONE! | 0:00:35.882481
+autsheep_01_20221017101727.jpg  DONE! | 0:00:36.453844
+autsheep_01_20221017063546.jpg  DONE! | 0:00:36.256514
+autsheep_01_20221017114911.jpg  DONE! | 0:00:36.023653
+autsheep_01_20221017114640.jpg  DONE! | 0:00:35.997295
+autsheep_01_20221017063233.jpg  DONE! | 0:00:36.170948
+autsheep_01_20221017114338.jpg  DONE! | 0:00:35.942570
+autsheep_01_20221017113029.jpg  DONE! | 0:00:36.099114
+autsheep_01_20221017125655.jpg  DONE! | 0:00:36.112992
+autsheep_01_20221017114740.jpg  DONE! | 0:00:35.638028
+autsheep_01_20221017063723.jpg  DONE! | 0:00:35.990069
+autsheep_01_20221017063647.jpg  DONE! | 0:00:35.818511
+autsheep_01_20221017114438.jpg  DONE! | 0:00:36.085767
+autsheep_01_20221017114206.jpg  DONE! | 0:00:36.400068
+autsheep_01_20221017112201.jpg  DONE! | 0:00:35.991649
+autsheep_01_20221017114408.jpg  DONE! | 0:00:36.112769
+autsheep_01_20221017063445.jpg  DONE! | 0:00:36.151975
+autsheep_01_20221017114710.jpg  DONE! | 0:00:36.388195
+autsheep_01_20221017072738.jpg  DONE! | 0:00:36.262246
+autsheep_01_20221017063201.jpg  DONE! | 0:00:36.134612
+autsheep_01_20221017063131.jpg  DONE! | 0:00:36.325573
+autsheep_01_20221017104016.jpg  DONE! | 0:00:36.444106
+autsheep_01_20221017063824.jpg  DONE! | 0:00:36.148062
+autsheep_01_20221017114509.jpg  DONE! | 0:00:36.130559
+autsheep_01_20221017072538.jpg  DONE! | 0:00:36.167606
+autsheep_01_20221017114100.jpg  DONE! | 0:00:36.249653
+autsheep_01_20221017101922.jpg  DONE! | 0:00:36.474746
+autsheep_01_20221017114609.jpg  DONE! | 0:00:36.005714
+autsheep_01_20221017063309.jpg  DONE! | 0:00:35.928787
+autsheep_01_20221017114237.jpg  DONE! | 0:00:36.677476
+autsheep_01_20221017063339.jpg  DONE! | 0:00:35.973587
+autsheep_01_20221017102227.jpg  DONE! | 0:00:36.179879
+autsheep_01_20221017114539.jpg  DONE! | 0:00:35.940517
+autsheep_01_20221017080744.jpg  DONE! | 0:00:35.647719
+autsheep_01_20221017123042.jpg  DONE! | 0:00:35.913679
+autsheep_01_20221017125925.jpg  DONE! | 0:00:35.938752
+autsheep_01_20221017111836.jpg  DONE! | 0:00:36.365061
+autsheep_01_20221017114841.jpg  DONE! | 0:00:35.869023
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 103
+Using sublist: ['autsheep_01_20221017063414.jpg', 'autsheep_01_20221017063339.jpg', 'autsheep_01_20221017063516.jpg', 'autsheep_01_20221017063546.jpg', 'autsheep_01_20221017114841.jpg', 'autsheep_01_20221017145353.jpg', 'autsheep_01_20221017145725.jpg', 'autsheep_01_20221017145826.jpg', 'autsheep_01_20221017115025.jpg', 'autsheep_01_20221017133234.jpg', 'autsheep_01_20221017150027.jpg', 'autsheep_01_20221017125655.jpg', 'autsheep_01_20221017114539.jpg', 'autsheep_01_20221017114609.jpg', 'autsheep_01_20221017112201.jpg', 'autsheep_01_20221017130201.jpg', 'autsheep_01_20221017130131.jpg', 'autsheep_01_20221017072607.jpg', 'autsheep_01_20221017114811.jpg', 'autsheep_01_20221017145554.jpg', 'autsheep_01_20221017145322.jpg', 'autsheep_01_20221017114408.jpg', 'autsheep_01_20221017063824.jpg', 'autsheep_01_20221017145624.jpg', 'autsheep_01_20221017133002.jpg', 'autsheep_01_20221017114438.jpg', 'autsheep_01_20221017114942.jpg', 'autsheep_01_20221017114740.jpg', 'autsheep_01_20221017063647.jpg', 'autsheep_01_20221017125725.jpg', 'autsheep_01_20221017063101.jpg', 'autsheep_01_20221017065431.jpg', 'autsheep_01_20221017132728.jpg', 'autsheep_01_20221017132800.jpg', 'autsheep_01_20221017142359.jpg', 'autsheep_01_20221017114710.jpg', 'autsheep_01_20221017113029.jpg', 'autsheep_01_20221017145956.jpg', 'autsheep_01_20221017133103.jpg', 'autsheep_01_20221017114136.jpg', 'autsheep_01_20221017102227.jpg', 'autsheep_01_20221017145453.jpg', 'autsheep_01_20221017114640.jpg', 'autsheep_01_20221017080744.jpg', 'autsheep_01_20221017133133.jpg', 'autsheep_01_20221017114509.jpg', 'autsheep_01_20221017133649.jpg', 'autsheep_01_20221017132932.jpg', 'autsheep_01_20221017072538.jpg', 'autsheep_01_20221017133814.jpg']
+
+ Processing images.
+autsheep_01_20221017063414.jpg  DONE! | 0:00:35.927018
+autsheep_01_20221017063339.jpg  DONE! | 0:00:36.207703
+autsheep_01_20221017063516.jpg  DONE! | 0:00:35.388775
+autsheep_01_20221017063546.jpg  DONE! | 0:00:35.883146
+autsheep_01_20221017114841.jpg  DONE! | 0:00:35.785183
+autsheep_01_20221017145353.jpg  DONE! | 0:00:35.316634
+autsheep_01_20221017145725.jpg  DONE! | 0:00:35.745196
+autsheep_01_20221017145826.jpg  DONE! | 0:00:35.753657
+autsheep_01_20221017115025.jpg  DONE! | 0:00:35.645344
+autsheep_01_20221017133234.jpg  DONE! | 0:00:36.081133
+autsheep_01_20221017150027.jpg  DONE! | 0:00:36.159628
+autsheep_01_20221017125655.jpg  DONE! | 0:00:35.964125
+autsheep_01_20221017114539.jpg  DONE! | 0:00:36.222436
+autsheep_01_20221017114609.jpg  DONE! | 0:00:36.168014
+autsheep_01_20221017112201.jpg  DONE! | 0:00:35.892442
+autsheep_01_20221017130201.jpg  DONE! | 0:00:35.886974
+autsheep_01_20221017130131.jpg  DONE! | 0:00:35.895697
+autsheep_01_20221017072607.jpg  DONE! | 0:00:35.775693
+autsheep_01_20221017114811.jpg  DONE! | 0:00:35.815231
+autsheep_01_20221017145554.jpg  DONE! | 0:00:35.877384
+autsheep_01_20221017145322.jpg  DONE! | 0:00:35.953656
+autsheep_01_20221017114408.jpg  DONE! | 0:00:36.619976
+autsheep_01_20221017063824.jpg  DONE! | 0:00:36.457543
+autsheep_01_20221017145624.jpg  DONE! | 0:00:36.360879
+autsheep_01_20221017133002.jpg  DONE! | 0:00:36.340862
+autsheep_01_20221017114438.jpg  DONE! | 0:00:36.512026
+autsheep_01_20221017114942.jpg  DONE! | 0:00:36.188497
+autsheep_01_20221017114740.jpg  DONE! | 0:00:36.299671
+autsheep_01_20221017063647.jpg  DONE! | 0:00:36.096686
+autsheep_01_20221017125725.jpg  DONE! | 0:00:36.070140
+autsheep_01_20221017063101.jpg  DONE! | 0:00:35.967436
+autsheep_01_20221017065431.jpg  DONE! | 0:00:35.815759
+autsheep_01_20221017132728.jpg  DONE! | 0:00:36.321796
+autsheep_01_20221017132800.jpg  DONE! | 0:00:36.117738
+autsheep_01_20221017142359.jpg  DONE! | 0:00:35.980147
+autsheep_01_20221017114710.jpg  DONE! | 0:00:36.006093
+autsheep_01_20221017113029.jpg  DONE! | 0:00:35.785396
+autsheep_01_20221017145956.jpg  DONE! | 0:00:35.784902
+autsheep_01_20221017133103.jpg  DONE! | 0:00:36.055591
+autsheep_01_20221017114136.jpg  DONE! | 0:00:35.847430
+autsheep_01_20221017102227.jpg  DONE! | 0:00:36.059040
+autsheep_01_20221017145453.jpg  DONE! | 0:00:36.190004
+autsheep_01_20221017114640.jpg  DONE! | 0:00:35.777543
+autsheep_01_20221017080744.jpg  DONE! | 0:00:36.240293
+autsheep_01_20221017133133.jpg  DONE! | 0:00:36.165561
+autsheep_01_20221017114509.jpg  DONE! | 0:00:36.085299
+autsheep_01_20221017133649.jpg  DONE! | 0:00:45.670771
+autsheep_01_20221017132932.jpg  DONE! | 0:01:00.434458
+autsheep_01_20221017072538.jpg  DONE! | 0:00:36.158448
+autsheep_01_20221017133814.jpg  DONE! | 0:00:36.396908
+The median number of sheep in these images are:  1
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Premature end of JPEG file
+FULL FILE COUNT: 37
+Processing regular file list (<50 files)
+
+ Processing images.
+autsheep_01_20221018085016.jpg  DONE! | 0:00:35.575376
+autsheep_01_20221018093832.jpg  DONE! | 0:00:36.231137
+autsheep_01_20221018084222.jpg  DONE! | 0:00:35.547168
+autsheep_01_20221018090043.jpg  DONE! | 0:00:35.608547
+autsheep_01_20221018084112.jpg  DONE! | 0:00:35.467360
+autsheep_01_20221018095100.jpg  DONE! | 0:00:35.511177
+autsheep_01_20221018085655.jpg  DONE! | 0:00:35.458528
+autsheep_01_20221018085603.jpg  DONE! | 0:00:35.625389
+autsheep_01_20221018090845.jpg  DONE! | 0:00:35.553009
+autsheep_01_20221018094348.jpg  DONE! | 0:00:35.685852
+autsheep_01_20221018095030.jpg  DONE! | 0:00:35.809198
+autsheep_01_20221018084041.jpg  DONE! | 0:00:35.895825
+autsheep_01_20221018083554.jpg  DONE! | 0:00:35.735296
+autsheep_01_20221018091558.jpg  DONE! | 0:00:36.083662
+autsheep_01_20221018090333.jpg  DONE! | 0:00:36.198167
+autsheep_01_20221018082649.jpg  DONE! | 0:00:36.020869
+autsheep_01_20221018095908.jpg  DONE! | 0:00:35.941787
+autsheep_01_20221018085409.jpg  DONE! | 0:00:35.957349
+autsheep_01_20221018094601.jpg  DONE! | 0:00:35.888989
+autsheep_01_20221018091825.jpg  DONE! | 0:00:35.806871
+autsheep_01_20221018085933.jpg  DONE! | 0:00:35.889749
+autsheep_01_20221018091653.jpg  DONE! | 0:00:36.160189
+autsheep_01_20221018083832.jpg  DONE! | 0:00:36.096961
+autsheep_01_20221018085852.jpg  DONE! | 0:00:35.731171
+autsheep_01_20221018080403.jpg  DONE! | 0:00:36.186510
+autsheep_01_20221018090254.jpg  DONE! | 0:00:36.140921
+autsheep_01_20221018090657.jpg  DONE! | 0:00:35.928655
+autsheep_01_20221018085741.jpg  DONE! | 0:00:36.036754
+autsheep_01_20221018095723.jpg  DONE! | 0:00:36.038119
+autsheep_01_20221018083505.jpg  DONE! | 0:00:35.818966
+autsheep_01_20221018083933.jpg  DONE! | 0:00:36.342661
+autsheep_01_20221018091310.jpg  DONE! | 0:00:36.136697
+autsheep_01_20221018094314.jpg  DONE! | 0:00:36.396449
+autsheep_01_20221018094243.jpg  DONE! | 0:00:36.175043
+autsheep_01_20221018095607.jpg  DONE! | 0:00:36.107977
+autsheep_01_20221018085110.jpg  DONE! | 0:00:36.460086
+The median number of sheep in these images are:  0
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 146
+Using sublist: ['autsheep_01_20221018112607.jpg', 'autsheep_01_20221018112507.jpg', 'autsheep_01_20221018084041.jpg', 'autsheep_01_20221018112134.jpg', 'autsheep_01_20221018102545.jpg', 'autsheep_01_20221018110934.jpg', 'autsheep_01_20221018113140.jpg', 'autsheep_01_20221018102725.jpg', 'autsheep_01_20221018114947.jpg', 'autsheep_01_20221018121947.jpg', 'autsheep_01_20221018104751.jpg', 'autsheep_01_20221018085016.jpg', 'autsheep_01_20221018123323.jpg', 'autsheep_01_20221018105016.jpg', 'autsheep_01_20221018104946.jpg', 'autsheep_01_20221018103534.jpg', 'autsheep_01_20221018115653.jpg', 'autsheep_01_20221018124058.jpg', 'autsheep_01_20221018102129.jpg', 'autsheep_01_20221018105708.jpg', 'autsheep_01_20221018124710.jpg', 'autsheep_01_20221018110123.jpg', 'autsheep_01_20221018105922.jpg', 'autsheep_01_20221018114830.jpg', 'autsheep_01_20221018115804.jpg', 'autsheep_01_20221018111704.jpg', 'autsheep_01_20221018085603.jpg', 'autsheep_01_20221018103041.jpg', 'autsheep_01_20221018103838.jpg', 'autsheep_01_20221018090845.jpg', 'autsheep_01_20221018124810.jpg', 'autsheep_01_20221018095723.jpg', 'autsheep_01_20221018083505.jpg', 'autsheep_01_20221018085741.jpg', 'autsheep_01_20221018094314.jpg', 'autsheep_01_20221018113910.jpg', 'autsheep_01_20221018082649.jpg', 'autsheep_01_20221018102936.jpg', 'autsheep_01_20221018120650.jpg', 'autsheep_01_20221018125218.jpg', 'autsheep_01_20221018103409.jpg', 'autsheep_01_20221018080403.jpg', 'autsheep_01_20221018085655.jpg', 'autsheep_01_20221018114005.jpg', 'autsheep_01_20221018121402.jpg', 'autsheep_01_20221018084222.jpg', 'autsheep_01_20221018095030.jpg', 'autsheep_01_20221018112104.jpg', 'autsheep_01_20221018113818.jpg', 'autsheep_01_20221018114610.jpg']
+
+ Processing images.
+autsheep_01_20221018112607.jpg  DONE! | 0:00:35.621393
+autsheep_01_20221018112507.jpg  DONE! | 0:00:35.635430
+autsheep_01_20221018084041.jpg  DONE! | 0:00:35.360590
+autsheep_01_20221018112134.jpg  DONE! | 0:00:35.507163
+autsheep_01_20221018102545.jpg  DONE! | 0:00:35.706208
+autsheep_01_20221018110934.jpg  DONE! | 0:00:35.682950
+autsheep_01_20221018113140.jpg  DONE! | 0:00:35.420118
+autsheep_01_20221018102725.jpg  DONE! | 0:00:35.310596
+autsheep_01_20221018114947.jpg  DONE! | 0:00:35.414042
+autsheep_01_20221018121947.jpg  DONE! | 0:00:35.560545
+autsheep_01_20221018104751.jpg  DONE! | 0:00:35.997549
+autsheep_01_20221018085016.jpg  DONE! | 0:00:35.596046
+autsheep_01_20221018123323.jpg  DONE! | 0:00:35.976151
+autsheep_01_20221018105016.jpg  DONE! | 0:00:35.671525
+autsheep_01_20221018104946.jpg  DONE! | 0:00:35.841458
+autsheep_01_20221018103534.jpg  DONE! | 0:00:35.950974
+autsheep_01_20221018115653.jpg  DONE! | 0:00:35.662731
+autsheep_01_20221018124058.jpg  DONE! | 0:00:35.532174
+autsheep_01_20221018102129.jpg  DONE! | 0:00:35.615195
+autsheep_01_20221018105708.jpg  DONE! | 0:00:35.991657
+autsheep_01_20221018124710.jpg  DONE! | 0:00:35.716105
+autsheep_01_20221018110123.jpg  DONE! | 0:00:35.614161
+autsheep_01_20221018105922.jpg  DONE! | 0:00:35.823048
+autsheep_01_20221018114830.jpg  DONE! | 0:00:35.522463
+autsheep_01_20221018115804.jpg  DONE! | 0:00:35.899872
+autsheep_01_20221018111704.jpg  DONE! | 0:00:35.688163
+autsheep_01_20221018085603.jpg  DONE! | 0:00:36.072975
+autsheep_01_20221018103041.jpg  DONE! | 0:00:35.822083
+autsheep_01_20221018103838.jpg  DONE! | 0:00:35.882345
+autsheep_01_20221018090845.jpg  DONE! | 0:00:35.687329
+autsheep_01_20221018124810.jpg  DONE! | 0:00:35.893761
+autsheep_01_20221018095723.jpg  DONE! | 0:00:35.972525
+autsheep_01_20221018083505.jpg  DONE! | 0:00:35.960358
+autsheep_01_20221018085741.jpg  DONE! | 0:00:35.862040
+autsheep_01_20221018094314.jpg  DONE! | 0:00:35.923862
+autsheep_01_20221018113910.jpg  DONE! | 0:00:35.628492
+autsheep_01_20221018082649.jpg  DONE! | 0:00:36.135473
+autsheep_01_20221018102936.jpg  DONE! | 0:00:36.221997
+autsheep_01_20221018120650.jpg  DONE! | 0:00:36.040882
+autsheep_01_20221018125218.jpg  DONE! | 0:00:35.692044
+autsheep_01_20221018103409.jpg  DONE! | 0:00:35.518744
+autsheep_01_20221018080403.jpg  DONE! | 0:00:35.710167
+autsheep_01_20221018085655.jpg  DONE! | 0:00:35.702828
+autsheep_01_20221018114005.jpg  DONE! | 0:00:36.025925
+autsheep_01_20221018121402.jpg  DONE! | 0:00:35.666317
+autsheep_01_20221018084222.jpg  DONE! | 0:00:35.434257
+autsheep_01_20221018095030.jpg  DONE! | 0:00:35.541155
+autsheep_01_20221018112104.jpg  DONE! | 0:00:35.980041
+autsheep_01_20221018113818.jpg  DONE! | 0:00:35.973607
+autsheep_01_20221018114610.jpg  DONE! | 0:00:36.024975
+The median number of sheep in these images are:  0
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /root/pytorch/aten/src/ATen/native/TensorShape.cpp:2227.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+FULL FILE COUNT: 223
+Using sublist: ['autsheep_01_20221018120549.jpg', 'autsheep_01_20221018132303.jpg', 'autsheep_01_20221018165908.jpg', 'autsheep_01_20221018152609.jpg', 'autsheep_01_20221018102035.jpg', 'autsheep_01_20221018161833.jpg', 'autsheep_01_20221018123049.jpg', 'autsheep_01_20221018121749.jpg', 'autsheep_01_20221018131347.jpg', 'autsheep_01_20221018102005.jpg', 'autsheep_01_20221018082649.jpg', 'autsheep_01_20221018164947.jpg', 'autsheep_01_20221018105637.jpg', 'autsheep_01_20221018140943.jpg', 'autsheep_01_20221018085655.jpg', 'autsheep_01_20221018104946.jpg', 'autsheep_01_20221018114245.jpg', 'autsheep_01_20221018113628.jpg', 'autsheep_01_20221018104332.jpg', 'autsheep_01_20221018103705.jpg', 'autsheep_01_20221018112335.jpg', 'autsheep_01_20221018112204.jpg', 'autsheep_01_20221018155253.jpg', 'autsheep_01_20221018085016.jpg', 'autsheep_01_20221018114005.jpg', 'autsheep_01_20221018102755.jpg', 'autsheep_01_20221018150137.jpg', 'autsheep_01_20221018113910.jpg', 'autsheep_01_20221018111332.jpg', 'autsheep_01_20221018085852.jpg', 'autsheep_01_20221018123800.jpg', 'autsheep_01_20221018111931.jpg', 'autsheep_01_20221018102440.jpg', 'autsheep_01_20221018142312.jpg', 'autsheep_01_20221018104500.jpg', 'autsheep_01_20221018105328.jpg', 'autsheep_01_20221018115724.jpg', 'autsheep_01_20221018144333.jpg', 'autsheep_01_20221018104109.jpg', 'autsheep_01_20221018112034.jpg', 'autsheep_01_20221018114830.jpg', 'autsheep_01_20221018103534.jpg', 'autsheep_01_20221018133928.jpg', 'autsheep_01_20221018112406.jpg', 'autsheep_01_20221018113140.jpg', 'autsheep_01_20221018111633.jpg', 'autsheep_01_20221018132024.jpg', 'autsheep_01_20221018151054.jpg', 'autsheep_01_20221018155613.jpg', '.listing']
+
+ Processing images.
+autsheep_01_20221018120549.jpg  DONE! | 0:00:36.810977
+autsheep_01_20221018132303.jpg  DONE! | 0:00:36.763383
+autsheep_01_20221018165908.jpg  DONE! | 0:00:36.437946
+autsheep_01_20221018152609.jpg  DONE! | 0:00:36.937849
+autsheep_01_20221018102035.jpg  DONE! | 0:00:36.692672
+autsheep_01_20221018161833.jpg  DONE! | 0:00:36.862616
+autsheep_01_20221018123049.jpg  DONE! | 0:00:36.626716
+autsheep_01_20221018121749.jpg  DONE! | 0:00:36.465216
+autsheep_01_20221018131347.jpg  DONE! | 0:00:37.097250
+autsheep_01_20221018102005.jpg  DONE! | 0:00:36.819610
+autsheep_01_20221018082649.jpg  DONE! | 0:00:38.049091
+autsheep_01_20221018164947.jpg  DONE! | 0:00:36.985594
+autsheep_01_20221018105637.jpg  DONE! | 0:00:36.637069
+autsheep_01_20221018140943.jpg  DONE! | 0:00:36.476964
+autsheep_01_20221018085655.jpg  DONE! | 0:00:36.606964
+autsheep_01_20221018104946.jpg  DONE! | 0:00:36.534500
+autsheep_01_20221018114245.jpg  DONE! | 0:00:36.746165
+autsheep_01_20221018113628.jpg  DONE! | 0:00:36.871449
+autsheep_01_20221018104332.jpg  DONE! | 0:00:37.352723
+autsheep_01_20221018103705.jpg  DONE! | 0:00:36.702158
+autsheep_01_20221018112335.jpg  DONE! | 0:00:37.142345
+autsheep_01_20221018112204.jpg  DONE! | 0:00:36.978925
+autsheep_01_20221018155253.jpg  DONE! | 0:00:36.656642
+autsheep_01_20221018085016.jpg  DONE! | 0:00:36.321797
+autsheep_01_20221018114005.jpg  DONE! | 0:00:36.474003
+autsheep_01_20221018102755.jpg  DONE! | 0:00:36.597479
+autsheep_01_20221018150137.jpg  DONE! | 0:00:36.725417
+autsheep_01_20221018113910.jpg  DONE! | 0:00:36.953508
+autsheep_01_20221018111332.jpg  DONE! | 0:00:36.807729
+autsheep_01_20221018085852.jpg  DONE! | 0:00:36.920016
+autsheep_01_20221018123800.jpg  DONE! | 0:00:37.079117
+autsheep_01_20221018111931.jpg  DONE! | 0:00:36.506724
+autsheep_01_20221018102440.jpg  DONE! | 0:00:36.513223
+autsheep_01_20221018142312.jpg  DONE! | 0:00:37.215115
+autsheep_01_20221018104500.jpg  DONE! | 0:00:36.963006
+autsheep_01_20221018105328.jpg  DONE! | 0:00:36.961302
+autsheep_01_20221018115724.jpg  DONE! | 0:00:36.590708
+autsheep_01_20221018144333.jpg  DONE! | 0:00:36.638642
+autsheep_01_20221018104109.jpg  DONE! | 0:00:36.889646
+autsheep_01_20221018112034.jpg  DONE! | 0:00:37.161257
+autsheep_01_20221018114830.jpg  DONE! | 0:00:36.607480
+autsheep_01_20221018103534.jpg  DONE! | 0:00:37.548990
+autsheep_01_20221018133928.jpg  DONE! | 0:00:37.481147
+autsheep_01_20221018112406.jpg  DONE! | 0:00:37.143307
+autsheep_01_20221018113140.jpg  DONE! | 0:00:37.166500
+autsheep_01_20221018111633.jpg  DONE! | 0:00:37.071721
+autsheep_01_20221018132024.jpg  DONE! | 0:00:37.023185
+autsheep_01_20221018151054.jpg  DONE! | 0:00:37.286149
+autsheep_01_20221018155613.jpg  DONE! | 0:00:37.280030
+The median number of sheep in these images are:  0
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 1
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 1
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+
+/home/kauricone/.local/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 
+  warn(f"Failed to load image Python extension: {e}")
+FULL FILE COUNT: 0
+Processing regular file list (<50 files)
+
+There are no image files...
+

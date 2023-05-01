@@ -1,0 +1,3483 @@
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221007082249.jpg
+autsheep_01_20221007085452.jpg
+autsheep_01_20221007122943.jpg
+autsheep_01_20221007122540.jpg
+autsheep_01_20221007085522.jpg
+autsheep_01_20221007070207.jpg
+autsheep_01_20221007163601.jpg
+autsheep_01_20221007084312.jpg
+autsheep_01_20221007085016.jpg
+autsheep_01_20221007132243.jpg
+autsheep_01_20221007081055.jpg
+autsheep_01_20221007122414.jpg
+autsheep_01_20221007084742.jpg
+autsheep_01_20221007161802.jpg
+autsheep_01_20221007122912.jpg
+autsheep_01_20221007150454.jpg
+autsheep_01_20221007095721.jpg
+autsheep_01_20221007114547.jpg
+autsheep_01_20221007164338.jpg
+autsheep_01_20221007114846.jpg
+autsheep_01_20221007085158.jpg
+autsheep_01_20221007150241.jpg
+autsheep_01_20221007165646.jpg
+autsheep_01_20221007065835.jpg
+autsheep_01_20221007164217.jpg
+autsheep_01_20221007161653.jpg
+autsheep_01_20221007155035.jpg
+autsheep_01_20221007085328.jpg
+autsheep_01_20221007164244.jpg
+autsheep_01_20221007151209.jpg
+autsheep_01_20221007065533.jpg
+autsheep_01_20221007080922.jpg
+autsheep_01_20221007070550.jpg
+autsheep_01_20221007070137.jpg
+autsheep_01_20221007085424.jpg
+autsheep_01_20221007083008.jpg
+autsheep_01_20221007065503.jpg
+autsheep_01_20221007070006.jpg
+autsheep_01_20221007065604.jpg
+autsheep_01_20221007084412.jpg
+autsheep_01_20221007082148.jpg
+autsheep_01_20221007070237.jpg
+autsheep_01_20221007114330.jpg
+autsheep_01_20221007065242.jpg
+autsheep_01_20221007065936.jpg
+autsheep_01_20221007154551.jpg
+autsheep_01_20221007151047.jpg
+autsheep_01_20221007105029.jpg
+autsheep_01_20221007122511.jpg
+autsheep_01_20221007151413.jpg
+autsheep_01_20221007091642.jpg
+autsheep_01_20221007100114.jpg
+autsheep_01_20221007122812.jpg
+autsheep_01_20221007165511.jpg
+.listing
+autsheep_01_20221007150656.jpg
+autsheep_01_20221007151317.jpg
+autsheep_01_20221007122711.jpg
+autsheep_01_20221007165746.jpg
+autsheep_01_20221007164141.jpg
+autsheep_01_20221007084945.jpg
+autsheep_01_20221007082659.jpg
+autsheep_01_20221007162528.jpg
+autsheep_01_20221007064948.jpg
+autsheep_01_20221007065131.jpg
+autsheep_01_20221007065734.jpg
+autsheep_01_20221007094917.jpg
+autsheep_01_20221007165847.jpg
+autsheep_01_20221007122842.jpg
+autsheep_01_20221007070036.jpg
+autsheep_01_20221007163527.jpg
+autsheep_01_20221007095550.jpg
+autsheep_01_20221007082319.jpg
+autsheep_01_20221007082420.jpg
+autsheep_01_20221007095620.jpg
+autsheep_01_20221007163832.jpg
+autsheep_01_20221007165111.jpg
+autsheep_01_20221007083415.jpg
+autsheep_01_20221007090924.jpg
+autsheep_01_20221007065634.jpg
+autsheep_01_20221007095751.jpg
+autsheep_01_20221007112349.jpg
+autsheep_01_20221007165608.jpg
+autsheep_01_20221007070736.jpg
+autsheep_01_20221007163003.jpg
+autsheep_01_20221007070627.jpg
+autsheep_01_20221007065312.jpg
+autsheep_01_20221007161150.jpg
+autsheep_01_20221007070106.jpg
+autsheep_01_20221007165031.jpg
+autsheep_01_20221007165716.jpg
+autsheep_01_20221007165308.jpg
+autsheep_01_20221007151640.jpg
+autsheep_01_20221007122440.jpg
+autsheep_01_20221007081256.jpg
+autsheep_01_20221007084242.jpg
+autsheep_01_20221007080709.jpg
+autsheep_01_20221007094835.jpg
+autsheep_01_20221007073221.jpg
+autsheep_01_20221007114353.jpg
+autsheep_01_20221007084001.jpg
+autsheep_01_20221007084342.jpg
+autsheep_01_20221007122347.jpg
+autsheep_01_20221007090809.jpg
+autsheep_01_20221007085644.jpg
+autsheep_01_20221007065905.jpg
+autsheep_01_20221007084442.jpg
+autsheep_01_20221007065343.jpg
+autsheep_01_20221007065805.jpg
+autsheep_01_20221007162428.jpg
+autsheep_01_20221007150526.jpg
+autsheep_01_20221007100302.jpg
+autsheep_01_20221007083654.jpg
+autsheep_01_20221007070706.jpg
+autsheep_01_20221007065704.jpg
+autsheep_01_20221007151137.jpg
+autsheep_01_20221007082219.jpg
+autsheep_01_20221007161510.jpg
+autsheep_01_20221007162711.jpg
+autsheep_01_20221007081148.jpg
+autsheep_01_20221007151502.jpg
+autsheep_01_20221007122741.jpg
+autsheep_01_20221007083054.jpg
+autsheep_01_20221007122638.jpg
+autsheep_01_20221007084141.jpg
+autsheep_01_20221007155750.jpg
+autsheep_01_20221007082350.jpg
+autsheep_01_20221007065201.jpg
+autsheep_01_20221007064810.jpg
+autsheep_01_20221007064850.jpg
+autsheep_01_20221007095834.jpg
+autsheep_01_20221007122019.jpg
+autsheep_01_20221007090739.jpg
+autsheep_01_20221007083233.jpg
+autsheep_01_20221007150626.jpg
+autsheep_01_20221007065413.jpg
+autsheep_01_20221007080751.jpg
+autsheep_01_20221007083127.jpg
+autsheep_01_20221007150431.jpg
+autsheep_01_20221007091017.jpg
+autsheep_01_20221007081617.jpg
+autsheep_01_20221007154738.jpg
+autsheep_01_20221007161600.jpg
+autsheep_01_20221007162742.jpg
+autsheep_01_20221007095651.jpg
+autsheep_01_20221007090853.jpg
+autsheep_01_20221007084512.jpg
+autsheep_01_20221007110225.jpg
+autsheep_01_20221007124108.jpg
+autsheep_01_20221007165918.jpg
+autsheep_01_20221007162933.jpg
+autsheep_01_20221007084211.jpg
+autsheep_01_20221007070430.jpg
+autsheep_01_20221007082855.jpg
+autsheep_01_20221007160419.jpg
+autsheep_01_20221007165817.jpg
+autsheep_01_20221007155834.jpg
+autsheep_01_20221007150556.jpg
+autsheep_01_20221007161308.jpg
+1/5 [=====>........................] - ETA: 1s5/5 [==============================] - 0s 4ms/step
+[0.9521231055259705, 0.9907186627388, 0.00030473354854620993]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221008124001.jpg
+autsheep_01_20221008082705.jpg
+autsheep_01_20221008085535.jpg
+autsheep_01_20221008122857.jpg
+autsheep_01_20221008092942.jpg
+autsheep_01_20221008065657.jpg
+autsheep_01_20221008084843.jpg
+autsheep_01_20221008092027.jpg
+autsheep_01_20221008070020.jpg
+autsheep_01_20221008092423.jpg
+autsheep_01_20221008092629.jpg
+autsheep_01_20221008083453.jpg
+autsheep_01_20221008071141.jpg
+autsheep_01_20221008092912.jpg
+autsheep_01_20221008092246.jpg
+autsheep_01_20221008084148.jpg
+autsheep_01_20221008105654.jpg
+autsheep_01_20221008065740.jpg
+autsheep_01_20221008085710.jpg
+autsheep_01_20221008071718.jpg
+autsheep_01_20221008083055.jpg
+autsheep_01_20221008072056.jpg
+autsheep_01_20221008083815.jpg
+autsheep_01_20221008071840.jpg
+autsheep_01_20221008093347.jpg
+autsheep_01_20221008114707.jpg
+autsheep_01_20221008083714.jpg
+autsheep_01_20221008084647.jpg
+autsheep_01_20221008070917.jpg
+autsheep_01_20221008141713.jpg
+autsheep_01_20221008085313.jpg
+autsheep_01_20221008114602.jpg
+autsheep_01_20221008085451.jpg
+autsheep_01_20221008084219.jpg
+autsheep_01_20221008121217.jpg
+autsheep_01_20221008082240.jpg
+autsheep_01_20221008084927.jpg
+autsheep_01_20221008071751.jpg
+autsheep_01_20221008070050.jpg
+autsheep_01_20221008093428.jpg
+autsheep_01_20221008082951.jpg
+autsheep_01_20221008082851.jpg
+.listing
+autsheep_01_20221008094727.jpg
+autsheep_01_20221008092528.jpg
+autsheep_01_20221008082308.jpg
+autsheep_01_20221008090347.jpg
+autsheep_01_20221008065849.jpg
+autsheep_01_20221008090005.jpg
+autsheep_01_20221008114741.jpg
+autsheep_01_20221008070415.jpg
+autsheep_01_20221008093043.jpg
+autsheep_01_20221008092558.jpg
+autsheep_01_20221008071328.jpg
+autsheep_01_20221008082534.jpg
+autsheep_01_20221008145736.jpg
+autsheep_01_20221008140232.jpg
+autsheep_01_20221008085142.jpg
+autsheep_01_20221008084805.jpg
+autsheep_01_20221008091942.jpg
+autsheep_01_20221008080327.jpg
+autsheep_01_20221008070120.jpg
+autsheep_01_20221008124402.jpg
+autsheep_01_20221008091912.jpg
+autsheep_01_20221008083125.jpg
+autsheep_01_20221008085416.jpg
+autsheep_01_20221008092458.jpg
+autsheep_01_20221008090502.jpg
+autsheep_01_20221008145607.jpg
+autsheep_01_20221008091717.jpg
+autsheep_01_20221008090536.jpg
+autsheep_01_20221008131907.jpg
+autsheep_01_20221008071912.jpg
+autsheep_01_20221008114456.jpg
+autsheep_01_20221008091336.jpg
+autsheep_01_20221008083613.jpg
+autsheep_01_20221008085344.jpg
+autsheep_01_20221008082810.jpg
+autsheep_01_20221008071942.jpg
+autsheep_01_20221008141558.jpg
+autsheep_01_20221008092058.jpg
+autsheep_01_20221008091418.jpg
+autsheep_01_20221008120618.jpg
+autsheep_01_20221008092700.jpg
+autsheep_01_20221008085741.jpg
+autsheep_01_20221008145658.jpg
+autsheep_01_20221008065819.jpg
+autsheep_01_20221008082342.jpg
+autsheep_01_20221008065919.jpg
+autsheep_01_20221008145518.jpg
+autsheep_01_20221008084426.jpg
+autsheep_01_20221008145813.jpg
+autsheep_01_20221008085243.jpg
+autsheep_01_20221008161916.jpg
+autsheep_01_20221008082634.jpg
+autsheep_01_20221008092357.jpg
+autsheep_01_20221008065949.jpg
+autsheep_01_20221008083845.jpg
+autsheep_01_20221008154135.jpg
+autsheep_01_20221008140748.jpg
+autsheep_01_20221008090222.jpg
+autsheep_01_20221008090852.jpg
+autsheep_01_20221008090252.jpg
+autsheep_01_20221008083750.jpg
+autsheep_01_20221008070201.jpg
+autsheep_01_20221008161632.jpg
+autsheep_01_20221008083024.jpg
+autsheep_01_20221008082921.jpg
+autsheep_01_20221008093452.jpg
+autsheep_01_20221008094215.jpg
+autsheep_01_20221008134136.jpg
+autsheep_01_20221008092128.jpg
+1/4 [======>.......................] - ETA: 1s4/4 [==============================] - 0s 4ms/step
+[0.9471432566642761, 0.9913341403007507, 0.17075464129447937]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221009144816.jpg
+autsheep_01_20221009135701.jpg
+autsheep_01_20221009082216.jpg
+autsheep_01_20221009143704.jpg
+autsheep_01_20221009132641.jpg
+autsheep_01_20221009142442.jpg
+autsheep_01_20221009142512.jpg
+autsheep_01_20221009164617.jpg
+autsheep_01_20221009081652.jpg
+autsheep_01_20221009120415.jpg
+autsheep_01_20221009074435.jpg
+autsheep_01_20221009100432.jpg
+autsheep_01_20221009064136.jpg
+autsheep_01_20221009142211.jpg
+autsheep_01_20221009134746.jpg
+autsheep_01_20221009144430.jpg
+autsheep_01_20221009070737.jpg
+autsheep_01_20221009164757.jpg
+autsheep_01_20221009100402.jpg
+autsheep_01_20221009140541.jpg
+autsheep_01_20221009153910.jpg
+autsheep_01_20221009141930.jpg
+autsheep_01_20221009125216.jpg
+autsheep_01_20221009165238.jpg
+.listing
+autsheep_01_20221009142341.jpg
+autsheep_01_20221009142241.jpg
+autsheep_01_20221009142052.jpg
+autsheep_01_20221009122834.jpg
+autsheep_01_20221009082345.jpg
+autsheep_01_20221009113636.jpg
+autsheep_01_20221009070853.jpg
+autsheep_01_20221009142311.jpg
+autsheep_01_20221009064238.jpg
+autsheep_01_20221009144500.jpg
+autsheep_01_20221009081921.jpg
+autsheep_01_20221009064353.jpg
+autsheep_01_20221009114151.jpg
+autsheep_01_20221009070815.jpg
+autsheep_01_20221009141222.jpg
+autsheep_01_20221009142411.jpg
+autsheep_01_20221009082733.jpg
+autsheep_01_20221009165034.jpg
+autsheep_01_20221009111328.jpg
+autsheep_01_20221009081558.jpg
+autsheep_01_20221009082511.jpg
+autsheep_01_20221009081526.jpg
+autsheep_01_20221009164119.jpg
+autsheep_01_20221009133203.jpg
+autsheep_01_20221009092432.jpg
+autsheep_01_20221009151833.jpg
+autsheep_01_20221009142543.jpg
+autsheep_01_20221009064206.jpg
+autsheep_01_20221009113921.jpg
+autsheep_01_20221009141443.jpg
+autsheep_01_20221009082132.jpg
+autsheep_01_20221009121456.jpg
+autsheep_01_20221009082651.jpg
+autsheep_01_20221009120556.jpg
+autsheep_01_20221009120746.jpg
+autsheep_01_20221009081836.jpg
+autsheep_01_20221009064320.jpg
+autsheep_01_20221009140619.jpg
+autsheep_01_20221009165009.jpg
+autsheep_01_20221009153829.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.9262491464614868, 0.9827708601951599, 0.006568532437086105]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221010142336.jpg
+autsheep_01_20221010115747.jpg
+autsheep_01_20221010072305.jpg
+autsheep_01_20221010072100.jpg
+autsheep_01_20221010091646.jpg
+autsheep_01_20221010102852.jpg
+autsheep_01_20221010070615.jpg
+autsheep_01_20221010123804.jpg
+autsheep_01_20221010164733.jpg
+autsheep_01_20221010091458.jpg
+autsheep_01_20221010072354.jpg
+autsheep_01_20221010070645.jpg
+autsheep_01_20221010091600.jpg
+autsheep_01_20221010160614.jpg
+autsheep_01_20221010120148.jpg
+autsheep_01_20221010072517.jpg
+autsheep_01_20221010083755.jpg
+autsheep_01_20221010121333.jpg
+autsheep_01_20221010121048.jpg
+autsheep_01_20221010140208.jpg
+autsheep_01_20221010142939.jpg
+autsheep_01_20221010104728.jpg
+autsheep_01_20221010081131.jpg
+autsheep_01_20221010065732.jpg
+autsheep_01_20221010071808.jpg
+autsheep_01_20221010085909.jpg
+autsheep_01_20221010071636.jpg
+autsheep_01_20221010123935.jpg
+autsheep_01_20221010124014.jpg
+autsheep_01_20221010102335.jpg
+.listing
+autsheep_01_20221010130408.jpg
+autsheep_01_20221010091816.jpg
+autsheep_01_20221010103855.jpg
+autsheep_01_20221010141849.jpg
+autsheep_01_20221010072020.jpg
+autsheep_01_20221010142604.jpg
+autsheep_01_20221010163914.jpg
+autsheep_01_20221010103559.jpg
+autsheep_01_20221010102658.jpg
+autsheep_01_20221010091530.jpg
+autsheep_01_20221010072437.jpg
+autsheep_01_20221010124238.jpg
+autsheep_01_20221010070851.jpg
+autsheep_01_20221010103933.jpg
+autsheep_01_20221010123734.jpg
+autsheep_01_20221010065701.jpg
+autsheep_01_20221010103528.jpg
+autsheep_01_20221010091903.jpg
+autsheep_01_20221010164702.jpg
+autsheep_01_20221010141626.jpg
+autsheep_01_20221010093056.jpg
+autsheep_01_20221010142742.jpg
+autsheep_01_20221010081056.jpg
+autsheep_01_20221010083603.jpg
+autsheep_01_20221010072327.jpg
+autsheep_01_20221010105514.jpg
+autsheep_01_20221010123905.jpg
+autsheep_01_20221010104511.jpg
+autsheep_01_20221010113218.jpg
+autsheep_01_20221010124044.jpg
+autsheep_01_20221010122825.jpg
+autsheep_01_20221010080951.jpg
+autsheep_01_20221010103731.jpg
+autsheep_01_20221010091353.jpg
+autsheep_01_20221010131952.jpg
+autsheep_01_20221010071736.jpg
+autsheep_01_20221010074814.jpg
+autsheep_01_20221010065832.jpg
+autsheep_01_20221010104306.jpg
+autsheep_01_20221010104011.jpg
+autsheep_01_20221010103344.jpg
+autsheep_01_20221010102540.jpg
+autsheep_01_20221010110442.jpg
+autsheep_01_20221010103700.jpg
+autsheep_01_20221010103801.jpg
+autsheep_01_20221010091218.jpg
+autsheep_01_20221010122745.jpg
+autsheep_01_20221010101948.jpg
+autsheep_01_20221010143019.jpg
+autsheep_01_20221010124114.jpg
+autsheep_01_20221010102730.jpg
+autsheep_01_20221010133442.jpg
+autsheep_01_20221010070820.jpg
+autsheep_01_20221010103630.jpg
+autsheep_01_20221010092031.jpg
+autsheep_01_20221010123835.jpg
+autsheep_01_20221010124208.jpg
+autsheep_01_20221010072132.jpg
+autsheep_01_20221010080916.jpg
+autsheep_01_20221010141524.jpg
+autsheep_01_20221010080846.jpg
+autsheep_01_20221010065802.jpg
+autsheep_01_20221010091423.jpg
+autsheep_01_20221010070735.jpg
+autsheep_01_20221010102408.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 4ms/step
+[0.9440078735351562, 0.9838537573814392, 0.19159792363643646]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221011082047.jpg
+autsheep_01_20221011085119.jpg
+autsheep_01_20221011091054.jpg
+autsheep_01_20221011063933.jpg
+autsheep_01_20221011065053.jpg
+autsheep_01_20221011082215.jpg
+autsheep_01_20221011081824.jpg
+autsheep_01_20221011065455.jpg
+autsheep_01_20221011090845.jpg
+autsheep_01_20221011065315.jpg
+autsheep_01_20221011082332.jpg
+.listing
+autsheep_01_20221011080142.jpg
+autsheep_01_20221011064952.jpg
+autsheep_01_20221011090151.jpg
+autsheep_01_20221011081912.jpg
+autsheep_01_20221011070112.jpg
+autsheep_01_20221011065022.jpg
+autsheep_01_20221011082117.jpg
+autsheep_01_20221011065558.jpg
+autsheep_01_20221011080112.jpg
+autsheep_01_20221011070041.jpg
+autsheep_01_20221011090245.jpg
+autsheep_01_20221011091024.jpg
+autsheep_01_20221011065354.jpg
+autsheep_01_20221011065424.jpg
+autsheep_01_20221011081221.jpg
+autsheep_01_20221011083909.jpg
+autsheep_01_20221011064914.jpg
+autsheep_01_20221011065626.jpg
+autsheep_01_20221011084338.jpg
+autsheep_01_20221011081343.jpg
+autsheep_01_20221011065330.jpg
+autsheep_01_20221011083400.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 4ms/step
+[0.9043334722518921, 0.9903586506843567, 0.21387489140033722]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221011082047.jpg
+autsheep_01_20221011085119.jpg
+autsheep_01_20221011091054.jpg
+autsheep_01_20221011063933.jpg
+autsheep_01_20221011102325.jpg
+autsheep_01_20221011101931.jpg
+autsheep_01_20221011065053.jpg
+autsheep_01_20221011082215.jpg
+autsheep_01_20221011081824.jpg
+autsheep_01_20221011065455.jpg
+autsheep_01_20221011090845.jpg
+autsheep_01_20221011065315.jpg
+autsheep_01_20221011102035.jpg
+autsheep_01_20221011125757.jpg
+autsheep_01_20221011112110.jpg
+autsheep_01_20221011082332.jpg
+.listing
+autsheep_01_20221011080142.jpg
+autsheep_01_20221011064952.jpg
+autsheep_01_20221011090151.jpg
+autsheep_01_20221011081912.jpg
+autsheep_01_20221011070112.jpg
+autsheep_01_20221011065022.jpg
+autsheep_01_20221011082117.jpg
+autsheep_01_20221011065558.jpg
+autsheep_01_20221011080112.jpg
+autsheep_01_20221011114422.jpg
+autsheep_01_20221011070041.jpg
+autsheep_01_20221011090245.jpg
+autsheep_01_20221011112824.jpg
+autsheep_01_20221011091024.jpg
+autsheep_01_20221011065354.jpg
+autsheep_01_20221011101649.jpg
+autsheep_01_20221011103349.jpg
+autsheep_01_20221011065424.jpg
+autsheep_01_20221011081221.jpg
+autsheep_01_20221011083909.jpg
+autsheep_01_20221011113145.jpg
+autsheep_01_20221011064914.jpg
+autsheep_01_20221011065626.jpg
+autsheep_01_20221011084338.jpg
+autsheep_01_20221011081343.jpg
+autsheep_01_20221011065330.jpg
+autsheep_01_20221011083400.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.9007427096366882, 0.9903586506843567, 0.03307410329580307]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221011082047.jpg
+autsheep_01_20221011085119.jpg
+autsheep_01_20221011145506.jpg
+autsheep_01_20221011153551.jpg
+autsheep_01_20221011091054.jpg
+autsheep_01_20221011153853.jpg
+autsheep_01_20221011140624.jpg
+autsheep_01_20221011063933.jpg
+autsheep_01_20221011102325.jpg
+autsheep_01_20221011101931.jpg
+autsheep_01_20221011065053.jpg
+autsheep_01_20221011082215.jpg
+autsheep_01_20221011153249.jpg
+autsheep_01_20221011153622.jpg
+autsheep_01_20221011081824.jpg
+autsheep_01_20221011153723.jpg
+autsheep_01_20221011065455.jpg
+autsheep_01_20221011090845.jpg
+autsheep_01_20221011065315.jpg
+autsheep_01_20221011102035.jpg
+autsheep_01_20221011125757.jpg
+autsheep_01_20221011112110.jpg
+autsheep_01_20221011144301.jpg
+autsheep_01_20221011153823.jpg
+autsheep_01_20221011082332.jpg
+.listing
+autsheep_01_20221011134913.jpg
+autsheep_01_20221011144006.jpg
+autsheep_01_20221011080142.jpg
+autsheep_01_20221011064952.jpg
+autsheep_01_20221011153350.jpg
+autsheep_01_20221011090151.jpg
+autsheep_01_20221011081912.jpg
+autsheep_01_20221011070112.jpg
+autsheep_01_20221011065022.jpg
+autsheep_01_20221011082117.jpg
+autsheep_01_20221011130409.jpg
+autsheep_01_20221011065558.jpg
+autsheep_01_20221011080112.jpg
+autsheep_01_20221011114422.jpg
+autsheep_01_20221011070041.jpg
+autsheep_01_20221011153420.jpg
+autsheep_01_20221011090245.jpg
+autsheep_01_20221011153652.jpg
+autsheep_01_20221011153451.jpg
+autsheep_01_20221011112824.jpg
+autsheep_01_20221011130455.jpg
+autsheep_01_20221011091024.jpg
+autsheep_01_20221011065354.jpg
+autsheep_01_20221011164233.jpg
+autsheep_01_20221011101649.jpg
+autsheep_01_20221011164355.jpg
+autsheep_01_20221011153318.jpg
+autsheep_01_20221011103349.jpg
+autsheep_01_20221011065424.jpg
+autsheep_01_20221011153753.jpg
+autsheep_01_20221011081221.jpg
+autsheep_01_20221011153521.jpg
+autsheep_01_20221011083909.jpg
+autsheep_01_20221011113145.jpg
+autsheep_01_20221011064914.jpg
+autsheep_01_20221011160205.jpg
+autsheep_01_20221011065626.jpg
+autsheep_01_20221011142735.jpg
+autsheep_01_20221011084338.jpg
+autsheep_01_20221011081343.jpg
+autsheep_01_20221011065330.jpg
+autsheep_01_20221011083400.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 4ms/step
+[0.9273606538772583, 0.9903586506843567, 0.03307410329580307]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221012070028.jpg
+autsheep_01_20221012070233.jpg
+autsheep_01_20221012082043.jpg
+autsheep_01_20221012083201.jpg
+autsheep_01_20221012070132.jpg
+autsheep_01_20221012084233.jpg
+autsheep_01_20221012084139.jpg
+autsheep_01_20221012084404.jpg
+autsheep_01_20221012064558.jpg
+autsheep_01_20221012083131.jpg
+autsheep_01_20221012094505.jpg
+autsheep_01_20221012094337.jpg
+autsheep_01_20221012064628.jpg
+autsheep_01_20221012094019.jpg
+autsheep_01_20221012083100.jpg
+autsheep_01_20221012070333.jpg
+autsheep_01_20221012094302.jpg
+autsheep_01_20221012084605.jpg
+autsheep_01_20221012065736.jpg
+autsheep_01_20221012080905.jpg
+autsheep_01_20221012072401.jpg
+autsheep_01_20221012065556.jpg
+autsheep_01_20221012073529.jpg
+autsheep_01_20221012064828.jpg
+.listing
+autsheep_01_20221012083443.jpg
+autsheep_01_20221012093849.jpg
+autsheep_01_20221012070404.jpg
+autsheep_01_20221012065638.jpg
+autsheep_01_20221012072438.jpg
+autsheep_01_20221012070202.jpg
+autsheep_01_20221012080827.jpg
+autsheep_01_20221012072237.jpg
+autsheep_01_20221012065958.jpg
+autsheep_01_20221012070100.jpg
+autsheep_01_20221012080756.jpg
+autsheep_01_20221012070623.jpg
+autsheep_01_20221012070549.jpg
+autsheep_01_20221012072329.jpg
+autsheep_01_20221012092929.jpg
+autsheep_01_20221012065805.jpg
+autsheep_01_20221012072508.jpg
+autsheep_01_20221012081006.jpg
+autsheep_01_20221012094049.jpg
+autsheep_01_20221012064659.jpg
+autsheep_01_20221012075710.jpg
+autsheep_01_20221012064747.jpg
+autsheep_01_20221012094151.jpg
+autsheep_01_20221012094435.jpg
+autsheep_01_20221012065407.jpg
+autsheep_01_20221012070513.jpg
+autsheep_01_20221012084303.jpg
+autsheep_01_20221012094119.jpg
+autsheep_01_20221012080936.jpg
+autsheep_01_20221012083413.jpg
+autsheep_01_20221012094222.jpg
+autsheep_01_20221012072539.jpg
+autsheep_01_20221012070303.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 6ms/step
+[0.921583354473114, 0.9462976455688477, 0.8300448060035706]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221012101938.jpg
+autsheep_01_20221012070028.jpg
+autsheep_01_20221012114230.jpg
+autsheep_01_20221012114355.jpg
+autsheep_01_20221012101252.jpg
+autsheep_01_20221012070233.jpg
+autsheep_01_20221012101020.jpg
+autsheep_01_20221012082043.jpg
+autsheep_01_20221012083201.jpg
+autsheep_01_20221012070132.jpg
+autsheep_01_20221012084233.jpg
+autsheep_01_20221012084139.jpg
+autsheep_01_20221012084404.jpg
+autsheep_01_20221012100552.jpg
+autsheep_01_20221012114802.jpg
+autsheep_01_20221012064558.jpg
+autsheep_01_20221012083131.jpg
+autsheep_01_20221012094505.jpg
+autsheep_01_20221012094337.jpg
+autsheep_01_20221012101211.jpg
+autsheep_01_20221012114429.jpg
+autsheep_01_20221012101433.jpg
+autsheep_01_20221012114529.jpg
+autsheep_01_20221012064628.jpg
+autsheep_01_20221012094019.jpg
+autsheep_01_20221012083100.jpg
+autsheep_01_20221012070333.jpg
+autsheep_01_20221012094302.jpg
+autsheep_01_20221012084605.jpg
+autsheep_01_20221012065736.jpg
+autsheep_01_20221012080905.jpg
+autsheep_01_20221012072401.jpg
+autsheep_01_20221012065556.jpg
+autsheep_01_20221012114702.jpg
+autsheep_01_20221012073529.jpg
+autsheep_01_20221012064828.jpg
+.listing
+autsheep_01_20221012083443.jpg
+autsheep_01_20221012093849.jpg
+autsheep_01_20221012070404.jpg
+autsheep_01_20221012065638.jpg
+autsheep_01_20221012072438.jpg
+autsheep_01_20221012070202.jpg
+autsheep_01_20221012114324.jpg
+autsheep_01_20221012080827.jpg
+autsheep_01_20221012072237.jpg
+autsheep_01_20221012065958.jpg
+autsheep_01_20221012101105.jpg
+autsheep_01_20221012070100.jpg
+autsheep_01_20221012080756.jpg
+autsheep_01_20221012070623.jpg
+autsheep_01_20221012070549.jpg
+autsheep_01_20221012114632.jpg
+autsheep_01_20221012072329.jpg
+autsheep_01_20221012101505.jpg
+autsheep_01_20221012092929.jpg
+autsheep_01_20221012065805.jpg
+autsheep_01_20221012114600.jpg
+autsheep_01_20221012101544.jpg
+autsheep_01_20221012114459.jpg
+autsheep_01_20221012072508.jpg
+autsheep_01_20221012114732.jpg
+autsheep_01_20221012100917.jpg
+autsheep_01_20221012081006.jpg
+autsheep_01_20221012101336.jpg
+autsheep_01_20221012094049.jpg
+autsheep_01_20221012064659.jpg
+autsheep_01_20221012110316.jpg
+autsheep_01_20221012100624.jpg
+autsheep_01_20221012075710.jpg
+autsheep_01_20221012064747.jpg
+autsheep_01_20221012100654.jpg
+autsheep_01_20221012094151.jpg
+autsheep_01_20221012101632.jpg
+autsheep_01_20221012094435.jpg
+autsheep_01_20221012100802.jpg
+autsheep_01_20221012065407.jpg
+autsheep_01_20221012070513.jpg
+autsheep_01_20221012084303.jpg
+autsheep_01_20221012094119.jpg
+autsheep_01_20221012080936.jpg
+autsheep_01_20221012114840.jpg
+autsheep_01_20221012083413.jpg
+autsheep_01_20221012094222.jpg
+autsheep_01_20221012101141.jpg
+autsheep_01_20221012072539.jpg
+autsheep_01_20221012070303.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 5ms/step
+[0.9323598146438599, 0.9748765826225281, 0.8300448060035706]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221012101938.jpg
+autsheep_01_20221012070028.jpg
+autsheep_01_20221012114230.jpg
+autsheep_01_20221012114355.jpg
+autsheep_01_20221012101252.jpg
+autsheep_01_20221012070233.jpg
+autsheep_01_20221012101020.jpg
+autsheep_01_20221012082043.jpg
+autsheep_01_20221012083201.jpg
+autsheep_01_20221012070132.jpg
+autsheep_01_20221012084233.jpg
+autsheep_01_20221012084139.jpg
+autsheep_01_20221012084404.jpg
+autsheep_01_20221012100552.jpg
+autsheep_01_20221012114802.jpg
+autsheep_01_20221012064558.jpg
+autsheep_01_20221012083131.jpg
+autsheep_01_20221012094505.jpg
+autsheep_01_20221012094337.jpg
+autsheep_01_20221012101211.jpg
+autsheep_01_20221012114429.jpg
+autsheep_01_20221012101433.jpg
+autsheep_01_20221012114529.jpg
+autsheep_01_20221012064628.jpg
+autsheep_01_20221012094019.jpg
+autsheep_01_20221012083100.jpg
+autsheep_01_20221012165909.jpg
+autsheep_01_20221012070333.jpg
+autsheep_01_20221012094302.jpg
+autsheep_01_20221012084605.jpg
+autsheep_01_20221012065736.jpg
+autsheep_01_20221012080905.jpg
+autsheep_01_20221012072401.jpg
+autsheep_01_20221012065556.jpg
+autsheep_01_20221012114702.jpg
+autsheep_01_20221012073529.jpg
+autsheep_01_20221012064828.jpg
+.listing
+autsheep_01_20221012083443.jpg
+autsheep_01_20221012093849.jpg
+autsheep_01_20221012070404.jpg
+autsheep_01_20221012065638.jpg
+autsheep_01_20221012072438.jpg
+autsheep_01_20221012070202.jpg
+autsheep_01_20221012114324.jpg
+autsheep_01_20221012080827.jpg
+autsheep_01_20221012072237.jpg
+autsheep_01_20221012065958.jpg
+autsheep_01_20221012101105.jpg
+autsheep_01_20221012070100.jpg
+autsheep_01_20221012080756.jpg
+autsheep_01_20221012070623.jpg
+autsheep_01_20221012070549.jpg
+autsheep_01_20221012114632.jpg
+autsheep_01_20221012072329.jpg
+autsheep_01_20221012101505.jpg
+autsheep_01_20221012092929.jpg
+autsheep_01_20221012065805.jpg
+autsheep_01_20221012114600.jpg
+autsheep_01_20221012101544.jpg
+autsheep_01_20221012114459.jpg
+autsheep_01_20221012072508.jpg
+autsheep_01_20221012114732.jpg
+autsheep_01_20221012100917.jpg
+autsheep_01_20221012081006.jpg
+autsheep_01_20221012101336.jpg
+autsheep_01_20221012094049.jpg
+autsheep_01_20221012064659.jpg
+autsheep_01_20221012110316.jpg
+autsheep_01_20221012100624.jpg
+autsheep_01_20221012075710.jpg
+autsheep_01_20221012064747.jpg
+autsheep_01_20221012100654.jpg
+autsheep_01_20221012094151.jpg
+autsheep_01_20221012101632.jpg
+autsheep_01_20221012094435.jpg
+autsheep_01_20221012100802.jpg
+autsheep_01_20221012065407.jpg
+autsheep_01_20221012070513.jpg
+autsheep_01_20221012084303.jpg
+autsheep_01_20221012094119.jpg
+autsheep_01_20221012080936.jpg
+autsheep_01_20221012114840.jpg
+autsheep_01_20221012083413.jpg
+autsheep_01_20221012094222.jpg
+autsheep_01_20221012101141.jpg
+autsheep_01_20221012072539.jpg
+autsheep_01_20221012070303.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 5ms/step
+[0.9326432347297668, 0.9748765826225281, 0.8300448060035706]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221013072520.jpg
+autsheep_01_20221013094147.jpg
+autsheep_01_20221013081956.jpg
+autsheep_01_20221013081749.jpg
+autsheep_01_20221013063924.jpg
+autsheep_01_20221013065723.jpg
+autsheep_01_20221013082339.jpg
+autsheep_01_20221013073451.jpg
+autsheep_01_20221013081458.jpg
+autsheep_01_20221013064001.jpg
+autsheep_01_20221013093159.jpg
+autsheep_01_20221013072729.jpg
+autsheep_01_20221013063550.jpg
+autsheep_01_20221013081529.jpg
+autsheep_01_20221013082309.jpg
+autsheep_01_20221013095356.jpg
+autsheep_01_20221013095427.jpg
+.listing
+autsheep_01_20221013082409.jpg
+autsheep_01_20221013095659.jpg
+autsheep_01_20221013081559.jpg
+autsheep_01_20221013095458.jpg
+autsheep_01_20221013063627.jpg
+autsheep_01_20221013093312.jpg
+autsheep_01_20221013082440.jpg
+autsheep_01_20221013092011.jpg
+autsheep_01_20221013064518.jpg
+autsheep_01_20221013073609.jpg
+autsheep_01_20221013063658.jpg
+autsheep_01_20221013095326.jpg
+autsheep_01_20221013082028.jpg
+autsheep_01_20221013081629.jpg
+autsheep_01_20221013065309.jpg
+autsheep_01_20221013081828.jpg
+autsheep_01_20221013075558.jpg
+autsheep_01_20221013081119.jpg
+autsheep_01_20221013063854.jpg
+autsheep_01_20221013064448.jpg
+autsheep_01_20221013063751.jpg
+autsheep_01_20221013093654.jpg
+autsheep_01_20221013095249.jpg
+autsheep_01_20221013081428.jpg
+autsheep_01_20221013065339.jpg
+autsheep_01_20221013064418.jpg
+autsheep_01_20221013072350.jpg
+autsheep_01_20221013064211.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.790835976600647, 0.9527662396430969, 0.5268528461456299]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221013072520.jpg
+autsheep_01_20221013094147.jpg
+autsheep_01_20221013081956.jpg
+autsheep_01_20221013081749.jpg
+autsheep_01_20221013063924.jpg
+autsheep_01_20221013065723.jpg
+autsheep_01_20221013082339.jpg
+autsheep_01_20221013073451.jpg
+autsheep_01_20221013081458.jpg
+autsheep_01_20221013064001.jpg
+autsheep_01_20221013093159.jpg
+autsheep_01_20221013072729.jpg
+autsheep_01_20221013063550.jpg
+autsheep_01_20221013081529.jpg
+autsheep_01_20221013082309.jpg
+autsheep_01_20221013095356.jpg
+autsheep_01_20221013095427.jpg
+.listing
+autsheep_01_20221013082409.jpg
+autsheep_01_20221013095659.jpg
+autsheep_01_20221013081559.jpg
+autsheep_01_20221013095458.jpg
+autsheep_01_20221013063627.jpg
+autsheep_01_20221013093312.jpg
+autsheep_01_20221013082440.jpg
+autsheep_01_20221013092011.jpg
+autsheep_01_20221013064518.jpg
+autsheep_01_20221013073609.jpg
+autsheep_01_20221013063658.jpg
+autsheep_01_20221013095326.jpg
+autsheep_01_20221013082028.jpg
+autsheep_01_20221013081629.jpg
+autsheep_01_20221013065309.jpg
+autsheep_01_20221013081828.jpg
+autsheep_01_20221013075558.jpg
+autsheep_01_20221013081119.jpg
+autsheep_01_20221013063854.jpg
+autsheep_01_20221013064448.jpg
+autsheep_01_20221013063751.jpg
+autsheep_01_20221013093654.jpg
+autsheep_01_20221013095249.jpg
+autsheep_01_20221013081428.jpg
+autsheep_01_20221013065339.jpg
+autsheep_01_20221013064418.jpg
+autsheep_01_20221013072350.jpg
+autsheep_01_20221013064211.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.790835976600647, 0.9527662396430969, 0.5268528461456299]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221013072520.jpg
+autsheep_01_20221013094147.jpg
+autsheep_01_20221013081956.jpg
+autsheep_01_20221013145949.jpg
+autsheep_01_20221013081749.jpg
+autsheep_01_20221013063924.jpg
+autsheep_01_20221013065723.jpg
+autsheep_01_20221013082339.jpg
+autsheep_01_20221013073451.jpg
+autsheep_01_20221013081458.jpg
+autsheep_01_20221013064001.jpg
+autsheep_01_20221013093159.jpg
+autsheep_01_20221013072729.jpg
+autsheep_01_20221013063550.jpg
+autsheep_01_20221013081529.jpg
+autsheep_01_20221013082309.jpg
+autsheep_01_20221013095356.jpg
+autsheep_01_20221013095427.jpg
+.listing
+autsheep_01_20221013082409.jpg
+autsheep_01_20221013095659.jpg
+autsheep_01_20221013081559.jpg
+autsheep_01_20221013095458.jpg
+autsheep_01_20221013063627.jpg
+autsheep_01_20221013093312.jpg
+autsheep_01_20221013082440.jpg
+autsheep_01_20221013092011.jpg
+autsheep_01_20221013064518.jpg
+autsheep_01_20221013073609.jpg
+autsheep_01_20221013063658.jpg
+autsheep_01_20221013160717.jpg
+autsheep_01_20221013095326.jpg
+autsheep_01_20221013082028.jpg
+autsheep_01_20221013081629.jpg
+autsheep_01_20221013065309.jpg
+autsheep_01_20221013081828.jpg
+autsheep_01_20221013075558.jpg
+autsheep_01_20221013081119.jpg
+autsheep_01_20221013063854.jpg
+autsheep_01_20221013064448.jpg
+autsheep_01_20221013063751.jpg
+autsheep_01_20221013093654.jpg
+autsheep_01_20221013095249.jpg
+autsheep_01_20221013081428.jpg
+autsheep_01_20221013065339.jpg
+autsheep_01_20221013160505.jpg
+autsheep_01_20221013064418.jpg
+autsheep_01_20221013072350.jpg
+autsheep_01_20221013064211.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.8010644912719727, 0.9639857411384583, 0.5268528461456299]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221014084239.jpg
+autsheep_01_20221014074930.jpg
+autsheep_01_20221014084034.jpg
+autsheep_01_20221014084209.jpg
+autsheep_01_20221014075544.jpg
+autsheep_01_20221014075000.jpg
+autsheep_01_20221014074512.jpg
+autsheep_01_20221014084310.jpg
+autsheep_01_20221014091405.jpg
+autsheep_01_20221014075211.jpg
+autsheep_01_20221014083933.jpg
+autsheep_01_20221014094713.jpg
+autsheep_01_20221014080147.jpg
+autsheep_01_20221014084003.jpg
+autsheep_01_20221014072029.jpg
+autsheep_01_20221014075312.jpg
+autsheep_01_20221014083730.jpg
+autsheep_01_20221014095026.jpg
+autsheep_01_20221014084104.jpg
+autsheep_01_20221014084352.jpg
+autsheep_01_20221014075946.jpg
+autsheep_01_20221014080052.jpg
+autsheep_01_20221014074442.jpg
+autsheep_01_20221014075715.jpg
+autsheep_01_20221014073739.jpg
+autsheep_01_20221014075030.jpg
+autsheep_01_20221014080017.jpg
+.listing
+autsheep_01_20221014082131.jpg
+autsheep_01_20221014074758.jpg
+autsheep_01_20221014075142.jpg
+autsheep_01_20221014075101.jpg
+autsheep_01_20221014073638.jpg
+autsheep_01_20221014094925.jpg
+autsheep_01_20221014072053.jpg
+autsheep_01_20221014075745.jpg
+autsheep_01_20221014083907.jpg
+autsheep_01_20221014075443.jpg
+autsheep_01_20221014074859.jpg
+autsheep_01_20221014075513.jpg
+autsheep_01_20221014091334.jpg
+autsheep_01_20221014075815.jpg
+autsheep_01_20221014073708.jpg
+autsheep_01_20221014074613.jpg
+autsheep_01_20221014094956.jpg
+autsheep_01_20221014091820.jpg
+autsheep_01_20221014073809.jpg
+autsheep_01_20221014091253.jpg
+autsheep_01_20221014094754.jpg
+autsheep_01_20221014075413.jpg
+autsheep_01_20221014073558.jpg
+autsheep_01_20221014092128.jpg
+autsheep_01_20221014074653.jpg
+autsheep_01_20221014091435.jpg
+autsheep_01_20221014074724.jpg
+autsheep_01_20221014084135.jpg
+autsheep_01_20221014083816.jpg
+autsheep_01_20221014075342.jpg
+autsheep_01_20221014094724.jpg
+autsheep_01_20221014075615.jpg
+autsheep_01_20221014094855.jpg
+autsheep_01_20221014074829.jpg
+autsheep_01_20221014073847.jpg
+autsheep_01_20221014091505.jpg
+autsheep_01_20221014091219.jpg
+autsheep_01_20221014075916.jpg
+autsheep_01_20221014074543.jpg
+autsheep_01_20221014075846.jpg
+autsheep_01_20221014074352.jpg
+autsheep_01_20221014073526.jpg
+autsheep_01_20221014075645.jpg
+autsheep_01_20221014094825.jpg
+autsheep_01_20221014075242.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 5ms/step
+[0.9231229424476624, 0.977695643901825, 0.09958820790052414]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221014084239.jpg
+autsheep_01_20221014074930.jpg
+autsheep_01_20221014084034.jpg
+autsheep_01_20221014110837.jpg
+autsheep_01_20221014084209.jpg
+autsheep_01_20221014075544.jpg
+autsheep_01_20221014075000.jpg
+autsheep_01_20221014074512.jpg
+autsheep_01_20221014084310.jpg
+autsheep_01_20221014091405.jpg
+autsheep_01_20221014075211.jpg
+autsheep_01_20221014083933.jpg
+autsheep_01_20221014094713.jpg
+autsheep_01_20221014080147.jpg
+autsheep_01_20221014084003.jpg
+autsheep_01_20221014072029.jpg
+autsheep_01_20221014075312.jpg
+autsheep_01_20221014083730.jpg
+autsheep_01_20221014095026.jpg
+autsheep_01_20221014084104.jpg
+autsheep_01_20221014084352.jpg
+autsheep_01_20221014075946.jpg
+autsheep_01_20221014080052.jpg
+autsheep_01_20221014074442.jpg
+autsheep_01_20221014075715.jpg
+autsheep_01_20221014073739.jpg
+autsheep_01_20221014075030.jpg
+autsheep_01_20221014080017.jpg
+autsheep_01_20221014111415.jpg
+.listing
+autsheep_01_20221014082131.jpg
+autsheep_01_20221014074758.jpg
+autsheep_01_20221014115453.jpg
+autsheep_01_20221014075142.jpg
+autsheep_01_20221014075101.jpg
+autsheep_01_20221014073638.jpg
+autsheep_01_20221014094925.jpg
+autsheep_01_20221014072053.jpg
+autsheep_01_20221014111219.jpg
+autsheep_01_20221014075745.jpg
+autsheep_01_20221014083907.jpg
+autsheep_01_20221014075443.jpg
+autsheep_01_20221014074859.jpg
+autsheep_01_20221014075513.jpg
+autsheep_01_20221014091334.jpg
+autsheep_01_20221014075815.jpg
+autsheep_01_20221014073708.jpg
+autsheep_01_20221014074613.jpg
+autsheep_01_20221014094956.jpg
+autsheep_01_20221014091820.jpg
+autsheep_01_20221014073809.jpg
+autsheep_01_20221014091253.jpg
+autsheep_01_20221014094754.jpg
+autsheep_01_20221014075413.jpg
+autsheep_01_20221014073558.jpg
+autsheep_01_20221014092128.jpg
+autsheep_01_20221014074653.jpg
+autsheep_01_20221014091435.jpg
+autsheep_01_20221014074724.jpg
+autsheep_01_20221014084135.jpg
+autsheep_01_20221014083816.jpg
+autsheep_01_20221014120536.jpg
+autsheep_01_20221014075342.jpg
+autsheep_01_20221014094724.jpg
+autsheep_01_20221014075615.jpg
+autsheep_01_20221014094855.jpg
+autsheep_01_20221014074829.jpg
+autsheep_01_20221014073847.jpg
+autsheep_01_20221014091505.jpg
+autsheep_01_20221014091219.jpg
+autsheep_01_20221014075916.jpg
+autsheep_01_20221014074543.jpg
+autsheep_01_20221014075846.jpg
+autsheep_01_20221014074352.jpg
+autsheep_01_20221014073526.jpg
+autsheep_01_20221014075645.jpg
+autsheep_01_20221014094825.jpg
+autsheep_01_20221014075242.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 5ms/step
+[0.9243271350860596, 0.977695643901825, 0.09958820790052414]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221014164834.jpg
+autsheep_01_20221014084239.jpg
+autsheep_01_20221014074930.jpg
+autsheep_01_20221014154812.jpg
+autsheep_01_20221014163957.jpg
+autsheep_01_20221014084034.jpg
+autsheep_01_20221014110837.jpg
+autsheep_01_20221014084209.jpg
+autsheep_01_20221014163329.jpg
+autsheep_01_20221014075544.jpg
+autsheep_01_20221014075000.jpg
+autsheep_01_20221014074512.jpg
+autsheep_01_20221014084310.jpg
+autsheep_01_20221014133130.jpg
+autsheep_01_20221014091405.jpg
+autsheep_01_20221014075211.jpg
+autsheep_01_20221014083933.jpg
+autsheep_01_20221014094713.jpg
+autsheep_01_20221014080147.jpg
+autsheep_01_20221014084003.jpg
+autsheep_01_20221014072029.jpg
+autsheep_01_20221014075312.jpg
+autsheep_01_20221014083730.jpg
+autsheep_01_20221014095026.jpg
+autsheep_01_20221014084104.jpg
+autsheep_01_20221014084352.jpg
+autsheep_01_20221014075946.jpg
+autsheep_01_20221014080052.jpg
+autsheep_01_20221014074442.jpg
+autsheep_01_20221014075715.jpg
+autsheep_01_20221014161427.jpg
+autsheep_01_20221014073739.jpg
+autsheep_01_20221014075030.jpg
+autsheep_01_20221014080017.jpg
+autsheep_01_20221014111415.jpg
+autsheep_01_20221014154652.jpg
+.listing
+autsheep_01_20221014082131.jpg
+autsheep_01_20221014155711.jpg
+autsheep_01_20221014142555.jpg
+autsheep_01_20221014163619.jpg
+autsheep_01_20221014074758.jpg
+autsheep_01_20221014115453.jpg
+autsheep_01_20221014075142.jpg
+autsheep_01_20221014154953.jpg
+autsheep_01_20221014075101.jpg
+autsheep_01_20221014073638.jpg
+autsheep_01_20221014161040.jpg
+autsheep_01_20221014094925.jpg
+autsheep_01_20221014072053.jpg
+autsheep_01_20221014111219.jpg
+autsheep_01_20221014075745.jpg
+autsheep_01_20221014083907.jpg
+autsheep_01_20221014154425.jpg
+autsheep_01_20221014075443.jpg
+autsheep_01_20221014074859.jpg
+autsheep_01_20221014075513.jpg
+autsheep_01_20221014163348.jpg
+autsheep_01_20221014091334.jpg
+autsheep_01_20221014075815.jpg
+autsheep_01_20221014073708.jpg
+autsheep_01_20221014074613.jpg
+autsheep_01_20221014094956.jpg
+autsheep_01_20221014091820.jpg
+autsheep_01_20221014073809.jpg
+autsheep_01_20221014091253.jpg
+autsheep_01_20221014094754.jpg
+autsheep_01_20221014075413.jpg
+autsheep_01_20221014073558.jpg
+autsheep_01_20221014092128.jpg
+autsheep_01_20221014074653.jpg
+autsheep_01_20221014091435.jpg
+autsheep_01_20221014074724.jpg
+autsheep_01_20221014084135.jpg
+autsheep_01_20221014154704.jpg
+autsheep_01_20221014083816.jpg
+autsheep_01_20221014120536.jpg
+autsheep_01_20221014075342.jpg
+autsheep_01_20221014094724.jpg
+autsheep_01_20221014075615.jpg
+autsheep_01_20221014094855.jpg
+autsheep_01_20221014074829.jpg
+autsheep_01_20221014073847.jpg
+autsheep_01_20221014091505.jpg
+autsheep_01_20221014091219.jpg
+autsheep_01_20221014075916.jpg
+autsheep_01_20221014074543.jpg
+autsheep_01_20221014075846.jpg
+autsheep_01_20221014074352.jpg
+autsheep_01_20221014073526.jpg
+autsheep_01_20221014164953.jpg
+autsheep_01_20221014075645.jpg
+autsheep_01_20221014094825.jpg
+autsheep_01_20221014075242.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 5ms/step
+[0.9191926717758179, 0.977695643901825, 0.06399210542440414]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221015074439.jpg
+autsheep_01_20221015083005.jpg
+autsheep_01_20221015084847.jpg
+autsheep_01_20221015074400.jpg
+autsheep_01_20221015084918.jpg
+autsheep_01_20221015065132.jpg
+autsheep_01_20221015063512.jpg
+autsheep_01_20221015074611.jpg
+autsheep_01_20221015074330.jpg
+autsheep_01_20221015074300.jpg
+autsheep_01_20221015075116.jpg
+autsheep_01_20221015074129.jpg
+autsheep_01_20221015085449.jpg
+.listing
+autsheep_01_20221015074510.jpg
+autsheep_01_20221015074229.jpg
+autsheep_01_20221015074641.jpg
+autsheep_01_20221015065557.jpg
+autsheep_01_20221015084657.jpg
+autsheep_01_20221015075045.jpg
+autsheep_01_20221015063612.jpg
+autsheep_01_20221015074540.jpg
+autsheep_01_20221015082123.jpg
+autsheep_01_20221015065658.jpg
+autsheep_01_20221015074159.jpg
+autsheep_01_20221015074025.jpg
+autsheep_01_20221015074814.jpg
+autsheep_01_20221015083844.jpg
+autsheep_01_20221015085308.jpg
+autsheep_01_20221015085344.jpg
+autsheep_01_20221015085418.jpg
+autsheep_01_20221015065628.jpg
+autsheep_01_20221015074743.jpg
+autsheep_01_20221015074854.jpg
+autsheep_01_20221015074711.jpg
+autsheep_01_20221015082210.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.9711999297142029, 0.986803412437439, 0.9481799006462097]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221015074439.jpg
+autsheep_01_20221015083005.jpg
+autsheep_01_20221015084847.jpg
+autsheep_01_20221015074400.jpg
+autsheep_01_20221015084918.jpg
+autsheep_01_20221015120510.jpg
+autsheep_01_20221015065132.jpg
+autsheep_01_20221015104741.jpg
+autsheep_01_20221015063512.jpg
+autsheep_01_20221015114159.jpg
+autsheep_01_20221015074611.jpg
+autsheep_01_20221015074330.jpg
+autsheep_01_20221015125545.jpg
+autsheep_01_20221015074300.jpg
+autsheep_01_20221015125613.jpg
+autsheep_01_20221015075116.jpg
+autsheep_01_20221015125334.jpg
+autsheep_01_20221015074129.jpg
+autsheep_01_20221015085449.jpg
+autsheep_01_20221015114122.jpg
+.listing
+autsheep_01_20221015074510.jpg
+autsheep_01_20221015074229.jpg
+autsheep_01_20221015074641.jpg
+autsheep_01_20221015125424.jpg
+autsheep_01_20221015065557.jpg
+autsheep_01_20221015084657.jpg
+autsheep_01_20221015075045.jpg
+autsheep_01_20221015063612.jpg
+autsheep_01_20221015074540.jpg
+autsheep_01_20221015082123.jpg
+autsheep_01_20221015065658.jpg
+autsheep_01_20221015074159.jpg
+autsheep_01_20221015074025.jpg
+autsheep_01_20221015074814.jpg
+autsheep_01_20221015083844.jpg
+autsheep_01_20221015085308.jpg
+autsheep_01_20221015101711.jpg
+autsheep_01_20221015085344.jpg
+autsheep_01_20221015085418.jpg
+autsheep_01_20221015065628.jpg
+autsheep_01_20221015074743.jpg
+autsheep_01_20221015074854.jpg
+autsheep_01_20221015074711.jpg
+autsheep_01_20221015082210.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.9728031754493713, 0.9922984838485718, 0.932404637336731]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221015140534.jpg
+autsheep_01_20221015074439.jpg
+autsheep_01_20221015083005.jpg
+autsheep_01_20221015084847.jpg
+autsheep_01_20221015074400.jpg
+autsheep_01_20221015153100.jpg
+autsheep_01_20221015084918.jpg
+autsheep_01_20221015153031.jpg
+autsheep_01_20221015120510.jpg
+autsheep_01_20221015152657.jpg
+autsheep_01_20221015065132.jpg
+autsheep_01_20221015104741.jpg
+autsheep_01_20221015152536.jpg
+autsheep_01_20221015063512.jpg
+autsheep_01_20221015114159.jpg
+autsheep_01_20221015074611.jpg
+autsheep_01_20221015074330.jpg
+autsheep_01_20221015125545.jpg
+autsheep_01_20221015074300.jpg
+autsheep_01_20221015125613.jpg
+autsheep_01_20221015075116.jpg
+autsheep_01_20221015152959.jpg
+autsheep_01_20221015125334.jpg
+autsheep_01_20221015074129.jpg
+autsheep_01_20221015140455.jpg
+autsheep_01_20221015085449.jpg
+autsheep_01_20221015135041.jpg
+autsheep_01_20221015114122.jpg
+.listing
+autsheep_01_20221015074510.jpg
+autsheep_01_20221015154949.jpg
+autsheep_01_20221015074229.jpg
+autsheep_01_20221015155400.jpg
+autsheep_01_20221015152929.jpg
+autsheep_01_20221015074641.jpg
+autsheep_01_20221015125424.jpg
+autsheep_01_20221015135112.jpg
+autsheep_01_20221015065557.jpg
+autsheep_01_20221015084657.jpg
+autsheep_01_20221015164431.jpg
+autsheep_01_20221015152746.jpg
+autsheep_01_20221015075045.jpg
+autsheep_01_20221015152608.jpg
+autsheep_01_20221015153200.jpg
+autsheep_01_20221015140321.jpg
+autsheep_01_20221015163030.jpg
+autsheep_01_20221015063612.jpg
+autsheep_01_20221015074540.jpg
+autsheep_01_20221015082123.jpg
+autsheep_01_20221015065658.jpg
+autsheep_01_20221015074159.jpg
+autsheep_01_20221015074025.jpg
+autsheep_01_20221015074814.jpg
+autsheep_01_20221015153130.jpg
+autsheep_01_20221015152857.jpg
+autsheep_01_20221015150913.jpg
+autsheep_01_20221015164604.jpg
+autsheep_01_20221015134838.jpg
+autsheep_01_20221015135819.jpg
+autsheep_01_20221015083844.jpg
+autsheep_01_20221015085308.jpg
+autsheep_01_20221015161930.jpg
+autsheep_01_20221015101711.jpg
+autsheep_01_20221015085344.jpg
+autsheep_01_20221015134940.jpg
+autsheep_01_20221015163706.jpg
+autsheep_01_20221015153234.jpg
+autsheep_01_20221015085418.jpg
+autsheep_01_20221015134910.jpg
+autsheep_01_20221015065628.jpg
+autsheep_01_20221015074743.jpg
+autsheep_01_20221015074854.jpg
+autsheep_01_20221015140014.jpg
+autsheep_01_20221015135011.jpg
+autsheep_01_20221015163934.jpg
+autsheep_01_20221015140351.jpg
+autsheep_01_20221015074711.jpg
+autsheep_01_20221015163853.jpg
+autsheep_01_20221015082210.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 4ms/step
+[0.973469078540802, 0.9922984838485718, 0.932404637336731]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221016095642.jpg
+autsheep_01_20221016083614.jpg
+autsheep_01_20221016094337.jpg
+autsheep_01_20221016072120.jpg
+autsheep_01_20221016095512.jpg
+autsheep_01_20221016090701.jpg
+autsheep_01_20221016090439.jpg
+autsheep_01_20221016065209.jpg
+autsheep_01_20221016090256.jpg
+autsheep_01_20221016092231.jpg
+autsheep_01_20221016065646.jpg
+autsheep_01_20221016065546.jpg
+autsheep_01_20221016094046.jpg
+autsheep_01_20221016093904.jpg
+autsheep_01_20221016091055.jpg
+autsheep_01_20221016093517.jpg
+autsheep_01_20221016094148.jpg
+autsheep_01_20221016093300.jpg
+autsheep_01_20221016093752.jpg
+autsheep_01_20221016082320.jpg
+autsheep_01_20221016095310.jpg
+autsheep_01_20221016085356.jpg
+autsheep_01_20221016085326.jpg
+autsheep_01_20221016094015.jpg
+autsheep_01_20221016095139.jpg
+autsheep_01_20221016093945.jpg
+autsheep_01_20221016092349.jpg
+autsheep_01_20221016095411.jpg
+autsheep_01_20221016095441.jpg
+autsheep_01_20221016093150.jpg
+autsheep_01_20221016092555.jpg
+autsheep_01_20221016090224.jpg
+autsheep_01_20221016065314.jpg
+.listing
+autsheep_01_20221016065717.jpg
+autsheep_01_20221016092630.jpg
+autsheep_01_20221016095749.jpg
+autsheep_01_20221016065515.jpg
+autsheep_01_20221016084319.jpg
+autsheep_01_20221016072049.jpg
+autsheep_01_20221016092316.jpg
+autsheep_01_20221016082102.jpg
+autsheep_01_20221016092508.jpg
+autsheep_01_20221016064755.jpg
+autsheep_01_20221016070056.jpg
+autsheep_01_20221016083314.jpg
+autsheep_01_20221016064242.jpg
+autsheep_01_20221016091908.jpg
+autsheep_01_20221016091707.jpg
+autsheep_01_20221016094904.jpg
+autsheep_01_20221016084512.jpg
+autsheep_01_20221016065616.jpg
+autsheep_01_20221016084204.jpg
+autsheep_01_20221016092814.jpg
+autsheep_01_20221016084543.jpg
+autsheep_01_20221016070227.jpg
+autsheep_01_20221016070328.jpg
+autsheep_01_20221016092731.jpg
+autsheep_01_20221016084350.jpg
+autsheep_01_20221016091807.jpg
+autsheep_01_20221016095612.jpg
+autsheep_01_20221016075125.jpg
+autsheep_01_20221016094218.jpg
+autsheep_01_20221016072019.jpg
+autsheep_01_20221016070820.jpg
+autsheep_01_20221016083045.jpg
+autsheep_01_20221016091737.jpg
+autsheep_01_20221016070127.jpg
+autsheep_01_20221016070026.jpg
+autsheep_01_20221016065344.jpg
+autsheep_01_20221016072236.jpg
+autsheep_01_20221016065445.jpg
+autsheep_01_20221016065956.jpg
+autsheep_01_20221016070257.jpg
+autsheep_01_20221016070358.jpg
+autsheep_01_20221016092701.jpg
+autsheep_01_20221016070157.jpg
+autsheep_01_20221016095829.jpg
+autsheep_01_20221016095542.jpg
+autsheep_01_20221016083010.jpg
+autsheep_01_20221016095901.jpg
+autsheep_01_20221016091838.jpg
+autsheep_01_20221016095230.jpg
+autsheep_01_20221016065244.jpg
+autsheep_01_20221016092421.jpg
+autsheep_01_20221016072523.jpg
+autsheep_01_20221016071916.jpg
+autsheep_01_20221016095713.jpg
+autsheep_01_20221016085017.jpg
+autsheep_01_20221016093000.jpg
+autsheep_01_20221016065415.jpg
+autsheep_01_20221016095941.jpg
+autsheep_01_20221016095341.jpg
+autsheep_01_20221016085500.jpg
+autsheep_01_20221016085722.jpg
+autsheep_01_20221016094801.jpg
+1/3 [=========>....................] - ETA: 0s3/3 [==============================] - 0s 5ms/step
+[0.9385659694671631, 0.9913787245750427, 0.7202409505844116]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221016105045.jpg
+autsheep_01_20221016105538.jpg
+autsheep_01_20221016095642.jpg
+autsheep_01_20221016111632.jpg
+autsheep_01_20221016083614.jpg
+autsheep_01_20221016103508.jpg
+autsheep_01_20221016094337.jpg
+autsheep_01_20221016072120.jpg
+autsheep_01_20221016115248.jpg
+autsheep_01_20221016113038.jpg
+autsheep_01_20221016101242.jpg
+autsheep_01_20221016095512.jpg
+autsheep_01_20221016090701.jpg
+autsheep_01_20221016111048.jpg
+autsheep_01_20221016110834.jpg
+autsheep_01_20221016090439.jpg
+autsheep_01_20221016065209.jpg
+autsheep_01_20221016102423.jpg
+autsheep_01_20221016112038.jpg
+autsheep_01_20221016090256.jpg
+autsheep_01_20221016120601.jpg
+autsheep_01_20221016121355.jpg
+autsheep_01_20221016092231.jpg
+autsheep_01_20221016065646.jpg
+autsheep_01_20221016065546.jpg
+autsheep_01_20221016094046.jpg
+autsheep_01_20221016093904.jpg
+autsheep_01_20221016091055.jpg
+autsheep_01_20221016093517.jpg
+autsheep_01_20221016094148.jpg
+autsheep_01_20221016110800.jpg
+autsheep_01_20221016101046.jpg
+autsheep_01_20221016100616.jpg
+autsheep_01_20221016093300.jpg
+autsheep_01_20221016111738.jpg
+autsheep_01_20221016124120.jpg
+autsheep_01_20221016115009.jpg
+autsheep_01_20221016123217.jpg
+autsheep_01_20221016102741.jpg
+autsheep_01_20221016093752.jpg
+autsheep_01_20221016082320.jpg
+autsheep_01_20221016111242.jpg
+autsheep_01_20221016095310.jpg
+autsheep_01_20221016085356.jpg
+autsheep_01_20221016125718.jpg
+autsheep_01_20221016085326.jpg
+autsheep_01_20221016094015.jpg
+autsheep_01_20221016125647.jpg
+autsheep_01_20221016120107.jpg
+autsheep_01_20221016124717.jpg
+autsheep_01_20221016101011.jpg
+autsheep_01_20221016121046.jpg
+autsheep_01_20221016105422.jpg
+autsheep_01_20221016113700.jpg
+autsheep_01_20221016095139.jpg
+autsheep_01_20221016093945.jpg
+autsheep_01_20221016124615.jpg
+autsheep_01_20221016101614.jpg
+autsheep_01_20221016101753.jpg
+autsheep_01_20221016114552.jpg
+autsheep_01_20221016124821.jpg
+autsheep_01_20221016092349.jpg
+autsheep_01_20221016102302.jpg
+autsheep_01_20221016095411.jpg
+autsheep_01_20221016100513.jpg
+autsheep_01_20221016102049.jpg
+autsheep_01_20221016105843.jpg
+autsheep_01_20221016095441.jpg
+autsheep_01_20221016093150.jpg
+autsheep_01_20221016111312.jpg
+autsheep_01_20221016103710.jpg
+autsheep_01_20221016114052.jpg
+autsheep_01_20221016092555.jpg
+autsheep_01_20221016124315.jpg
+autsheep_01_20221016120645.jpg
+autsheep_01_20221016090224.jpg
+autsheep_01_20221016123138.jpg
+autsheep_01_20221016112641.jpg
+autsheep_01_20221016065314.jpg
+autsheep_01_20221016103318.jpg
+.listing
+autsheep_01_20221016110420.jpg
+autsheep_01_20221016101153.jpg
+autsheep_01_20221016111415.jpg
+autsheep_01_20221016065717.jpg
+autsheep_01_20221016102556.jpg
+autsheep_01_20221016092630.jpg
+autsheep_01_20221016104319.jpg
+autsheep_01_20221016095749.jpg
+autsheep_01_20221016113849.jpg
+autsheep_01_20221016122614.jpg
+autsheep_01_20221016110131.jpg
+autsheep_01_20221016124931.jpg
+autsheep_01_20221016065515.jpg
+autsheep_01_20221016125411.jpg
+autsheep_01_20221016084319.jpg
+autsheep_01_20221016114314.jpg
+autsheep_01_20221016121311.jpg
+autsheep_01_20221016072049.jpg
+autsheep_01_20221016092316.jpg
+autsheep_01_20221016082102.jpg
+autsheep_01_20221016105325.jpg
+autsheep_01_20221016105243.jpg
+autsheep_01_20221016112357.jpg
+autsheep_01_20221016092508.jpg
+autsheep_01_20221016102858.jpg
+autsheep_01_20221016064755.jpg
+autsheep_01_20221016070056.jpg
+autsheep_01_20221016100015.jpg
+autsheep_01_20221016114934.jpg
+autsheep_01_20221016083314.jpg
+autsheep_01_20221016103016.jpg
+autsheep_01_20221016064242.jpg
+autsheep_01_20221016125007.jpg
+autsheep_01_20221016113244.jpg
+autsheep_01_20221016091908.jpg
+autsheep_01_20221016100901.jpg
+autsheep_01_20221016111949.jpg
+autsheep_01_20221016091707.jpg
+autsheep_01_20221016094904.jpg
+autsheep_01_20221016084512.jpg
+autsheep_01_20221016102019.jpg
+autsheep_01_20221016104109.jpg
+autsheep_01_20221016122846.jpg
+autsheep_01_20221016065616.jpg
+autsheep_01_20221016084204.jpg
+autsheep_01_20221016111118.jpg
+autsheep_01_20221016092814.jpg
+autsheep_01_20221016105000.jpg
+autsheep_01_20221016084543.jpg
+autsheep_01_20221016070227.jpg
+autsheep_01_20221016103855.jpg
+autsheep_01_20221016113327.jpg
+autsheep_01_20221016125933.jpg
+autsheep_01_20221016070328.jpg
+autsheep_01_20221016100418.jpg
+autsheep_01_20221016101944.jpg
+autsheep_01_20221016100814.jpg
+autsheep_01_20221016092731.jpg
+autsheep_01_20221016103548.jpg
+autsheep_01_20221016120836.jpg
+autsheep_01_20221016084350.jpg
+autsheep_01_20221016112433.jpg
+autsheep_01_20221016104545.jpg
+autsheep_01_20221016091807.jpg
+autsheep_01_20221016095612.jpg
+autsheep_01_20221016075125.jpg
+autsheep_01_20221016094218.jpg
+autsheep_01_20221016101419.jpg
+autsheep_01_20221016101313.jpg
+autsheep_01_20221016102627.jpg
+autsheep_01_20221016104901.jpg
+autsheep_01_20221016121441.jpg
+autsheep_01_20221016072019.jpg
+autsheep_01_20221016113811.jpg
+autsheep_01_20221016070820.jpg
+autsheep_01_20221016083045.jpg
+autsheep_01_20221016091737.jpg
+autsheep_01_20221016102815.jpg
+autsheep_01_20221016070127.jpg
+autsheep_01_20221016111016.jpg
+autsheep_01_20221016113406.jpg
+autsheep_01_20221016070026.jpg
+autsheep_01_20221016104451.jpg
+autsheep_01_20221016113108.jpg
+autsheep_01_20221016065344.jpg
+autsheep_01_20221016103948.jpg
+autsheep_01_20221016105748.jpg
+autsheep_01_20221016110531.jpg
+autsheep_01_20221016105621.jpg
+autsheep_01_20221016115657.jpg
+autsheep_01_20221016072236.jpg
+autsheep_01_20221016120229.jpg
+autsheep_01_20221016110931.jpg
+autsheep_01_20221016065445.jpg
+autsheep_01_20221016065956.jpg
+autsheep_01_20221016100930.jpg
+autsheep_01_20221016104224.jpg
+autsheep_01_20221016103623.jpg
+autsheep_01_20221016124504.jpg
+autsheep_01_20221016110037.jpg
+autsheep_01_20221016070257.jpg
+autsheep_01_20221016070358.jpg
+autsheep_01_20221016092701.jpg
+autsheep_01_20221016070157.jpg
+autsheep_01_20221016102230.jpg
+autsheep_01_20221016104726.jpg
+autsheep_01_20221016101527.jpg
+autsheep_01_20221016115921.jpg
+autsheep_01_20221016101826.jpg
+autsheep_01_20221016113530.jpg
+autsheep_01_20221016112738.jpg
+autsheep_01_20221016100149.jpg
+autsheep_01_20221016095829.jpg
+autsheep_01_20221016115540.jpg
+autsheep_01_20221016112238.jpg
+autsheep_01_20221016105943.jpg
+autsheep_01_20221016095542.jpg
+autsheep_01_20221016083010.jpg
+autsheep_01_20221016095901.jpg
+autsheep_01_20221016103403.jpg
+autsheep_01_20221016091838.jpg
+autsheep_01_20221016095230.jpg
+autsheep_01_20221016065244.jpg
+autsheep_01_20221016103433.jpg
+autsheep_01_20221016100045.jpg
+autsheep_01_20221016092421.jpg
+autsheep_01_20221016100744.jpg
+autsheep_01_20221016111554.jpg
+autsheep_01_20221016103744.jpg
+autsheep_01_20221016072523.jpg
+autsheep_01_20221016115356.jpg
+autsheep_01_20221016071916.jpg
+autsheep_01_20221016095713.jpg
+autsheep_01_20221016102339.jpg
+autsheep_01_20221016102708.jpg
+autsheep_01_20221016085017.jpg
+autsheep_01_20221016093000.jpg
+autsheep_01_20221016065415.jpg
+autsheep_01_20221016124426.jpg
+autsheep_01_20221016111809.jpg
+autsheep_01_20221016095941.jpg
+autsheep_01_20221016095341.jpg
+autsheep_01_20221016085500.jpg
+autsheep_01_20221016104026.jpg
+autsheep_01_20221016112533.jpg
+autsheep_01_20221016085722.jpg
+autsheep_01_20221016094801.jpg
+1/8 [==>...........................] - ETA: 2s8/8 [==============================] - 0s 4ms/step
+[0.9603434801101685, 0.9925426244735718, 0.7202409505844116]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221016105045.jpg
+autsheep_01_20221016105538.jpg
+autsheep_01_20221016095642.jpg
+autsheep_01_20221016162339.jpg
+autsheep_01_20221016111632.jpg
+autsheep_01_20221016083614.jpg
+autsheep_01_20221016141849.jpg
+autsheep_01_20221016103508.jpg
+autsheep_01_20221016143340.jpg
+autsheep_01_20221016094337.jpg
+autsheep_01_20221016155957.jpg
+autsheep_01_20221016072120.jpg
+autsheep_01_20221016115248.jpg
+autsheep_01_20221016113038.jpg
+autsheep_01_20221016152159.jpg
+autsheep_01_20221016134025.jpg
+autsheep_01_20221016101242.jpg
+autsheep_01_20221016095512.jpg
+autsheep_01_20221016090701.jpg
+autsheep_01_20221016111048.jpg
+autsheep_01_20221016155646.jpg
+autsheep_01_20221016160726.jpg
+autsheep_01_20221016110834.jpg
+autsheep_01_20221016090439.jpg
+autsheep_01_20221016065209.jpg
+autsheep_01_20221016102423.jpg
+autsheep_01_20221016112038.jpg
+autsheep_01_20221016090256.jpg
+autsheep_01_20221016140048.jpg
+autsheep_01_20221016120601.jpg
+autsheep_01_20221016121355.jpg
+autsheep_01_20221016092231.jpg
+autsheep_01_20221016065646.jpg
+autsheep_01_20221016065546.jpg
+autsheep_01_20221016094046.jpg
+autsheep_01_20221016141252.jpg
+autsheep_01_20221016093904.jpg
+autsheep_01_20221016091055.jpg
+autsheep_01_20221016093517.jpg
+autsheep_01_20221016094148.jpg
+autsheep_01_20221016110800.jpg
+autsheep_01_20221016135802.jpg
+autsheep_01_20221016141611.jpg
+autsheep_01_20221016101046.jpg
+autsheep_01_20221016100616.jpg
+autsheep_01_20221016093300.jpg
+autsheep_01_20221016152817.jpg
+autsheep_01_20221016130008.jpg
+autsheep_01_20221016111738.jpg
+autsheep_01_20221016124120.jpg
+autsheep_01_20221016115009.jpg
+autsheep_01_20221016123217.jpg
+autsheep_01_20221016102741.jpg
+autsheep_01_20221016144803.jpg
+autsheep_01_20221016093752.jpg
+autsheep_01_20221016082320.jpg
+autsheep_01_20221016111242.jpg
+autsheep_01_20221016134951.jpg
+autsheep_01_20221016095310.jpg
+autsheep_01_20221016085356.jpg
+autsheep_01_20221016140854.jpg
+autsheep_01_20221016125718.jpg
+autsheep_01_20221016144346.jpg
+autsheep_01_20221016085326.jpg
+autsheep_01_20221016094015.jpg
+autsheep_01_20221016125647.jpg
+autsheep_01_20221016144206.jpg
+autsheep_01_20221016120107.jpg
+autsheep_01_20221016124717.jpg
+autsheep_01_20221016144425.jpg
+autsheep_01_20221016101011.jpg
+autsheep_01_20221016121046.jpg
+autsheep_01_20221016105422.jpg
+autsheep_01_20221016155926.jpg
+autsheep_01_20221016144456.jpg
+autsheep_01_20221016141954.jpg
+autsheep_01_20221016113700.jpg
+autsheep_01_20221016095139.jpg
+autsheep_01_20221016135833.jpg
+autsheep_01_20221016093945.jpg
+autsheep_01_20221016124615.jpg
+autsheep_01_20221016152747.jpg
+autsheep_01_20221016101614.jpg
+autsheep_01_20221016101753.jpg
+autsheep_01_20221016114552.jpg
+autsheep_01_20221016124821.jpg
+autsheep_01_20221016092349.jpg
+autsheep_01_20221016142831.jpg
+autsheep_01_20221016102302.jpg
+autsheep_01_20221016095411.jpg
+autsheep_01_20221016134802.jpg
+autsheep_01_20221016154022.jpg
+autsheep_01_20221016100513.jpg
+autsheep_01_20221016133651.jpg
+autsheep_01_20221016102049.jpg
+autsheep_01_20221016105843.jpg
+autsheep_01_20221016095441.jpg
+autsheep_01_20221016093150.jpg
+autsheep_01_20221016161608.jpg
+autsheep_01_20221016111312.jpg
+autsheep_01_20221016103710.jpg
+autsheep_01_20221016114052.jpg
+autsheep_01_20221016164120.jpg
+autsheep_01_20221016134846.jpg
+autsheep_01_20221016092555.jpg
+autsheep_01_20221016124315.jpg
+autsheep_01_20221016120645.jpg
+autsheep_01_20221016090224.jpg
+autsheep_01_20221016123138.jpg
+autsheep_01_20221016112641.jpg
+autsheep_01_20221016132601.jpg
+autsheep_01_20221016065314.jpg
+autsheep_01_20221016103318.jpg
+.listing
+autsheep_01_20221016163358.jpg
+autsheep_01_20221016110420.jpg
+autsheep_01_20221016101153.jpg
+autsheep_01_20221016111415.jpg
+autsheep_01_20221016065717.jpg
+autsheep_01_20221016141641.jpg
+autsheep_01_20221016102556.jpg
+autsheep_01_20221016092630.jpg
+autsheep_01_20221016104319.jpg
+autsheep_01_20221016135937.jpg
+autsheep_01_20221016142915.jpg
+autsheep_01_20221016162114.jpg
+autsheep_01_20221016095749.jpg
+autsheep_01_20221016113849.jpg
+autsheep_01_20221016122614.jpg
+autsheep_01_20221016110131.jpg
+autsheep_01_20221016124931.jpg
+autsheep_01_20221016065515.jpg
+autsheep_01_20221016133524.jpg
+autsheep_01_20221016125411.jpg
+autsheep_01_20221016151654.jpg
+autsheep_01_20221016131035.jpg
+autsheep_01_20221016084319.jpg
+autsheep_01_20221016114314.jpg
+autsheep_01_20221016121311.jpg
+autsheep_01_20221016150346.jpg
+autsheep_01_20221016072049.jpg
+autsheep_01_20221016092316.jpg
+autsheep_01_20221016135710.jpg
+autsheep_01_20221016082102.jpg
+autsheep_01_20221016105325.jpg
+autsheep_01_20221016105243.jpg
+autsheep_01_20221016134548.jpg
+autsheep_01_20221016112357.jpg
+autsheep_01_20221016133346.jpg
+autsheep_01_20221016092508.jpg
+autsheep_01_20221016102858.jpg
+autsheep_01_20221016064755.jpg
+autsheep_01_20221016070056.jpg
+autsheep_01_20221016100015.jpg
+autsheep_01_20221016164215.jpg
+autsheep_01_20221016133029.jpg
+autsheep_01_20221016114934.jpg
+autsheep_01_20221016134430.jpg
+autsheep_01_20221016160223.jpg
+autsheep_01_20221016083314.jpg
+autsheep_01_20221016103016.jpg
+autsheep_01_20221016064242.jpg
+autsheep_01_20221016125007.jpg
+autsheep_01_20221016113244.jpg
+autsheep_01_20221016091908.jpg
+autsheep_01_20221016100901.jpg
+autsheep_01_20221016111949.jpg
+autsheep_01_20221016091707.jpg
+autsheep_01_20221016152946.jpg
+autsheep_01_20221016094904.jpg
+autsheep_01_20221016084512.jpg
+autsheep_01_20221016153708.jpg
+autsheep_01_20221016102019.jpg
+autsheep_01_20221016104109.jpg
+autsheep_01_20221016122846.jpg
+autsheep_01_20221016065616.jpg
+autsheep_01_20221016084204.jpg
+autsheep_01_20221016111118.jpg
+autsheep_01_20221016092814.jpg
+autsheep_01_20221016105000.jpg
+autsheep_01_20221016084543.jpg
+autsheep_01_20221016070227.jpg
+autsheep_01_20221016103855.jpg
+autsheep_01_20221016113327.jpg
+autsheep_01_20221016141207.jpg
+autsheep_01_20221016125933.jpg
+autsheep_01_20221016070328.jpg
+autsheep_01_20221016100418.jpg
+autsheep_01_20221016101944.jpg
+autsheep_01_20221016100814.jpg
+autsheep_01_20221016092731.jpg
+autsheep_01_20221016164500.jpg
+autsheep_01_20221016103548.jpg
+autsheep_01_20221016120836.jpg
+autsheep_01_20221016154221.jpg
+autsheep_01_20221016084350.jpg
+autsheep_01_20221016112433.jpg
+autsheep_01_20221016104545.jpg
+autsheep_01_20221016091807.jpg
+autsheep_01_20221016134732.jpg
+autsheep_01_20221016141508.jpg
+autsheep_01_20221016131315.jpg
+autsheep_01_20221016095612.jpg
+autsheep_01_20221016075125.jpg
+autsheep_01_20221016130810.jpg
+autsheep_01_20221016134518.jpg
+autsheep_01_20221016132249.jpg
+autsheep_01_20221016094218.jpg
+autsheep_01_20221016101419.jpg
+autsheep_01_20221016101313.jpg
+autsheep_01_20221016164421.jpg
+autsheep_01_20221016102627.jpg
+autsheep_01_20221016155533.jpg
+autsheep_01_20221016104901.jpg
+autsheep_01_20221016121441.jpg
+autsheep_01_20221016154302.jpg
+autsheep_01_20221016145534.jpg
+autsheep_01_20221016072019.jpg
+autsheep_01_20221016132323.jpg
+autsheep_01_20221016113811.jpg
+autsheep_01_20221016070820.jpg
+autsheep_01_20221016083045.jpg
+autsheep_01_20221016091737.jpg
+autsheep_01_20221016132025.jpg
+autsheep_01_20221016102815.jpg
+autsheep_01_20221016070127.jpg
+autsheep_01_20221016141538.jpg
+autsheep_01_20221016111016.jpg
+autsheep_01_20221016130603.jpg
+autsheep_01_20221016113406.jpg
+autsheep_01_20221016070026.jpg
+autsheep_01_20221016104451.jpg
+autsheep_01_20221016113108.jpg
+autsheep_01_20221016065344.jpg
+autsheep_01_20221016103948.jpg
+autsheep_01_20221016105748.jpg
+autsheep_01_20221016144046.jpg
+autsheep_01_20221016110531.jpg
+autsheep_01_20221016153916.jpg
+autsheep_01_20221016132145.jpg
+autsheep_01_20221016105621.jpg
+autsheep_01_20221016115657.jpg
+autsheep_01_20221016160812.jpg
+autsheep_01_20221016163747.jpg
+autsheep_01_20221016072236.jpg
+autsheep_01_20221016161537.jpg
+autsheep_01_20221016120229.jpg
+autsheep_01_20221016110931.jpg
+autsheep_01_20221016065445.jpg
+autsheep_01_20221016134145.jpg
+autsheep_01_20221016065956.jpg
+autsheep_01_20221016142949.jpg
+autsheep_01_20221016153638.jpg
+autsheep_01_20221016100930.jpg
+autsheep_01_20221016104224.jpg
+autsheep_01_20221016133130.jpg
+autsheep_01_20221016103623.jpg
+autsheep_01_20221016124504.jpg
+autsheep_01_20221016110037.jpg
+autsheep_01_20221016070257.jpg
+autsheep_01_20221016141712.jpg
+autsheep_01_20221016070358.jpg
+autsheep_01_20221016141744.jpg
+autsheep_01_20221016092701.jpg
+autsheep_01_20221016070157.jpg
+autsheep_01_20221016102230.jpg
+autsheep_01_20221016104726.jpg
+autsheep_01_20221016143523.jpg
+autsheep_01_20221016133722.jpg
+autsheep_01_20221016101527.jpg
+autsheep_01_20221016115921.jpg
+autsheep_01_20221016135445.jpg
+autsheep_01_20221016101826.jpg
+autsheep_01_20221016133833.jpg
+autsheep_01_20221016131823.jpg
+autsheep_01_20221016164348.jpg
+autsheep_01_20221016151726.jpg
+autsheep_01_20221016113530.jpg
+autsheep_01_20221016163317.jpg
+autsheep_01_20221016134701.jpg
+autsheep_01_20221016112738.jpg
+autsheep_01_20221016100149.jpg
+autsheep_01_20221016095829.jpg
+autsheep_01_20221016144306.jpg
+autsheep_01_20221016115540.jpg
+autsheep_01_20221016112238.jpg
+autsheep_01_20221016105943.jpg
+autsheep_01_20221016095542.jpg
+autsheep_01_20221016133301.jpg
+autsheep_01_20221016083010.jpg
+autsheep_01_20221016095901.jpg
+autsheep_01_20221016103403.jpg
+autsheep_01_20221016091838.jpg
+autsheep_01_20221016095230.jpg
+autsheep_01_20221016065244.jpg
+autsheep_01_20221016103433.jpg
+autsheep_01_20221016100045.jpg
+autsheep_01_20221016140823.jpg
+autsheep_01_20221016143937.jpg
+autsheep_01_20221016092421.jpg
+autsheep_01_20221016133420.jpg
+autsheep_01_20221016140007.jpg
+autsheep_01_20221016160848.jpg
+autsheep_01_20221016100744.jpg
+autsheep_01_20221016111554.jpg
+autsheep_01_20221016103744.jpg
+autsheep_01_20221016164247.jpg
+autsheep_01_20221016072523.jpg
+autsheep_01_20221016141919.jpg
+autsheep_01_20221016115356.jpg
+autsheep_01_20221016071916.jpg
+autsheep_01_20221016095713.jpg
+autsheep_01_20221016102339.jpg
+autsheep_01_20221016102708.jpg
+autsheep_01_20221016085017.jpg
+autsheep_01_20221016093000.jpg
+autsheep_01_20221016065415.jpg
+autsheep_01_20221016135401.jpg
+autsheep_01_20221016124426.jpg
+autsheep_01_20221016111809.jpg
+autsheep_01_20221016095941.jpg
+autsheep_01_20221016142724.jpg
+autsheep_01_20221016095341.jpg
+autsheep_01_20221016085500.jpg
+autsheep_01_20221016104026.jpg
+autsheep_01_20221016112533.jpg
+autsheep_01_20221016153458.jpg
+autsheep_01_20221016085722.jpg
+autsheep_01_20221016094801.jpg
+ 1/11 [=>............................] - ETA: 3s11/11 [==============================] - 0s 5ms/step
+[0.9656749963760376, 0.9945756196975708, 0.7202409505844116]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221017063824.jpg
+autsheep_01_20221017063753.jpg
+autsheep_01_20221017063339.jpg
+autsheep_01_20221017063445.jpg
+autsheep_01_20221017063309.jpg
+autsheep_01_20221017063201.jpg
+autsheep_01_20221017080744.jpg
+autsheep_01_20221017063414.jpg
+autsheep_01_20221017063101.jpg
+.listing
+autsheep_01_20221017063233.jpg
+autsheep_01_20221017072738.jpg
+autsheep_01_20221017063546.jpg
+autsheep_01_20221017072716.jpg
+autsheep_01_20221017063131.jpg
+autsheep_01_20221017063516.jpg
+autsheep_01_20221017065431.jpg
+autsheep_01_20221017063616.jpg
+autsheep_01_20221017072538.jpg
+autsheep_01_20221017072607.jpg
+autsheep_01_20221017063647.jpg
+autsheep_01_20221017063723.jpg
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 358ms/step
+[0.5889309644699097, 0.9548683166503906, 0.29680487513542175]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221017063824.jpg
+autsheep_01_20221017111933.jpg
+autsheep_01_20221017125618.jpg
+autsheep_01_20221017102227.jpg
+autsheep_01_20221017063753.jpg
+autsheep_01_20221017122033.jpg
+autsheep_01_20221017063339.jpg
+autsheep_01_20221017114338.jpg
+autsheep_01_20221017114438.jpg
+autsheep_01_20221017063445.jpg
+autsheep_01_20221017063309.jpg
+autsheep_01_20221017114841.jpg
+autsheep_01_20221017063201.jpg
+autsheep_01_20221017080744.jpg
+autsheep_01_20221017114609.jpg
+autsheep_01_20221017063414.jpg
+autsheep_01_20221017114206.jpg
+autsheep_01_20221017114509.jpg
+autsheep_01_20221017063101.jpg
+autsheep_01_20221017114911.jpg
+autsheep_01_20221017125655.jpg
+.listing
+autsheep_01_20221017063233.jpg
+autsheep_01_20221017111836.jpg
+autsheep_01_20221017072738.jpg
+autsheep_01_20221017114811.jpg
+autsheep_01_20221017115025.jpg
+autsheep_01_20221017101727.jpg
+autsheep_01_20221017125725.jpg
+autsheep_01_20221017063546.jpg
+autsheep_01_20221017114307.jpg
+autsheep_01_20221017114136.jpg
+autsheep_01_20221017102940.jpg
+autsheep_01_20221017114100.jpg
+autsheep_01_20221017101359.jpg
+autsheep_01_20221017072716.jpg
+autsheep_01_20221017063131.jpg
+autsheep_01_20221017063516.jpg
+autsheep_01_20221017065431.jpg
+autsheep_01_20221017123042.jpg
+autsheep_01_20221017125925.jpg
+autsheep_01_20221017063616.jpg
+autsheep_01_20221017122002.jpg
+autsheep_01_20221017114539.jpg
+autsheep_01_20221017104016.jpg
+autsheep_01_20221017072538.jpg
+autsheep_01_20221017072607.jpg
+autsheep_01_20221017114942.jpg
+autsheep_01_20221017113029.jpg
+autsheep_01_20221017114408.jpg
+autsheep_01_20221017114710.jpg
+autsheep_01_20221017102023.jpg
+autsheep_01_20221017112201.jpg
+autsheep_01_20221017063647.jpg
+autsheep_01_20221017114640.jpg
+autsheep_01_20221017063723.jpg
+autsheep_01_20221017101922.jpg
+autsheep_01_20221017114237.jpg
+autsheep_01_20221017114740.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 5ms/step
+[0.8124143481254578, 0.9881781935691833, 0.0037349944468587637]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+autsheep_01_20221017145423.jpg
+autsheep_01_20221017145554.jpg
+autsheep_01_20221017063824.jpg
+autsheep_01_20221017111933.jpg
+autsheep_01_20221017145151.jpg
+autsheep_01_20221017132728.jpg
+autsheep_01_20221017130404.jpg
+autsheep_01_20221017145114.jpg
+autsheep_01_20221017125618.jpg
+autsheep_01_20221017102227.jpg
+autsheep_01_20221017063753.jpg
+autsheep_01_20221017122033.jpg
+autsheep_01_20221017063339.jpg
+autsheep_01_20221017133726.jpg
+autsheep_01_20221017114338.jpg
+autsheep_01_20221017114438.jpg
+autsheep_01_20221017163808.jpg
+autsheep_01_20221017145856.jpg
+autsheep_01_20221017063445.jpg
+autsheep_01_20221017063309.jpg
+autsheep_01_20221017163857.jpg
+autsheep_01_20221017114841.jpg
+autsheep_01_20221017130201.jpg
+autsheep_01_20221017130042.jpg
+autsheep_01_20221017063201.jpg
+autsheep_01_20221017142359.jpg
+autsheep_01_20221017080744.jpg
+autsheep_01_20221017133917.jpg
+autsheep_01_20221017114609.jpg
+autsheep_01_20221017133103.jpg
+autsheep_01_20221017063414.jpg
+autsheep_01_20221017132831.jpg
+autsheep_01_20221017145755.jpg
+autsheep_01_20221017133234.jpg
+autsheep_01_20221017114206.jpg
+autsheep_01_20221017114509.jpg
+autsheep_01_20221017063101.jpg
+autsheep_01_20221017145524.jpg
+autsheep_01_20221017114911.jpg
+autsheep_01_20221017125655.jpg
+autsheep_01_20221017145309.jpg
+.listing
+autsheep_01_20221017145322.jpg
+autsheep_01_20221017063233.jpg
+autsheep_01_20221017111836.jpg
+autsheep_01_20221017132902.jpg
+autsheep_01_20221017072738.jpg
+autsheep_01_20221017114811.jpg
+autsheep_01_20221017133649.jpg
+autsheep_01_20221017115025.jpg
+autsheep_01_20221017130131.jpg
+autsheep_01_20221017101727.jpg
+autsheep_01_20221017125725.jpg
+autsheep_01_20221017063546.jpg
+autsheep_01_20221017114307.jpg
+autsheep_01_20221017114136.jpg
+autsheep_01_20221017102940.jpg
+autsheep_01_20221017134158.jpg
+autsheep_01_20221017114100.jpg
+autsheep_01_20221017145453.jpg
+autsheep_01_20221017101359.jpg
+autsheep_01_20221017145624.jpg
+autsheep_01_20221017072716.jpg
+autsheep_01_20221017145353.jpg
+autsheep_01_20221017063131.jpg
+autsheep_01_20221017063516.jpg
+autsheep_01_20221017133334.jpg
+autsheep_01_20221017065431.jpg
+autsheep_01_20221017123042.jpg
+autsheep_01_20221017125925.jpg
+autsheep_01_20221017063616.jpg
+autsheep_01_20221017132800.jpg
+autsheep_01_20221017122002.jpg
+autsheep_01_20221017133305.jpg
+autsheep_01_20221017114539.jpg
+autsheep_01_20221017104016.jpg
+autsheep_01_20221017145725.jpg
+autsheep_01_20221017072538.jpg
+autsheep_01_20221017145956.jpg
+autsheep_01_20221017072607.jpg
+autsheep_01_20221017130314.jpg
+autsheep_01_20221017114942.jpg
+autsheep_01_20221017145826.jpg
+autsheep_01_20221017150027.jpg
+autsheep_01_20221017145655.jpg
+autsheep_01_20221017113029.jpg
+autsheep_01_20221017114408.jpg
+autsheep_01_20221017133033.jpg
+autsheep_01_20221017114710.jpg
+autsheep_01_20221017102023.jpg
+autsheep_01_20221017112201.jpg
+autsheep_01_20221017132932.jpg
+autsheep_01_20221017133133.jpg
+autsheep_01_20221017063647.jpg
+autsheep_01_20221017114640.jpg
+autsheep_01_20221017063723.jpg
+autsheep_01_20221017130012.jpg
+autsheep_01_20221017101922.jpg
+autsheep_01_20221017114237.jpg
+autsheep_01_20221017133002.jpg
+autsheep_01_20221017133203.jpg
+autsheep_01_20221017133814.jpg
+autsheep_01_20221017114740.jpg
+1/4 [======>.......................] - ETA: 1s4/4 [==============================] - 0s 5ms/step
+[0.8455694317817688, 0.9881781935691833, 0.0004145926795899868]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221018085016.jpg
+autsheep_01_20221018093832.jpg
+autsheep_01_20221018084222.jpg
+autsheep_01_20221018090043.jpg
+autsheep_01_20221018084112.jpg
+autsheep_01_20221018095100.jpg
+autsheep_01_20221018085655.jpg
+autsheep_01_20221018085603.jpg
+autsheep_01_20221018090845.jpg
+autsheep_01_20221018094348.jpg
+autsheep_01_20221018095030.jpg
+autsheep_01_20221018084041.jpg
+.listing
+autsheep_01_20221018083554.jpg
+autsheep_01_20221018091558.jpg
+autsheep_01_20221018090333.jpg
+autsheep_01_20221018082649.jpg
+autsheep_01_20221018095908.jpg
+autsheep_01_20221018085409.jpg
+autsheep_01_20221018094601.jpg
+autsheep_01_20221018091825.jpg
+autsheep_01_20221018085933.jpg
+autsheep_01_20221018091653.jpg
+autsheep_01_20221018083832.jpg
+autsheep_01_20221018085852.jpg
+autsheep_01_20221018080403.jpg
+autsheep_01_20221018090254.jpg
+autsheep_01_20221018090657.jpg
+autsheep_01_20221018085741.jpg
+autsheep_01_20221018095723.jpg
+autsheep_01_20221018083505.jpg
+autsheep_01_20221018083933.jpg
+autsheep_01_20221018091310.jpg
+autsheep_01_20221018094314.jpg
+autsheep_01_20221018094243.jpg
+autsheep_01_20221018095607.jpg
+autsheep_01_20221018085110.jpg
+1/2 [==============>...............] - ETA: 0s2/2 [==============================] - 0s 4ms/step
+[0.9284316301345825, 0.9877318143844604, 0.5866126418113708]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221018110123.jpg
+autsheep_01_20221018123323.jpg
+autsheep_01_20221018103455.jpg
+autsheep_01_20221018112335.jpg
+autsheep_01_20221018102646.jpg
+autsheep_01_20221018111633.jpg
+autsheep_01_20221018122231.jpg
+autsheep_01_20221018103534.jpg
+autsheep_01_20221018104824.jpg
+autsheep_01_20221018121749.jpg
+autsheep_01_20221018085016.jpg
+autsheep_01_20221018093832.jpg
+autsheep_01_20221018084222.jpg
+autsheep_01_20221018104259.jpg
+autsheep_01_20221018120650.jpg
+autsheep_01_20221018112104.jpg
+autsheep_01_20221018104109.jpg
+autsheep_01_20221018103409.jpg
+autsheep_01_20221018102545.jpg
+autsheep_01_20221018105832.jpg
+autsheep_01_20221018090043.jpg
+autsheep_01_20221018124058.jpg
+autsheep_01_20221018111036.jpg
+autsheep_01_20221018102936.jpg
+autsheep_01_20221018121632.jpg
+autsheep_01_20221018114005.jpg
+autsheep_01_20221018104332.jpg
+autsheep_01_20221018115653.jpg
+autsheep_01_20221018111704.jpg
+autsheep_01_20221018102755.jpg
+autsheep_01_20221018102725.jpg
+autsheep_01_20221018105637.jpg
+autsheep_01_20221018084112.jpg
+autsheep_01_20221018103705.jpg
+autsheep_01_20221018112436.jpg
+autsheep_01_20221018095100.jpg
+autsheep_01_20221018113910.jpg
+autsheep_01_20221018085655.jpg
+autsheep_01_20221018114830.jpg
+autsheep_01_20221018105046.jpg
+autsheep_01_20221018121402.jpg
+autsheep_01_20221018085603.jpg
+autsheep_01_20221018105143.jpg
+autsheep_01_20221018090845.jpg
+autsheep_01_20221018094348.jpg
+autsheep_01_20221018095030.jpg
+autsheep_01_20221018084041.jpg
+autsheep_01_20221018103041.jpg
+.listing
+autsheep_01_20221018121214.jpg
+autsheep_01_20221018124430.jpg
+autsheep_01_20221018102440.jpg
+autsheep_01_20221018123939.jpg
+autsheep_01_20221018105016.jpg
+autsheep_01_20221018111332.jpg
+autsheep_01_20221018115613.jpg
+autsheep_01_20221018114245.jpg
+autsheep_01_20221018114902.jpg
+autsheep_01_20221018120018.jpg
+autsheep_01_20221018125218.jpg
+autsheep_01_20221018112204.jpg
+autsheep_01_20221018105328.jpg
+autsheep_01_20221018115113.jpg
+autsheep_01_20221018112134.jpg
+autsheep_01_20221018083554.jpg
+autsheep_01_20221018091558.jpg
+autsheep_01_20221018090333.jpg
+autsheep_01_20221018082649.jpg
+autsheep_01_20221018121719.jpg
+autsheep_01_20221018103838.jpg
+autsheep_01_20221018095908.jpg
+autsheep_01_20221018111427.jpg
+autsheep_01_20221018112607.jpg
+autsheep_01_20221018102828.jpg
+autsheep_01_20221018115804.jpg
+autsheep_01_20221018112637.jpg
+autsheep_01_20221018085409.jpg
+autsheep_01_20221018111603.jpg
+autsheep_01_20221018120854.jpg
+autsheep_01_20221018102905.jpg
+autsheep_01_20221018113101.jpg
+autsheep_01_20221018094601.jpg
+autsheep_01_20221018091825.jpg
+autsheep_01_20221018123800.jpg
+autsheep_01_20221018104946.jpg
+autsheep_01_20221018102343.jpg
+autsheep_01_20221018114516.jpg
+autsheep_01_20221018112507.jpg
+autsheep_01_20221018085933.jpg
+autsheep_01_20221018112305.jpg
+autsheep_01_20221018091653.jpg
+autsheep_01_20221018112034.jpg
+autsheep_01_20221018083832.jpg
+autsheep_01_20221018085852.jpg
+autsheep_01_20221018080403.jpg
+autsheep_01_20221018090254.jpg
+autsheep_01_20221018105802.jpg
+autsheep_01_20221018112235.jpg
+autsheep_01_20221018104610.jpg
+autsheep_01_20221018113818.jpg
+autsheep_01_20221018114610.jpg
+autsheep_01_20221018102129.jpg
+autsheep_01_20221018090657.jpg
+autsheep_01_20221018085741.jpg
+autsheep_01_20221018095723.jpg
+autsheep_01_20221018121947.jpg
+autsheep_01_20221018111207.jpg
+autsheep_01_20221018113140.jpg
+autsheep_01_20221018115948.jpg
+autsheep_01_20221018120549.jpg
+autsheep_01_20221018105708.jpg
+autsheep_01_20221018083505.jpg
+autsheep_01_20221018115352.jpg
+autsheep_01_20221018123049.jpg
+autsheep_01_20221018115724.jpg
+autsheep_01_20221018105922.jpg
+autsheep_01_20221018114947.jpg
+autsheep_01_20221018124238.jpg
+autsheep_01_20221018122900.jpg
+autsheep_01_20221018124710.jpg
+autsheep_01_20221018112713.jpg
+autsheep_01_20221018104036.jpg
+autsheep_01_20221018113539.jpg
+autsheep_01_20221018105423.jpg
+autsheep_01_20221018112406.jpg
+autsheep_01_20221018083933.jpg
+autsheep_01_20221018102005.jpg
+autsheep_01_20221018112537.jpg
+autsheep_01_20221018120130.jpg
+autsheep_01_20221018091310.jpg
+autsheep_01_20221018110235.jpg
+autsheep_01_20221018124810.jpg
+autsheep_01_20221018103318.jpg
+autsheep_01_20221018094314.jpg
+autsheep_01_20221018110934.jpg
+autsheep_01_20221018104751.jpg
+autsheep_01_20221018094243.jpg
+autsheep_01_20221018111931.jpg
+autsheep_01_20221018095607.jpg
+autsheep_01_20221018113628.jpg
+autsheep_01_20221018112002.jpg
+autsheep_01_20221018104500.jpg
+autsheep_01_20221018085110.jpg
+autsheep_01_20221018103808.jpg
+autsheep_01_20221018123902.jpg
+autsheep_01_20221018102035.jpg
+1/5 [=====>........................] - ETA: 1s5/5 [==============================] - 0s 4ms/step
+[0.8582651019096375, 0.9877318143844604, 0.15017275512218475]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Premature end of JPEG file
+autsheep_01_20221018110123.jpg
+autsheep_01_20221018141502.jpg
+autsheep_01_20221018123323.jpg
+autsheep_01_20221018132303.jpg
+autsheep_01_20221018133928.jpg
+autsheep_01_20221018103455.jpg
+autsheep_01_20221018112335.jpg
+autsheep_01_20221018102646.jpg
+autsheep_01_20221018111633.jpg
+autsheep_01_20221018122231.jpg
+autsheep_01_20221018103534.jpg
+autsheep_01_20221018130043.jpg
+autsheep_01_20221018104824.jpg
+autsheep_01_20221018121749.jpg
+autsheep_01_20221018155613.jpg
+autsheep_01_20221018151054.jpg
+autsheep_01_20221018131628.jpg
+autsheep_01_20221018144333.jpg
+autsheep_01_20221018145629.jpg
+autsheep_01_20221018085016.jpg
+autsheep_01_20221018093832.jpg
+autsheep_01_20221018084222.jpg
+autsheep_01_20221018104259.jpg
+autsheep_01_20221018120650.jpg
+autsheep_01_20221018112104.jpg
+autsheep_01_20221018154959.jpg
+autsheep_01_20221018132735.jpg
+autsheep_01_20221018104109.jpg
+autsheep_01_20221018132703.jpg
+autsheep_01_20221018103409.jpg
+autsheep_01_20221018102545.jpg
+autsheep_01_20221018150537.jpg
+autsheep_01_20221018105832.jpg
+autsheep_01_20221018090043.jpg
+autsheep_01_20221018155029.jpg
+autsheep_01_20221018124058.jpg
+autsheep_01_20221018111036.jpg
+autsheep_01_20221018102936.jpg
+autsheep_01_20221018121632.jpg
+autsheep_01_20221018114005.jpg
+autsheep_01_20221018104332.jpg
+autsheep_01_20221018150735.jpg
+autsheep_01_20221018165938.jpg
+autsheep_01_20221018115653.jpg
+autsheep_01_20221018111704.jpg
+autsheep_01_20221018155253.jpg
+autsheep_01_20221018102755.jpg
+autsheep_01_20221018102725.jpg
+autsheep_01_20221018105637.jpg
+autsheep_01_20221018141956.jpg
+autsheep_01_20221018140600.jpg
+autsheep_01_20221018084112.jpg
+autsheep_01_20221018103705.jpg
+autsheep_01_20221018112436.jpg
+autsheep_01_20221018095100.jpg
+autsheep_01_20221018113910.jpg
+autsheep_01_20221018085655.jpg
+autsheep_01_20221018114830.jpg
+autsheep_01_20221018165908.jpg
+autsheep_01_20221018105046.jpg
+autsheep_01_20221018121402.jpg
+autsheep_01_20221018130246.jpg
+autsheep_01_20221018155223.jpg
+autsheep_01_20221018085603.jpg
+autsheep_01_20221018131901.jpg
+autsheep_01_20221018105143.jpg
+autsheep_01_20221018160443.jpg
+autsheep_01_20221018090845.jpg
+autsheep_01_20221018094348.jpg
+autsheep_01_20221018134648.jpg
+autsheep_01_20221018095030.jpg
+autsheep_01_20221018084041.jpg
+autsheep_01_20221018103041.jpg
+autsheep_01_20221018130710.jpg
+.listing
+autsheep_01_20221018121214.jpg
+autsheep_01_20221018124430.jpg
+autsheep_01_20221018154728.jpg
+autsheep_01_20221018151140.jpg
+autsheep_01_20221018102440.jpg
+autsheep_01_20221018123939.jpg
+autsheep_01_20221018105016.jpg
+autsheep_01_20221018111332.jpg
+autsheep_01_20221018115613.jpg
+autsheep_01_20221018140655.jpg
+autsheep_01_20221018142126.jpg
+autsheep_01_20221018150137.jpg
+autsheep_01_20221018114245.jpg
+autsheep_01_20221018132024.jpg
+autsheep_01_20221018144839.jpg
+autsheep_01_20221018150417.jpg
+autsheep_01_20221018114902.jpg
+autsheep_01_20221018135012.jpg
+autsheep_01_20221018120018.jpg
+autsheep_01_20221018125218.jpg
+autsheep_01_20221018150457.jpg
+autsheep_01_20221018112204.jpg
+autsheep_01_20221018105328.jpg
+autsheep_01_20221018115113.jpg
+autsheep_01_20221018131347.jpg
+autsheep_01_20221018112134.jpg
+autsheep_01_20221018144648.jpg
+autsheep_01_20221018083554.jpg
+autsheep_01_20221018091558.jpg
+autsheep_01_20221018134243.jpg
+autsheep_01_20221018090333.jpg
+autsheep_01_20221018082649.jpg
+autsheep_01_20221018121719.jpg
+autsheep_01_20221018103838.jpg
+autsheep_01_20221018144728.jpg
+autsheep_01_20221018135743.jpg
+autsheep_01_20221018095908.jpg
+autsheep_01_20221018111427.jpg
+autsheep_01_20221018134051.jpg
+autsheep_01_20221018112607.jpg
+autsheep_01_20221018102828.jpg
+autsheep_01_20221018115804.jpg
+autsheep_01_20221018112637.jpg
+autsheep_01_20221018085409.jpg
+autsheep_01_20221018111603.jpg
+autsheep_01_20221018120854.jpg
+autsheep_01_20221018102905.jpg
+autsheep_01_20221018113101.jpg
+autsheep_01_20221018094601.jpg
+autsheep_01_20221018091825.jpg
+autsheep_01_20221018133635.jpg
+autsheep_01_20221018123800.jpg
+autsheep_01_20221018134507.jpg
+autsheep_01_20221018104946.jpg
+autsheep_01_20221018102343.jpg
+autsheep_01_20221018114516.jpg
+autsheep_01_20221018161833.jpg
+autsheep_01_20221018112507.jpg
+autsheep_01_20221018133543.jpg
+autsheep_01_20221018143127.jpg
+autsheep_01_20221018085933.jpg
+autsheep_01_20221018112305.jpg
+autsheep_01_20221018130358.jpg
+autsheep_01_20221018091653.jpg
+autsheep_01_20221018145223.jpg
+autsheep_01_20221018112034.jpg
+autsheep_01_20221018083832.jpg
+autsheep_01_20221018085852.jpg
+autsheep_01_20221018130328.jpg
+autsheep_01_20221018080403.jpg
+autsheep_01_20221018090254.jpg
+autsheep_01_20221018105802.jpg
+autsheep_01_20221018112235.jpg
+autsheep_01_20221018104610.jpg
+autsheep_01_20221018154427.jpg
+autsheep_01_20221018113818.jpg
+autsheep_01_20221018114610.jpg
+autsheep_01_20221018141401.jpg
+autsheep_01_20221018102129.jpg
+autsheep_01_20221018090657.jpg
+autsheep_01_20221018142312.jpg
+autsheep_01_20221018085741.jpg
+autsheep_01_20221018095723.jpg
+autsheep_01_20221018121947.jpg
+autsheep_01_20221018132343.jpg
+autsheep_01_20221018111207.jpg
+autsheep_01_20221018113140.jpg
+autsheep_01_20221018154801.jpg
+autsheep_01_20221018115948.jpg
+autsheep_01_20221018120549.jpg
+autsheep_01_20221018162234.jpg
+autsheep_01_20221018130209.jpg
+autsheep_01_20221018105708.jpg
+autsheep_01_20221018083505.jpg
+autsheep_01_20221018115352.jpg
+autsheep_01_20221018123049.jpg
+autsheep_01_20221018145253.jpg
+autsheep_01_20221018141650.jpg
+autsheep_01_20221018115724.jpg
+autsheep_01_20221018164947.jpg
+autsheep_01_20221018105922.jpg
+autsheep_01_20221018114947.jpg
+autsheep_01_20221018124238.jpg
+autsheep_01_20221018133724.jpg
+autsheep_01_20221018122900.jpg
+autsheep_01_20221018124710.jpg
+autsheep_01_20221018154137.jpg
+autsheep_01_20221018134725.jpg
+autsheep_01_20221018141231.jpg
+autsheep_01_20221018140743.jpg
+autsheep_01_20221018112713.jpg
+autsheep_01_20221018154152.jpg
+autsheep_01_20221018151618.jpg
+autsheep_01_20221018104036.jpg
+autsheep_01_20221018113539.jpg
+autsheep_01_20221018154702.jpg
+autsheep_01_20221018131303.jpg
+autsheep_01_20221018105423.jpg
+autsheep_01_20221018112406.jpg
+autsheep_01_20221018083933.jpg
+autsheep_01_20221018102005.jpg
+autsheep_01_20221018112537.jpg
+autsheep_01_20221018144804.jpg
+autsheep_01_20221018155407.jpg
+autsheep_01_20221018165107.jpg
+autsheep_01_20221018120130.jpg
+autsheep_01_20221018091310.jpg
+autsheep_01_20221018110235.jpg
+autsheep_01_20221018124810.jpg
+autsheep_01_20221018103318.jpg
+autsheep_01_20221018094314.jpg
+autsheep_01_20221018110934.jpg
+autsheep_01_20221018104751.jpg
+autsheep_01_20221018094243.jpg
+autsheep_01_20221018111931.jpg
+autsheep_01_20221018095607.jpg
+autsheep_01_20221018113628.jpg
+autsheep_01_20221018164342.jpg
+autsheep_01_20221018131213.jpg
+autsheep_01_20221018152609.jpg
+autsheep_01_20221018112002.jpg
+autsheep_01_20221018104500.jpg
+autsheep_01_20221018140943.jpg
+autsheep_01_20221018085110.jpg
+autsheep_01_20221018103808.jpg
+autsheep_01_20221018123902.jpg
+autsheep_01_20221018134017.jpg
+autsheep_01_20221018102035.jpg
+1/7 [===>..........................] - ETA: 3s7/7 [==============================] - 1s 5ms/step
+[0.8868265151977539, 0.9877318143844604, 0.15017275512218475]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221021064645.jpg
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 639ms/step
+[0.8836024403572083, 0.8836024403572083, 0.8836024403572083]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+autsheep_01_20221021064645.jpg
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 359ms/step
+[0.8836024403572083, 0.8836024403572083, 0.8836024403572083]
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+caused by: ["[Errno 2] The file to load file system plugin from does not exist.: '/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so'"]
+  warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+caused by: ['/home/kauricone/.local/lib/python3.9/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: cannot open shared object file: No such file or directory']
+  warnings.warn(f"file system plugins are not loaded: {e}")
+Traceback (most recent call last):
+  File "/home/kauricone/TeamSheep/GrassDetection/code/dry_matter_detection.py", line 43, in <module>
+    y_pred = model.predict(images)
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/kauricone/.local/lib/python3.9/site-packages/keras/engine/data_adapter.py", line 259, in __init__
+    num_samples = set(
+KeyError: 'pop from an empty set'
